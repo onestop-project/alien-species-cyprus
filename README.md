@@ -1,4 +1,4 @@
-# Checklist of introduced and invasive species in Cyprus
+# Checklist of introduced taxa in Cyprus
 
 ## Rationale
 
