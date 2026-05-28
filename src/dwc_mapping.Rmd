@@ -1,9 +1,8 @@
 ---
 title: "Darwin Core mapping"
-subtitle: "For: my_dataset_title"
+subtitle: "For: alien-cyprus-checklist"
 author:
-- author_1
-- author_2
+- Lien Reyserhove
 date: "`r Sys.Date()`"
 output:
   html_document:
@@ -43,18 +42,18 @@ library(rgbif)          # To use GBIF services
 
 # Read source data
 
-The data is maintained in [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1LeXXbry2ArK2rngsmFjz_xErwE1KwQ8ujtvHNmTVA6E/edit#gid=0).
+The data is maintained in [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1xN4xmYDG-vdggcT8arDlQrlrgqlxFvNBYS5P1kVhwFY/edit?gid=818849950#gid=818849950).
 
 Read the relevant worksheet (published as csv):
 
 ```{r read_source_data}
-raw_data <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vS4lRo5BCtdjV_Razg38YvWZvJB73pT8GGCVzYRDAdjAF-rceym3dR-x50e_AtXehKqg9Q_hS4oWWT7/pub?gid=818849950&single=true&output=csv", show_col_types = FALSE)
+raw_data <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vRS3d36CUEVj1G7WQYpyRGHqfcqCeJ9Eg9gR9WQFX_4ihViWq2xCKqEX3lmLSP2gDaNx74_wllBItQ0/pub?gid=818849950&single=true&output=csv", show_col_types = FALSE)
 ```
 
 Copy the source data to the repository to keep track of changes:
 
 ```{r}
-write_csv(raw_data, here("data", "raw", "raw_data.csv"), na = "")
+write_csv(raw_data, here("data", "raw", "raw_data_dump.csv"), na = "")
 ```
 
 Preview data: 
@@ -75,27 +74,6 @@ input_data <-
   remove_empty("rows") |>
   clean_names()
 ```
-
-## Scientific names
-
-Use the [GBIF nameparser](https://www.gbif.org/tools/name-parser) to retrieve nomenclatural information for the scientific names in the checklist:
-
-```{r}
-parsed_names <-
-  input_data |>
-  distinct(scientific_name) |>
-  pull() |> # Create vector from dataframe
-  parsenames() # An rgbif function
-```
-
-Show scientific names with nomenclatural issues, i.e. not of `type = SCIENTIFIC` or that could not be fully parsed. Note: these are not necessarily incorrect.
-
-```{r}
-parsed_names |>
-  select(scientificname, type, parsed, parsedpartially, rankmarker) |>
-  filter(!(type == "SCIENTIFIC" & parsed == "TRUE" & parsedpartially == "FALSE"))
-```
-
 
 ## Taxon IDs
 
@@ -133,15 +111,6 @@ input_data <-
       sep = ":"
     ))
 ```
-
-## Save raw data with taxonID hashes
-
-Save the source data to the repository to keep track of changes:
-
-```{r}
-write_csv(raw_data, here("data", "raw", "raw_data"), na = "")
-```
-
 # Taxon core
 
 ## Term mapping
@@ -157,13 +126,12 @@ taxon <-
   input_data |>
   distinct(taxon_id, .keep_all = TRUE) |>
   mutate(
-    language = "my_language", # e.g. "en"
-    license = "my_license", # e.g. "http://creativecommons.org/publicdomain/zero/1.0/"
-    rightsHolder = "my_rights_holder", # e.g. "INBO"
-    datasetID = "my_dataset_doi", # e.g. "https://doi.org/10.15468/xvuzfh"
-    institutionCode = "my_institution_code", # e.g. "INBO"
-    datasetName = "my_dataset_title", # e.g. "Checklist of non-native freshwater fishes in Flanders, Belgium"
-  )
+    language = "en",
+    license = "http://creativecommons.org/publicdomain/zero/1.0/",
+    rightsHolder = "the Cyprus Institute", 
+    datasetID = "",
+    institutionCode = "CI",
+    datasetName = "Checklist of introduced taxa in Cyprus")
 ```
 
 ### Taxon-level terms
