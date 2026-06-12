@@ -10,8 +10,8 @@ This repository contains the functionality to standardize the data of the Checkl
 
 ## Published dataset
 
-* [Dataset on the IPT](<!-- Add the URL of the dataset on the IPT here -->)
-* [Dataset on GBIF](<!-- Add the DOI of the dataset on GBIF here -->)
+* [Dataset on the IPT](https://cloud.gbif.org/eca/resource?r=alien-species-cyprus)
+* [Dataset on GBIF](https://doi.org/10.15468/mucze2)
 
 ## Repo structure
 
