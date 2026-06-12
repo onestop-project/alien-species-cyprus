@@ -42,7 +42,7 @@ The repository structure is based on [Cookiecutter Data Science](http://drivenda
 
 ## Contributors
 
-[List of contributors](<!-- Add the URL to the GitHub contributors of your repository here, e.g. https://github.com/trias-project/checklist-recipe/contributors -->)
+[List of contributors](https://github.com/onestop-project/alien-species-cyprus/contributors)
 
 ## License
 
