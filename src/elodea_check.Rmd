@@ -1,0 +1,80 @@
+---
+title: "Run elodea check"
+subtitle: "For: alien-cyprus-checklist"
+author:
+- Lien Reyserhove
+- Sanne Govaert
+date: "`r Sys.Date()`"
+output:
+  html_document:
+  df_print: paged
+number_sections: yes
+toc: yes
+toc_depth: 3
+toc_float: yes
+---
+  
+
+# Setup 
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = TRUE)
+```
+
+Install required packages:
+
+```{r}
+pak::pak("onestop-project/elodea")
+```
+
+Load libraries:
+
+```{r message = FALSE}
+library(tidyverse)      # To do data science
+library(elodea)         # To use elodea
+library(here)
+```
+
+# Retrieve source data
+
+With elodea you can get the taxonomic and distribution information of a published GBIF checklist.
+
+Here we get the source taxa and distributions from the [Checklist of introduced taxa in Cyprus](https://www.gbif.org/dataset/40344688-4ac9-41c0-abdc-ad4556a76dc0)
+
+```{r}
+datasetKey <- "40344688-4ac9-41c0-abdc-ad4556a76dc0"
+
+
+taxa <- get_taxa(datasetKey)
+distributions <- get_distributions(datasetKey)
+```
+
+We then filter both taxa and distributions with filter_data(), which returns a list with three data frames: taxa, distributions and notes
+
+```{r}
+filtered_taxa <- filter_data(taxa, distributions)
+```
+
+Save these files as dataframes:
+
+```{r}
+taxa <- filtered_taxa$taxa
+distributions <- filtered_taxa$distributions
+notes <- filtered_taxa$notes
+```
+
+Extract unique observations in notes:
+
+```{r}
+notes <- notes %>% distinct()
+```
+
+# Save to CSV:
+
+```{r}
+write_csv(taxa, here("data", "elodea", "taxa.csv"), na = "")
+write_csv(distributions, here("data", "elodea", "distributions.csv"), na = "")
+write_csv(notes, here("data", "elodea", "notes.csv"), na = "")
+```
+
+
