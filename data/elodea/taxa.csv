@@ -1,0 +1,1465 @@
+taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
+323327892,3226201,alien_species_cyprus:taxon:91ab716ae7c2a908eba0b1b084c87f50,"Spiroplasma citri Saglio et al., 1973",Bacteria,SPECIES
+323327896,5188667,alien_species_cyprus:taxon:776cf676f1e5e919a9480a89e8da61d9,"Globodera rostochiensis (Wollenweber, 1923) Skarbilovich, 1959",Animalia,SPECIES
+323327900,7025501,alien_species_cyprus:taxon:d2077d057d7cf438cd3867dd9dcf2896,"Heterodera latipons Franklin, 1969",Animalia,SPECIES
+323327905,3222012,alien_species_cyprus:taxon:141b284aae5b3b867a1b0115ddbfdd05,"Erwinia amylovora (Burrill, 1882) Winslow et al., 1920",Bacteria,SPECIES
+323327908,2284095,alien_species_cyprus:taxon:8012245e6b779679864dd26e616004b8,"Helicotylenchus multicinctus (Cobb, 1893) Golden, 1956",Animalia,SPECIES
+323327913,4556347,alien_species_cyprus:taxon:d7da6d5f65d7e60c616bf61139dae719,"Pratylenchus penetrans (Cobb, 1917) Filipjev & Schuurmans Stekhoven, 1941",Animalia,SPECIES
+323327915,8900922,alien_species_cyprus:taxon:6606100eed3bfe8ea452cd17bb680fb7,"Xanthomonas axonopodis Starr & Garces, 1950",Bacteria,SPECIES
+323327918,4556372,alien_species_cyprus:taxon:ee950ba665461517fd02f478a0b002d6,"Rotylenchulus parvus Williams, 1960",Animalia,SPECIES
+5188665,5188665,alien_species_cyprus:taxon:12039dfbb0c16becb3aa8c84168fa1a8,"Globodera pallida Stone, 1973",Animalia,SPECIES
+3220735,5427485,alien_species_cyprus:taxon:adb18462984196958770503f1d7f7fff,"Agrobacterium radiobacter (Beijerinck & van Delden, 1902) Conn, 1942",Bacteria,SPECIES
+323327929,4556287,alien_species_cyprus:taxon:c5c104a2fb49854b5a7c35164d7091f7,"Meloidogyne javanica (Treub, 1885) Chitwood, 1949",Animalia,SPECIES
+323327931,4556282,alien_species_cyprus:taxon:fc5f315e6f17136a83673dabe2ae8a0e,"Meloidogyne incognita (Kofoid & White, 1919) Chitwood, 1949",Animalia,SPECIES
+323327934,2283982,alien_species_cyprus:taxon:a5621ad5f4d6699afaedca084e70502e,"Meloidogyne hapla Chitwood, 1949",Animalia,SPECIES
+323327939,3225259,alien_species_cyprus:taxon:654e49feb089b5dbe78b88e72e7bd7fd,"Rathayibacter tritici (Carlson & Vidaver, 1982) Zgurskaya et al., 1993",Bacteria,SPECIES
+323327940,2284191,alien_species_cyprus:taxon:136477d993cb98103143f62122de4153,"Anguina tritici (Steinbuch, 1799) Filipjev, 1936",Animalia,SPECIES
+323327944,4555875,alien_species_cyprus:taxon:24c41271e9c18dec1914324a4ef65b17,"Ditylenchus destructor Thorne, 1945",Animalia,SPECIES
+323327946,2283953,alien_species_cyprus:taxon:58aacf9e88cf506b375986e280ac47af,"Ditylenchus dipsaci (Kühn, 1857) Filipjev, 1936",Animalia,SPECIES
+323327952,2284218,alien_species_cyprus:taxon:1298be42278f38f7fbf36dd84c00f3ab,"Tylenchulus semipenetrans Cobb, 1913",Animalia,SPECIES
+323327957,7374940,alien_species_cyprus:taxon:d529b6ab21d131d99737ace91d5b92a1,"Amphistegina lobifera Larsen, 1976",Chromista,SPECIES
+323327962,4554475,alien_species_cyprus:taxon:8960c53d630262f43bbee05536f177ee,"Xiphinema brevicolle Lordello & Da Costa, 1961",Animalia,SPECIES
+323327963,8234981,alien_species_cyprus:taxon:bc4f12ae803c5c2110d824d198b22afa,"Pegidia lacunata McCulloch, 1977",Chromista,SPECIES
+323327964,4554493,alien_species_cyprus:taxon:06cbbd5c25d8ebf52b45326721af6117,"Xiphinema index Thorne & Allen, 1950",Animalia,SPECIES
+323327965,4554459,alien_species_cyprus:taxon:f84d89138461e52e4866cdd77102690c,"Xiphinema italiae Meyl, 1953",Animalia,SPECIES
+323327973,8372190,alien_species_cyprus:taxon:4f2cb7b62cfd7f2c87ba4854bb1ab6cb,"Spiroloculina angulata Cushman, 1917",Chromista,SPECIES
+323327976,2318506,alien_species_cyprus:taxon:20cf7bbf5c718016410f4ca422cb5b09,"Aricidea fragilis Webster, 1879",Animalia,SPECIES
+323327984,3200580,alien_species_cyprus:taxon:8bc75fed1157a2d4b46bc8aadd8af83a,Stypopodium schimperi (Kützing) Verlaque & Boudouresque,Chromista,SPECIES
+323327985,5197940,alien_species_cyprus:taxon:6aeda9f8bbe892207c1c2626e76e9bf5,"Oenone fulgida (Lamarck, 1818)",Animalia,SPECIES
+323327991,2322064,alien_species_cyprus:taxon:3f49229d2210abab412fd852faf47cb8,"Schistomeringos loveni (Kinberg, 1865)",Animalia,SPECIES
+323327992,5422862,alien_species_cyprus:taxon:0ddf14a447e336687c227edcf7241eb8,Cutleria multifida (Turner) Grev.,Chromista,SPECIES
+323327994,5198034,alien_species_cyprus:taxon:64faed82f6dd2bc92a0a7224b48ffc19,"Dorvillea similis (Crossland, 1924)",Animalia,SPECIES
+323328000,5198234,alien_species_cyprus:taxon:2fd85da4d4668dbbd1ec5ea5c7cee7ed,"Leodice antennata Savigny, 1818",Animalia,SPECIES
+323328001,3197970,alien_species_cyprus:taxon:e9273616b2a9dfa58e0a1d2949001c60,Colpomenia peregrina Sauv.,Chromista,SPECIES
+323328004,10344972,alien_species_cyprus:taxon:3423e6aa9a496d1de07a6e970d777041,"Paucibranchia adenensis (Gravier, 1900)",Animalia,SPECIES
+323328008,5198157,alien_species_cyprus:taxon:8345e173c13c41fdec83b22841a35940,"Lysidice collaris Grube, 1868",Animalia,SPECIES
+323328013,8082159,alien_species_cyprus:taxon:f9e078c5c6cdf59a1f21d72e7f019195,"Palola valida (Gravier, 1900)",Animalia,SPECIES
+323328014,2611508,alien_species_cyprus:taxon:c3d8c08c500d6ab3b616268fed638809,Macrophomina phaseolina (Tassi) Goid.,Fungi,SPECIES
+323328017,5198300,alien_species_cyprus:taxon:0876f39bf196fb2f4ef1bda5ecf7e076,"Eunice floridana (Pourtalès, 1867)",Animalia,SPECIES
+323328024,5952582,alien_species_cyprus:taxon:ee25ba1eddf6152f99de81a0b83f0cf2,Ophiognomonia leptostyla (Fr.) Sogonov,Fungi,SPECIES
+323328025,2317532,alien_species_cyprus:taxon:0885a5bae271861d57de721013725e26,"Linopherus canariensis Langerhans, 1881",Animalia,SPECIES
+323328029,2317572,alien_species_cyprus:taxon:ebab1ec9079591a4c9c80bd362c5785f,"Eurythoe complanata (Pallas, 1766)",Animalia,SPECIES
+323328032,2575053,alien_species_cyprus:taxon:6a8017409b4f5c7879c9a530cd06cc16,Seiridium cardinale (W.W.Wagener) B.Sutton & I.A.S.Gibson,Fungi,SPECIES
+323328037,2329537,alien_species_cyprus:taxon:7cbeff88003286df06abe1922d93edaf,"Bispira melanostigma (Schmarda, 1861)",Animalia,SPECIES
+323328040,2569650,alien_species_cyprus:taxon:027044202785eb026e2db53a160b11ba,Nigrospora oryzae (Berk. & Broome) Petch,Fungi,SPECIES
+323328041,5200315,alien_species_cyprus:taxon:179ecea8207061d5c5a7fd14cb8ee7c1,"Branchiomma luctuosum (Grube, 1870)",Animalia,SPECIES
+323328043,5200325,alien_species_cyprus:taxon:9d10887d2ca36197e87ebec574f90327,"Branchiomma boholense (Grube, 1878)",Animalia,SPECIES
+323328051,8400812,alien_species_cyprus:taxon:4b63774788f75db8be2139424440aa7c,"Hydroides heterocera (Grube, 1868)",Animalia,SPECIES
+323328052,5243168,alien_species_cyprus:taxon:d9e3145196a01afa17e7719f97619245,Chlorophyllum molybdites (G.Mey.) Massee,Fungi,SPECIES
+323328053,2328291,alien_species_cyprus:taxon:11ed10027773d8da10c6d6c69ac665aa,"Hydroides homoceros Pixell, 1913",Animalia,SPECIES
+323328057,5199674,alien_species_cyprus:taxon:aea48613c82cc8b65b07d86cd82ffa56,"Spirobranchus tetraceros (Schmarda, 1861)",Animalia,SPECIES
+323328062,5199417,alien_species_cyprus:taxon:daedcf9f13725163e1eaf478f20b3c0b,"Spirorbis marioni Caullery & Mesnil, 1897",Animalia,SPECIES
+323328064,3203668,alien_species_cyprus:taxon:3a23bc510f5e47fb354824224f7d5e39,Phytophthora citrophthora (R.E.Sm. & E.H.Sm.) Leonian,Chromista,SPECIES
+323328065,5199736,alien_species_cyprus:taxon:8368992a479b2f8692e2fa5ccd78ec1d,"Rhodopsis pusilla Bush, 1905",Animalia,SPECIES
+323328078,2319527,alien_species_cyprus:taxon:5c7de63a88008344b7dd9fedfc037630,"Metasychis gotoi (Izuka, 1902)",Animalia,SPECIES
+323328082,10156321,alien_species_cyprus:taxon:e117e8fc5b1674ae84fdf1b18a4af71e,Tobacco etch virus,Viruses,SPECIES
+4375452,5272730,alien_species_cyprus:taxon:95caea279d7c7a8847bc902890ae06c5,Chaetomorpha patentiramea (Mont) Kutz.,Plantae,SPECIES
+323328091,2312886,alien_species_cyprus:taxon:ce68e3eae435ee05873065846cf894eb,"Fimbriosthenelais longipinnis (Grube, 1870)",Animalia,SPECIES
+323328092,2643120,alien_species_cyprus:taxon:bf4cbad90dbb0b951f17b95fbb49af2b,Caulerpa chemnitzia (Esper) J.V.Lamour.,Plantae,SPECIES
+323328094,2643131,alien_species_cyprus:taxon:e63bd138de186f093a3ff8d775dd9428,"Caulerpa cylindracea Sonder, 1845",Plantae,SPECIES
+323328097,2643103,alien_species_cyprus:taxon:19b85f7d8d236a0002c80b20a70a25c2,Caulerpa racemosa var. lamourouxii (Turner) Weber Bosse,Plantae,VARIETY
+323328100,2309037,alien_species_cyprus:taxon:43c6e6412060d02bf283e070bcbaf5d2,"Podarkeopsis capensis (Day, 1963)",Animalia,SPECIES
+323328104,9958973,alien_species_cyprus:taxon:d59fed046e9e99fb2745137ec8ade53e,Citrus tristeza virus,Viruses,SPECIES
+323328110,2312372,alien_species_cyprus:taxon:9c198e672330cf4c326d6192c6c5f8d4,"Hesionura serrata (Hartmann-Schröder, 1960)",Animalia,SPECIES
+323328115,2766660,alien_species_cyprus:taxon:24d44bb321adccf6e5eab2ed79dd4b13,Agave salmiana Otto ex Salm-Dyck,Plantae,SPECIES
+323328118,2668380,alien_species_cyprus:taxon:d5300bb7a57ef683c133942e07f30ab1,Hypnea spinella (C.Agardh) Kütz.,Plantae,SPECIES
+323328119,2316670,alien_species_cyprus:taxon:b45a50690622b88c1300d87d013694c3,"Sigambra parva (Day, 1963)",Animalia,SPECIES
+323328124,9453995,alien_species_cyprus:taxon:1ccfd22400c916ba885baeaf0ca4a648,"Leonnates aylaoberi Çinar & Dagli, 2013",Animalia,SPECIES
+323328127,2663181,alien_species_cyprus:taxon:362fba5da9668be421f085f2a6fdb6b1,"Botryocladia madagascariensis G.Feldmann, 1945",Plantae,SPECIES
+323328128,2315466,alien_species_cyprus:taxon:4a891e9bd990dbf654b0e77f637dbb8d,"Pseudonereis anomala Gravier, 1899",Animalia,SPECIES
+5196692,5196693,alien_species_cyprus:taxon:2cd71dd556f539881c654f28a66c2cc6,"Neanthes agulhana (Day, 1963)",Animalia,SPECIES
+323328135,2315395,alien_species_cyprus:taxon:1d8cc1651a383c46731ad332ab4a1c5e,"Alitta virens (M.Sars, 1835)",Animalia,SPECIES
+323328137,5278659,alien_species_cyprus:taxon:8ac10865c8d0eaa6950d9f634f960e91,Ganonema farinosum (J.V.Lamour.) K.C.Fan & Yung C.Wang,Plantae,SPECIES
+323328138,2315832,alien_species_cyprus:taxon:3bccb1cc75986c53de18d0ae2ef8e610,"Ceratonereis mirabilis Kinberg, 1865",Animalia,SPECIES
+323328143,2310374,alien_species_cyprus:taxon:3e81b1c2a8a2f75f87a8699fa9d88e6d,"Eusyllis kupfferi Langerhans, 1879",Animalia,SPECIES
+323328146,5279840,alien_species_cyprus:taxon:bea5a6d6b1ac732e25623752760b0538,Asparagopsis armata Harv.,Plantae,SPECIES
+323328147,5194608,alien_species_cyprus:taxon:349eb085dfffed8aef10f38111ad021e,"Syllis ergeni Çinar, 2005",Animalia,SPECIES
+323328149,5194707,alien_species_cyprus:taxon:3085ded7b190108be041bc7321708056,"Syllis hyllebergi (Licher, 1999)",Animalia,SPECIES
+323328153,5815526,alien_species_cyprus:taxon:f3a86433ca0df859b4a4feb4a95277e9,"Exogone africana Hartmann-Schröder, 1974",Animalia,SPECIES
+323328154,5279755,alien_species_cyprus:taxon:7110cad2db2873f15eefd3d651a5a472,Chondria coerulescens (J.Agardh) Falkenb.,Plantae,SPECIES
+323328155,5194517,alien_species_cyprus:taxon:9576b686339af5499b2553164d5dda06,"Exogone breviantennata Hartmann-Schröder, 1959",Animalia,SPECIES
+12194263,8074783,alien_species_cyprus:taxon:13fba644d30f31b7cc94db127398763f,Vertebrata spec (Hudson) Kuntze,Plantae,SPECIES
+323328159,2310982,alien_species_cyprus:taxon:9cfca3f2a67d7f626ee303db6f9817d4,"Prosphaerosyllis longipapillata (Hartmann-Schröder, 1979)",Animalia,SPECIES
+323328162,5277294,alien_species_cyprus:taxon:945f6ed52af397e902cf5538fe2cdfa1,"Acanthophora nayadiformis (Delile) Papenf., 1968",Plantae,SPECIES
+323328167,2324677,alien_species_cyprus:taxon:e39b39765607af6b545375aad48ecc04,"Polycirrus twisti Potts, 1928",Animalia,SPECIES
+323328168,5277847,alien_species_cyprus:taxon:0d7fe7f5b984bf836a9858afe8c4bd0a,"Polysiphonia kampsaxii Borgesen, 1939",Plantae,SPECIES
+323328171,7695036,alien_species_cyprus:taxon:c497fb2f72a3c0c5dc0cd74bce43adcd,"Terebella ehrenbergi Grube, 1869",Animalia,SPECIES
+323328175,9364858,alien_species_cyprus:taxon:3c6fbf275e9495e5154fa90d33c1548a,"Streblosoma pseudocomatus Lezzi & Giangrande, 2019",Animalia,SPECIES
+323328176,2659725,alien_species_cyprus:taxon:901a75ec5c3124e5a496944bed06a532,Lophocladia trichoclados (C.Agardh) F.Schmitz,Plantae,SPECIES
+323328180,5277463,alien_species_cyprus:taxon:75471e51c37ab42cc24ad45548d15e4e,Womersleyella setacea (Hollenberg) R.E.Norris,Plantae,SPECIES
+323328181,2324001,alien_species_cyprus:taxon:ce8fdfc5c6a96d19a16f5be7a7bfc2c9,"Chaetozone corona Berkeley & Berkeley, 1941",Animalia,SPECIES
+323328187,6785145,alien_species_cyprus:taxon:f7550b0eb62b6510c786eb4abe653500,"Stylarioides grubei Salazar-Vallejo, 2011",Animalia,SPECIES
+323328192,2683217,alien_species_cyprus:taxon:fb77d86ab0d36846f0b3c0a7ac681669,Cycas revoluta Thunb.,Plantae,SPECIES
+323328193,2318655,alien_species_cyprus:taxon:4e2c666eba19b6fccf54bb573663678d,"Cossura coasta Kitamori, 1960",Animalia,SPECIES
+323328201,2320641,alien_species_cyprus:taxon:f807e22927dfa45ec23ccb74b071be70,"Prionospio depauperata Imajima, 1990",Animalia,SPECIES
+323328202,2687885,alien_species_cyprus:taxon:4d109377c07024d1d03cef9261ee5509,Ginkgo biloba L.,Plantae,SPECIES
+323328203,2320696,alien_species_cyprus:taxon:e7fc56fda911e767cb27d7f86d6b6b31,"Prionospio paucipinnulata Blake & Kudenov, 1978",Animalia,SPECIES
+323328205,2321360,alien_species_cyprus:taxon:1495ccaf257c32f0e2f1d6f4e3573c5c,"Prionospio multibranchiata Berkeley, 1927",Animalia,SPECIES
+323328210,2320028,alien_species_cyprus:taxon:dab47041a81f5dfb699f75b4e4d581ed,"Naineris setosa (Verrill, 1900)",Animalia,SPECIES
+323328212,2320039,alien_species_cyprus:taxon:be61c96f79581aa1f2956a1fa63c4e36,"Naineris quadraticeps Day, 1965",Animalia,SPECIES
+323328213,2684969,alien_species_cyprus:taxon:d5110255304880ac276d541c92532967,Araucaria heterophylla (Salisb.) Franco,Plantae,SPECIES
+323328215,2684984,alien_species_cyprus:taxon:8b42aab12d2b70e777467ca93ca140fb,Araucaria araucana (Molina) K.Koch,Plantae,SPECIES
+323328218,2318054,alien_species_cyprus:taxon:bc33a765a23154d2ca08ea6b0e8818cb,"Mediomastus capensis Day, 1961",Animalia,SPECIES
+323328221,5284517,alien_species_cyprus:taxon:9960fd4d454d4f611f5bfc7595ad5500,Taxus baccata L.,Plantae,SPECIES
+323328222,2318168,alien_species_cyprus:taxon:4d3a5fe90a6b4c84d9f128f3ebe06572,"Capitellethus dispar (Ehlers, 1907)",Animalia,SPECIES
+323328226,7930958,alien_species_cyprus:taxon:09c5e7fe6a496894bcddff95e32e0e36,"Notomastus mossambicus (Thomassin, 1970)",Animalia,SPECIES
+323328227,2683955,alien_species_cyprus:taxon:bb72164cfd5e148cd15ee08b31f543ad,Cupressus torulosa D.Don,Plantae,SPECIES
+323328228,2318080,alien_species_cyprus:taxon:763e49dd0baa920ddd600a9248a0167a,"Notomastus aberans Day, 1957",Animalia,SPECIES
+323328229,2684076,alien_species_cyprus:taxon:f63125a792a18f85582ef2b412bf5934,Cupressus funebris Endl.,Plantae,SPECIES
+323328231,2683969,alien_species_cyprus:taxon:25d794b08df9c8e9aaa1a68ae2f6e23a,Cupressus arizonica Greene,Plantae,SPECIES
+323328232,2318164,alien_species_cyprus:taxon:c0881a2ecbd6494c1a97da9e7e85432c,"Neopseudocapitella brasiliensis Rullier & Amoureux, 1979",Animalia,SPECIES
+323328233,2684046,alien_species_cyprus:taxon:c07ba386d22c72bbd2d854c7c83e3647,Cupressus lusitanica Mill.,Plantae,SPECIES
+323328235,2684070,alien_species_cyprus:taxon:b0cbae20f5a67420d7173d263948a3f8,Cupressus macrocarpa Hartw. ex Gordon,Plantae,SPECIES
+323328239,2684615,alien_species_cyprus:taxon:2b5eac2236e4d3ad4151586be3118214,Juniperus occidentalis Hook.,Plantae,SPECIES
+323328241,2684391,alien_species_cyprus:taxon:ae4c9e110ffd4f082d03260a784968b0,Juniperus virginiana L.,Plantae,SPECIES
+323328245,2684855,alien_species_cyprus:taxon:5d2f2e58c5348ca3f16eba52f886f6a2,Platycladus orientalis (L.) Franco,Plantae,SPECIES
+323328249,2684120,alien_species_cyprus:taxon:f7bb4748d6dfc6f62aad9429c20d7f95,Sequoiadendron giganteum (Lindl.) J.T.Buchholz,Plantae,SPECIES
+323328252,2264603,alien_species_cyprus:taxon:2c47792fca847135062dacef71510955,"Cassiopea andromeda (Forskål, 1775)",Animalia,SPECIES
+323328253,2684184,alien_species_cyprus:taxon:bf008663ed532c4f2338ba045595a6cb,Tetraclinis articulata (Vahl) Mast.,Plantae,SPECIES
+323328257,2684191,alien_species_cyprus:taxon:2c5ea23d3030043289ade160da29ad04,Taxodium distichum (L.) Rich.,Plantae,SPECIES
+323328258,2264597,alien_species_cyprus:taxon:b66369f6d1d78bbe0e9e11de31554ed1,"Rhopilema nomadica Galil, Spanier & Ferguson, 1990",Animalia,SPECIES
+323328262,2683909,alien_species_cyprus:taxon:60cd84f04f5733dbc836faf1aa9b0181,Sequoia sempervirens (D.Don) Endl.,Plantae,SPECIES
+323328263,2264530,alien_species_cyprus:taxon:13cf165f8640c06b47e0ebac43ec5240,"Phyllorhiza punctata von Lendenfeld, 1884",Animalia,SPECIES
+323328268,5284702,alien_species_cyprus:taxon:ddb63b01f49685cf869596d5958e7ff0,Cedrus atlantica (Endl.) Manetti ex Carriere,Plantae,SPECIES
+323328270,5284698,alien_species_cyprus:taxon:c5021974fdbe7e7833eaa6276205b54d,Cedrus deodara (Lamb.) G.Don,Plantae,SPECIES
+323328272,5284682,alien_species_cyprus:taxon:8adf2e02c8c38df0c5045c16a28fd6e5,Cedrus libani A.Rich.,Plantae,SPECIES
+323328275,2509454,alien_species_cyprus:taxon:218b7df70020903e4470a1f93c687fd5,"Phascolion caupo Hendrix, 1975",Animalia,SPECIES
+323328276,2685326,alien_species_cyprus:taxon:bfdbe13ab6c27df5a36a683074d5146b,Abies cephalonica Loudon,Plantae,SPECIES
+323328277,2509438,alien_species_cyprus:taxon:d34c5306ae0292e37f035dd46db62712,"Phascolion convestitum Sluiter, 1902",Animalia,SPECIES
+323328278,2685628,alien_species_cyprus:taxon:eea9cc621ae49b2d61f5c30e69b0f41a,Abies cilicica (Antoine & Kotschy) Carrière,Plantae,SPECIES
+323328283,5285796,alien_species_cyprus:taxon:8f12a76eddfae4a2bbc83406626d9d85,Pinus edulis Engelm.,Plantae,SPECIES
+2509985,2509991,alien_species_cyprus:taxon:2919f86e3da72300a0a3f9f2f5ce43e5,"Phascolosoma carneum Leuckart & Rüppell, 1828",Animalia,SPECIES
+323328285,5285604,alien_species_cyprus:taxon:fabaf8c36b7c9a658b83be81f02e4feb,Pinus halepensis Mill.,Plantae,SPECIES
+323328287,5285243,alien_species_cyprus:taxon:a36853e482c2e4c11ea5055eac7a40aa,Pinus canariensis C.Sm.,Plantae,SPECIES
+323328289,5285165,alien_species_cyprus:taxon:de190fc4973d0d9d349013977bb05970,Pinus pinea L.,Plantae,SPECIES
+323328291,5285255,alien_species_cyprus:taxon:2c184f4d66f089077ce9c1495c087cca,Pinus sabiniana Douglas ex D.Don,Plantae,SPECIES
+323328293,5285727,alien_species_cyprus:taxon:b735889c5ce917057caaf44352167521,Pinus radiata D.Don,Plantae,SPECIES
+323328294,2510275,alien_species_cyprus:taxon:28a8db4ab68b9e7f980737c6b9367d1e,"Aspidosiphon mexicanus (Murina, 1967)",Animalia,SPECIES
+323328295,5285074,alien_species_cyprus:taxon:49ab8b4f68df605f41b07ade29ac1b22,Pinus wallichiana A.B.Jacks.,Plantae,SPECIES
+323328302,2510205,alien_species_cyprus:taxon:fd9eb126b6c0eb925bb928a56bcdfd42,"Apionsoma misakianum (Ikeda, 1904)",Animalia,SPECIES
+323328305,7792557,alien_species_cyprus:taxon:7a08983769c1bf2d4f6e87c5ce64efaf,Tulipa agenensis Redouté,Plantae,SPECIES
+323328309,2753642,alien_species_cyprus:taxon:a704dd6bd1fd6054b5f4fc22218f3f7b,Alstroemeria L.,Plantae,GENUS
+323328312,7734111,alien_species_cyprus:taxon:102522ee040b10822c2edd137fc6e83d,"Gambierdiscus Adachi & Fukuyo, 1979",Chromista,GENUS
+323328318,2868827,alien_species_cyprus:taxon:e79044f27a87f85eadb14b546e059462,Zantedeschia aethiopica (L.) Spreng.,Plantae,SPECIES
+323328322,5330776,alien_species_cyprus:taxon:d52122a5abb3a2efa80e48790b223554,Colocasia esculenta (L.) Schott,Plantae,SPECIES
+323328323,2501248,alien_species_cyprus:taxon:e4ae361c267625634464268d0fe43240,"Mnemiopsis leidyi A.Agassiz, 1865",Animalia,SPECIES
+323328326,2867614,alien_species_cyprus:taxon:99f3ea24fd8378a57c96b59ee422fe4e,Lemna minuta Kunth,Plantae,SPECIES
+323328329,4097481,alien_species_cyprus:taxon:9d039d10ed9436f004db09e93bfed31b,Spirodela polyrhiza (L.) Schleid.,Plantae,SPECIES
+2290412,2290412,alien_species_cyprus:taxon:415dfd2982777ecdfc9399a9939cdfcb,"Sepioteuthis lessoniana Ferussac, 1831,1830",Animalia,SPECIES
+323328335,5329324,alien_species_cyprus:taxon:25642f565f830c9f93e0db40d433c41d,Najas marina L.,Plantae,SPECIES
+323328339,5329631,alien_species_cyprus:taxon:ff57229226ae0ac16b1370de430bcab9,Halophila stipulacea (Forssk.) Asch.,Plantae,SPECIES
+323328344,4374719,alien_species_cyprus:taxon:973bf31eb9308acb2fdf1de5b239d025,"Malleus regula (Forsskål, 1775)",Animalia,SPECIES
+323328345,5301200,alien_species_cyprus:taxon:3caf5c05e1707581b249ae462a44c137,Potamogeton perfoliatus L.,Plantae,SPECIES
+323328347,7289632,alien_species_cyprus:taxon:78133cd1bc36c54dcf941321ee0b36fa,Potamogeton coloratus Hornem.,Plantae,SPECIES
+323328350,8418204,alien_species_cyprus:taxon:30c865428628b55b4c194e8feb529201,"Magallana Salvi & Mariottini, 2016",Animalia,GENUS
+8700701,8700701,alien_species_cyprus:taxon:a56d1883c87ac7245118ef38f8a3ffdd,Washingtonia filifera (L.Linden) H.Wendl.,Plantae,SPECIES
+323328356,4374562,alien_species_cyprus:taxon:409088493020d823ec4eb19d88502dcd,"Isognomon legumen (Gmelin, 1791)",Animalia,SPECIES
+323328357,5294595,alien_species_cyprus:taxon:8341ddcbf3d630185f52d4f583d9297c,Washingtonia robusta H.Wendl.,Plantae,SPECIES
+323328358,2285357,alien_species_cyprus:taxon:a988f68972e84d8c937f1bfd2012ebae,"Isognomon bicolor (C.B.Adams, 1845)",Animalia,SPECIES
+323328361,2739279,alien_species_cyprus:taxon:30f5fb254e70820f9ca0589cddc047a2,Latania lontaroides (Gaertn.) H.E.Moore,Plantae,SPECIES
+323328364,4374764,alien_species_cyprus:taxon:799d352f597460d650c7b56c64f6ccba,"Pinctada radiata (Leach, 1814)",Animalia,SPECIES
+323328365,2736625,alien_species_cyprus:taxon:22d54d72daa71153004ede4b403746f0,Chamaerops humilis L.,Plantae,SPECIES
+323328369,2739071,alien_species_cyprus:taxon:3f98c433fc5eefd2405e63472077d67a,Trachycarpus fortunei (Hook.) H.Wendl.,Plantae,SPECIES
+323328372,5729648,alien_species_cyprus:taxon:5cd5f71939187b61eab22d4263b29f07,"Spondylus spinosus Schreibers, 1793",Animalia,SPECIES
+323328373,6109699,alien_species_cyprus:taxon:e8358bed68ee6da2e8c6e728ff016410,Phoenix dactylifera L.,Plantae,SPECIES
+323328376,5293186,alien_species_cyprus:taxon:b7e61962926994843bd0d64707fca9d3,Phoenix theophrasti Greuter,Plantae,SPECIES
+323328378,7445284,alien_species_cyprus:taxon:149e07a635fcc6539f9d64a763194d23,Phoenix canariensis H.Wildpret,Plantae,SPECIES
+323328379,2288847,alien_species_cyprus:taxon:61df581b5da2af975ef074192f664efe,"Teredo navalis Linnaeus, 1758",Animalia,SPECIES
+323328381,2288831,alien_species_cyprus:taxon:97b9890ec875182dc667cfc8d16274bd,"Lyrodus pedicellatus (Quatrefages, 1849)",Animalia,SPECIES
+323328383,7783777,alien_species_cyprus:taxon:9c863937ee68c65e2fe6d6cceec97936,Howea belmoreana (C.Moore & F.Muell.) Becc.,Plantae,SPECIES
+323328389,9450610,alien_species_cyprus:taxon:9ba83009e132c7c70c05d8eb916e9821,"Septifer cumingii Récluz, 1849",Animalia,SPECIES
+323328392,2766636,alien_species_cyprus:taxon:7812528f15d51cdf64bbe2b29f524643,Agave sisalana Perrine,Plantae,SPECIES
+323328393,6531731,alien_species_cyprus:taxon:9b5c24b8ad4fd56934e76a488178c870,"Lioberus ligneus (Reeve, 1858)",Animalia,SPECIES
+323328394,2767087,alien_species_cyprus:taxon:2f31e2c8ad7894c37575466da01707a2,Agave deserti Engelm.,Plantae,SPECIES
+323328397,2767031,alien_species_cyprus:taxon:47fbdbb8b5c27de23db3bc3cbe0b1595,Agave americana L.,Plantae,SPECIES
+323328400,8385517,alien_species_cyprus:taxon:56d1f8d85bd80248cda5b86e5759d401,"Paratapes textilis (Gmelin, 1791)",Animalia,SPECIES
+323328402,8348600,alien_species_cyprus:taxon:412eb45a275c84c6ea4f476b19f0f412,"Chlorophytum elatum R.Br., 1810",Plantae,SPECIES
+323328403,6525332,alien_species_cyprus:taxon:9b9233d5da2ff292cf99539fa2d373ad,"Gafrarium savignyi (Jonas, 1846)",Animalia,SPECIES
+323328407,2775351,alien_species_cyprus:taxon:33559726307417aa91a4e89b53430db3,Lachenalia aloides (L.f.) Engl.,Plantae,SPECIES
+323328408,4372055,alien_species_cyprus:taxon:4b2accf413a85603360342b69df8bce5,"Chama asperella Lamarck, 1819",Animalia,SPECIES
+323328410,4372070,alien_species_cyprus:taxon:f5dc58cb3b317fb9e10631b9e8a61ab9,"Chama pacifica Broderip, 1835",Animalia,SPECIES
+323328411,2772610,alien_species_cyprus:taxon:a52f6b704b37fbb0dfa976a23d9aa387,Dasylirion acrotrichum (Schiede) Zucc.,Plantae,SPECIES
+323328416,2775716,alien_species_cyprus:taxon:2842c67c05f2aa52e5964aa81a02c5b5,Yucca gigantea Lem.,Plantae,SPECIES
+323328417,5729175,alien_species_cyprus:taxon:15af1e47da2fb8d73b1b53d211a28398,"Fulvia fragilis (Forsskål, 1775)",Animalia,SPECIES
+323328419,2775788,alien_species_cyprus:taxon:c80551261cb893f5da52f95789847bf7,Yucca baccata Torr.,Plantae,SPECIES
+323328421,2775744,alien_species_cyprus:taxon:ddfbb5ef217cf211aeed029a3ca99456,Yucca aloifolia L.,Plantae,SPECIES
+323328422,8770976,alien_species_cyprus:taxon:15c0f527bb65c2c10f7d959ba5b97808,"Psammacoma gubernaculum (Hanley, 1844)",Animalia,SPECIES
+323328426,5304469,alien_species_cyprus:taxon:12c825ebca8523e196554ae450325e26,Dracaena draco (L.) L.,Plantae,SPECIES
+323328430,6520353,alien_species_cyprus:taxon:64bcef2f6a2cef6d9c7b6f9f052527cf,"Bulla arabica Malaquias & D.Reid, 2008",Animalia,SPECIES
+323328431,2767506,alien_species_cyprus:taxon:1d1f4b94c9efb077c8ddf58fd49c7b2f,Scilla bifolia L.,Plantae,SPECIES
+323328435,4359506,alien_species_cyprus:taxon:6c1ba9e2aa21d8a92debd4f4ba96b972,"Pyrunculus fourierii (Audouin, 1826)",Animalia,SPECIES
+323328436,2769937,alien_species_cyprus:taxon:cc0fafee89166deab4e127cf3acd53cb,Aspidistra elatior Blume,Plantae,SPECIES
+323328440,9746127,alien_species_cyprus:taxon:84539a389adece0a15a39eb081939df2,"Biuve fulvipunctata (Baba, 1938)",Animalia,SPECIES
+323328441,2769796,alien_species_cyprus:taxon:c57247ee95199c2406fc21eb4feeaaf3,Furcraea foetida (L.) Haw.,Plantae,SPECIES
+323328445,2768367,alien_species_cyprus:taxon:af180605401e93ba92caf22e6022d6cb,Asparagus asparagoides (L.) Druce,Plantae,SPECIES
+323328446,4359672,alien_species_cyprus:taxon:841b4549d3ea83435885f0330ec167f1,"Acteocina mucronata (R.A.Philippi, 1849)",Animalia,SPECIES
+323328448,2768686,alien_species_cyprus:taxon:45fbdfec67d93775282df77aa84a1f23,Asparagus setaceus (Kunth) Jessop,Plantae,SPECIES
+323328450,2768885,alien_species_cyprus:taxon:518b481309e1aba3e1d65b90e1acb1b0,Asparagus officinalis L.,Plantae,SPECIES
+323328451,9299496,alien_species_cyprus:taxon:52466be1c5ddbccf02f223d01faedcaa,"Mnestia girardi (Audouin, 1826)",Animalia,SPECIES
+323328452,2768503,alien_species_cyprus:taxon:f44bbb2b40ba7c848d4d6b3c7241542b,Asparagus densiflorus (Kunth) Jessop,Plantae,SPECIES
+323328456,10906181,alien_species_cyprus:taxon:8e773ad45517d74c186dde6bb29274f4,"Lamprohaminoea ovalis (Pease, 1868)",Animalia,SPECIES
+323328457,2766411,alien_species_cyprus:taxon:f92101ab5bbe5af41ae6103b8d3a6328,Cordyline australis (G.Forst.) Endl.,Plantae,SPECIES
+323328459,2766238,alien_species_cyprus:taxon:2fbd2a1a8e0080e0bef99f7b1f07766c,Cordyline cannifolia R.Br.,Plantae,SPECIES
+323328460,8067701,alien_species_cyprus:taxon:6c008d50d9be6f976ba0626c2fa2d7f7,"Liloa mongii (Audouin, 1826)",Animalia,SPECIES
+323328465,2792651,alien_species_cyprus:taxon:e6abc2b46a5dbdcd0a013e670eef00b4,Ophrys reinholdii subsp. straussii (H.Fleischm. & Bornm.) E.Nelson,Plantae,SUBSPECIES
+323328466,8187009,alien_species_cyprus:taxon:a5d121d3f0c86e4854564db025ac0270,"Notodiaphana atlantica Ortea, Moro & Espinosa, 2013",Animalia,SPECIES
+323328471,5189806,alien_species_cyprus:taxon:19909f80ef23d57428b1160a73f98a0b,"Physella acuta (Draparnaud, 1805)",Animalia,SPECIES
+323328472,5326791,alien_species_cyprus:taxon:cc10c4c0051298bb7b7c71924a1bd221,Sternbergia lutea (L.) Ker Gawl. ex Spreng.,Plantae,SPECIES
+323328476,2855519,alien_species_cyprus:taxon:5949e01c6a910cd2f20877ebb298f46e,Nothoscordum gracile (Aiton) Stearn,Plantae,SPECIES
+323328478,9680062,alien_species_cyprus:taxon:20cd469377e9eee43c4e5bc7da7d79b0,"Bursatella leachii Blainville, 1817",Animalia,SPECIES
+323328481,2858909,alien_species_cyprus:taxon:be22340f3f1ae5aa319cb5eaae6c3eb9,Narcissus jonquilla L.,Plantae,SPECIES
+323328482,5191262,alien_species_cyprus:taxon:c7b19a63242106c1e875e47a9cfdbd46,"Aplysia dactylomela Rang, 1828",Animalia,SPECIES
+323328485,2856681,alien_species_cyprus:taxon:69e67c334ae36c6791148cbd575898f9,Allium sativum L.,Plantae,SPECIES
+323328487,2857697,alien_species_cyprus:taxon:66b60bdd67edb0002194b1c2b292a1ff,Allium cepa L.,Plantae,SPECIES
+323328489,8172198,alien_species_cyprus:taxon:72d827a8456ad8ebcffbe4fa7791a90b,"Baeolidia moebii Bergh, 1888",Animalia,SPECIES
+323328490,2856297,alien_species_cyprus:taxon:ea7004c475b5c1f128a6dc68fe243ce6,Allium tuberosum Rottler ex Spreng.,Plantae,SPECIES
+323328495,6518477,alien_species_cyprus:taxon:72af8abd2da6c3feafb85f2c49a62954,"Coryphellina rubrolineata O'Donoghue, 1929",Animalia,SPECIES
+323328496,2778511,alien_species_cyprus:taxon:13349728b702acb49b2e27554639de7e,Phormium tenax J.R.Forst. & G.Forst.,Plantae,SPECIES
+323328500,6519254,alien_species_cyprus:taxon:597f502ad1269c1c2a80fbc267033d86,"Tayuva lilacina (A.Gould, 1852)",Animalia,SPECIES
+323328501,9527904,alien_species_cyprus:taxon:3f84da18225f2dcca7af5dcef5de2f79,Aloiampelos ciliaris (Haw.) Klopper & Gideon F.Sm.,Plantae,SPECIES
+323328503,2777537,alien_species_cyprus:taxon:827febfe300278b41a76e66c4837ef5e,Aloe arborescens Mill.,Plantae,SPECIES
+323328505,4360080,alien_species_cyprus:taxon:3c13296ebf0f595955b09a61764d2960,"Hypselodoris infucata (Rüppell & Leuckart, 1830)",Animalia,SPECIES
+323328506,2777724,alien_species_cyprus:taxon:969e8da4b7c6f990a78700ff360f5e3b,Aloe vera (L.) Burm.f.,Plantae,SPECIES
+323328509,6519803,alien_species_cyprus:taxon:780b9fba6fbc812c8d485fe71f560c3c,"Goniobranchus annulatus (Eliot, 1904)",Animalia,SPECIES
+323328511,6519721,alien_species_cyprus:taxon:edfcabd7781901f20979721442c384bb,"Goniobranchus obsoletus (Rüppell & Leuckart, 1830)",Animalia,SPECIES
+323328512,5297966,alien_species_cyprus:taxon:a2f6ffef1918e1c2771601aac2b610e4,Iris xiphium L.,Plantae,SPECIES
+323328515,5298069,alien_species_cyprus:taxon:cde4adf1ee497f1825d8a12f9bab71f3,Iris ×germanica L.,Plantae,SPECIES
+323328516,4360148,alien_species_cyprus:taxon:b24f4149cebe52267bdf759eebbc5271,"Melibe viridis (Kelaart, 1858)",Animalia,SPECIES
+323328521,2744140,alien_species_cyprus:taxon:1d14425b9cd50ced552ad5d23c95de53,Chasmanthe aethiopica (L.) N.E.Br.,Plantae,SPECIES
+323328522,4359778,alien_species_cyprus:taxon:218da06b8aedc87b3b41c286de96a600,"Plocamopherus ocellatus Rüppell & Leuckart, 1828",Animalia,SPECIES
+323328526,6709118,alien_species_cyprus:taxon:25d982cd510b22049d52aede8dc12dde,Freesia leichtlinii subsp. alba (G.L.Mey.) J.C.Manning & Goldblatt,Plantae,SUBSPECIES
+323328527,2290946,alien_species_cyprus:taxon:e5866f7164ac78abdc938534bf93799b,"Planorbarius corneus (Linnaeus, 1758)",Animalia,SPECIES
+323328528,2747084,alien_species_cyprus:taxon:9af8c962ff896fe9817ebd0e2c892e5a,Freesia refracta (Jacq.) Klatt,Plantae,SPECIES
+323328532,4363120,alien_species_cyprus:taxon:de6a929daab3a5c292ce02b0322f343c,"Cerithiopsis tenthrenois (Melvill, 1896)",Animalia,SPECIES
+323328534,4363108,alien_species_cyprus:taxon:bc2c13df8c6ee93a4c4e531a8b2f3f38,"Cerithiopsis pulvis (Issel, 1869)",Animalia,SPECIES
+323328537,2765156,alien_species_cyprus:taxon:1623695c50205f1ae46b211671a16ca6,Tradescantia fluminensis Vell.,Plantae,SPECIES
+323328538,10797180,alien_species_cyprus:taxon:5c6997886be8fda83334f7c99ebb4c0c,"Joculator problematicus Albano & Steger, 2021",Animalia,SPECIES
+323328542,2764179,alien_species_cyprus:taxon:b8483a86d152207728016f133e4074db,Commelina communis L.,Plantae,SPECIES
+323328545,4374596,alien_species_cyprus:taxon:bdab1ca33593442fec2e7cdce10bf2de,"Brachidontes pharaonis (P.Fischer, 1870)",Animalia,SPECIES
+323328550,4362907,alien_species_cyprus:taxon:b9e2c1e26e7f331eb876ca93372c52cf,"Rhinoclavis kochi (R.A.Philippi, 1848)",Animalia,SPECIES
+323328551,2763050,alien_species_cyprus:taxon:6821a67f867e2aa8ec6d8615da31a305,Ensete ventricosum (Welw.) Cheesman,Plantae,SPECIES
+323328554,4362829,alien_species_cyprus:taxon:b64246c8d757d059f4f8238e931f5e56,"Cerithidium perparvulum (R.B.Watson, 1886)",Animalia,SPECIES
+323328555,2762752,alien_species_cyprus:taxon:6949e9f03e976314e2d0e28391bc3f31,Musa ×paradisiaca L.,Plantae,SPECIES
+323328557,2762680,alien_species_cyprus:taxon:907640d4ed63f7cd937ca59c3be8acda,Musa acuminata Colla,Plantae,SPECIES
+323328558,4362895,alien_species_cyprus:taxon:1345c9240fe3a832c90bb9cd07eb04c2,"Cerithium scabridum R.A.Philippi, 1848",Animalia,SPECIES
+323328565,9512405,alien_species_cyprus:taxon:c4e8970bb1c82dd441791b21b436052a,"Trochus erithreus Brocchi, 1821",Animalia,SPECIES
+323328566,2716226,alien_species_cyprus:taxon:492851549cab6f377e0bbec263ee72d5,Cyperus esculentus L.,Plantae,SPECIES
+323328572,2301884,alien_species_cyprus:taxon:8301518badfd73bd0150ad9f6ab2bd56,"Finella pupoides A.Adams, 1860",Animalia,SPECIES
+323328576,5290269,alien_species_cyprus:taxon:fc149654966be6cb7c0b299f16b5944b,Elymus glaucus Buckley,Plantae,SPECIES
+323328577,7505121,alien_species_cyprus:taxon:1f56d48ad52d1929bbc6da0296d02a78,"Melanopsis tuberculata Pavlović, 1927",Animalia,SPECIES
+323328580,2706026,alien_species_cyprus:taxon:7544e3712fd744b66ae2e88fd90997ea,Miscanthus sinensis Andersson,Plantae,SPECIES
+323328582,4359131,alien_species_cyprus:taxon:7b4d12951117e6fa6df51368ee81517a,"Leucotina natalensis E.A.Smith, 1910",Animalia,SPECIES
+323328585,5828201,alien_species_cyprus:taxon:e469bc1c0174acc50f372d5f6d4efca4,Cenchrus clandestinus (Hochst. ex Chiov.) Morrone,Plantae,SPECIES
+323328587,5828220,alien_species_cyprus:taxon:34660e20648a848fd09aa19de7fb132e,Cenchrus purpureus (Schumach.) Morrone,Plantae,SPECIES
+323328588,6496637,alien_species_cyprus:taxon:fae33ad8dc72e24b51348ec7bb128c18,"Viriola bayani Jousseaume, 1884",Animalia,SPECIES
+323328590,5290192,alien_species_cyprus:taxon:9acdc92fa30e059239ad6e8856a58262,Cenchrus longisetus M.C.Johnst.,Plantae,SPECIES
+323328591,4363162,alien_species_cyprus:taxon:c322ba39a0cb2f7581315f6913affbaf,"Metaxia bacillum (Issel, 1869)",Animalia,SPECIES
+323328592,5828232,alien_species_cyprus:taxon:c11c9a307cdbbf4492edc3142e3456c9,Cenchrus setaceus (Forssk.) Morrone,Plantae,SPECIES
+323328596,2705090,alien_species_cyprus:taxon:c16d81ed1f48c78789f28eec0412eb42,Panicum miliaceum L.,Plantae,SPECIES
+323328598,2302627,alien_species_cyprus:taxon:549d843f80caf8d969d7e424eed6b45d,"Berthellina citrina (Rüppell & Leuckart, 1828)",Animalia,SPECIES
+323328599,2705162,alien_species_cyprus:taxon:547a20abd78a48e01afbe4abf5237daf,Panicum capillare L.,Plantae,SPECIES
+323328601,4113402,alien_species_cyprus:taxon:328d2269495c73ce71efeafbca8b2e0d,Panicum decompositum R.Br.,Plantae,SPECIES
+323328605,2703316,alien_species_cyprus:taxon:988e928c8fce56473894729cf0d5d87d,Dendrocalamus strictus (Roxb.) Nees,Plantae,SPECIES
+323328606,4361747,alien_species_cyprus:taxon:dcd8082d90b1e4dff403154fa30f6552,"Rissoina bertholleti Issel, 1869",Animalia,SPECIES
+323328610,5289744,alien_species_cyprus:taxon:e88b27aab42010a8aa0ade5a3c0447ea,Phalaris canariensis L.,Plantae,SPECIES
+323328611,6489949,alien_species_cyprus:taxon:f8fe7eee1271dce522915f0f8797e0d2,"Conomurex persicus (Swainson, 1821)",Animalia,SPECIES
+323328615,4148420,alien_species_cyprus:taxon:5c8663aa82fbca272aeeb26c46de2d3b,Puccinellia gigantea (Grossh.) Grossh.,Plantae,SPECIES
+323328617,4149030,alien_species_cyprus:taxon:92bdb47d4b818e6e7fa0aaf255c2a6e1,Puccinellia ciliata Bor,Plantae,SPECIES
+323328621,5289791,alien_species_cyprus:taxon:2114ce57185b5c33c5dc9c66bb0993c3,Aegilops ventricosa Tausch,Plantae,SPECIES
+323328622,4362384,alien_species_cyprus:taxon:a9d1f3896b4a1c1efa9ad4eff1c022d0,"Sticteulima lentiginosa (A.Adams, 1861)",Animalia,SPECIES
+323328624,5289783,alien_species_cyprus:taxon:d5ae29fb5f20f693a45de506b814b1f1,Aegilops cylindrica Host,Plantae,SPECIES
+323328625,10759843,alien_species_cyprus:taxon:38623ecb7fea2fa2b05f27fcf004aa73,"Hemiliostraca clandestina (Mifsud & Ovalis, 2019)",Animalia,SPECIES
+323328628,2702863,alien_species_cyprus:taxon:cc9efd1c710c0fe1adb6cc00d7481d2a,Ehrharta erecta Lam.,Plantae,SPECIES
+323328632,5724455,alien_species_cyprus:taxon:efffc3a1e9c2d7aa30bcf3c1b588e77e,"Siphonaria crenata Blainville, 1827",Animalia,SPECIES
+323328633,2705953,alien_species_cyprus:taxon:86fcdd60b467a090a4bbf438cf5dbf5e,Eleusine indica (L.) Gaertn.,Plantae,SPECIES
+323328635,2705955,alien_species_cyprus:taxon:8e7fee1417c46faf7ce111d0a69a2616,Eleusine tristachya (Lam.) Lam.,Plantae,SPECIES
+323328638,6496518,alien_species_cyprus:taxon:e1b162e54dc3b761e992afa2fce94476,"Euthymella colzumensis (Jousseaume, 1898)",Animalia,SPECIES
+323328640,9398259,alien_species_cyprus:taxon:3537487e8ab5bb7165394a5639c8f088,Sporobolus anglicus (C.E.Hubb.) P.M.Peterson & Saarela,Plantae,SPECIES
+323328643,11206060,alien_species_cyprus:taxon:28d1593af61a61e79fe1ddea9232f093,"Pyrgulina microtuber Peñas, Rolán & Sabelli, 2020",Animalia,SPECIES
+323328644,4127897,alien_species_cyprus:taxon:b9f620f9463a9d31e182d7004d679121,Macrochloa tenacissima (L.) Kunth,Plantae,SPECIES
+323328645,5192056,alien_species_cyprus:taxon:918503713e39a3a9e8043418f6685f97,"Pyrgulina maiae Hornung & Mermod, 1924",Animalia,SPECIES
+323328646,5724272,alien_species_cyprus:taxon:b7d5cc7961052b9e17969fc0247d5640,"Pyrgulina nana Hornung & Mermod, 1924",Animalia,SPECIES
+323328649,2706056,alien_species_cyprus:taxon:c58c0b08d43dd0bb4e5c5b5f15818ec4,Hordeum vulgare L.,Plantae,SPECIES
+323328650,7815263,alien_species_cyprus:taxon:2d36488c49749fde3dce24e0dbb940f6,"Oscilla galilae Bogi, Karhan & Yokeş, 2012",Animalia,SPECIES
+323328653,9635863,alien_species_cyprus:taxon:8d3e0463657e0c91c9c041414f6caca7,"Turbonilla cangeyrani Ovalis & Mifsud, 2017",Animalia,SPECIES
+323328654,2705184,alien_species_cyprus:taxon:3054fb94ec7063155219d5c140f12b5d,Sorghum ×drummondii (Nees ex Steud.) Millsp. & Chase,Plantae,SPECIES
+323328655,7812829,alien_species_cyprus:taxon:7f00ab3f5640bd58d4f0f4976035fa9b,"Turbonilla edgarii (Melvill, 1896)",Animalia,SPECIES
+323328656,2705181,alien_species_cyprus:taxon:6b2afc04446307b19789a4d040467989,Sorghum bicolor (L.) Moench,Plantae,SPECIES
+323328659,5724275,alien_species_cyprus:taxon:e45b622d88d458c8fad9da85df6b18fb,"Cingulina isseli (Tryon, 1886)",Animalia,SPECIES
+323328661,2703041,alien_species_cyprus:taxon:e1997f351363626fcab7e94e3a4be505,Arundo donax L.,Plantae,SPECIES
+323328662,4358765,alien_species_cyprus:taxon:5632fbf7c50a00a83de871d29b149ca8,"Syrnola fasciata Jickeli, 1882",Animalia,SPECIES
+323328665,7795888,alien_species_cyprus:taxon:eada729393fc127bde7ee4d5f165c16b,Triticum aestivum L.,Plantae,SPECIES
+323328667,4359135,alien_species_cyprus:taxon:1a9c4aeee7bd8c9415f3cb5139993866,"Amathina tricarinata (Linnaeus, 1767)",Animalia,SPECIES
+323328668,2706403,alien_species_cyprus:taxon:26c97662e0759a3b555cf908a212688a,Triticum aestivum subsp. spelta (L.) Thell.,Plantae,SUBSPECIES
+323328670,6313051,alien_species_cyprus:taxon:0be3a3f3a4822a0be8be8dd7e011640a,Triticum turgidum subsp. durum (Desf.) Husn.,Plantae,SUBSPECIES
+323328674,2295819,alien_species_cyprus:taxon:80308cf0fbed4d45881fb659fcc41141,"Polygyra cereolus (Megerle von Mühlfeld, 1818)",Animalia,SPECIES
+323328675,2703459,alien_species_cyprus:taxon:c08b4b4adc7a6b71eb66579c8f2ffa9f,Oryza sativa L.,Plantae,SPECIES
+323328679,8010581,alien_species_cyprus:taxon:de123f82487dc1025230b5684d0ba682,Diplachne fusca (L.) P.Beauv. ex Roem. & Schult.,Plantae,SPECIES
+323328680,8014163,alien_species_cyprus:taxon:09f0ee0475ec3d4f4a548d19cb355497,"Ambigolimax valentianus (A.Férussac, 1821)",Animalia,SPECIES
+323328684,6431411,alien_species_cyprus:taxon:23d5304c5e1b82c04943d03b98504ed7,Echinochloa colonum (L.) Link,Plantae,SPECIES
+323328685,2297206,alien_species_cyprus:taxon:ab1314a6ac77a075fff0001c0e167859,"Succinea putris (Linnaeus, 1758)",Animalia,SPECIES
+323328689,2706322,alien_species_cyprus:taxon:12c8bf8863275a12d0311e62c653eb56,Hemarthria altissima (Poir.) Stapf & C.E.Hubb.,Plantae,SPECIES
+323328693,4132253,alien_species_cyprus:taxon:88a2d00f7d4d6e564038bf4de478f95e,Leptochloa mucronata (Michx.) Kunth,Plantae,SPECIES
+323328694,4362606,alien_species_cyprus:taxon:bc9ad9bccdbf33d89c69806c2644dcf2,"Cycloscala hyalina (G.B.Sowerby II, 1844)",Animalia,SPECIES
+323328698,2706188,alien_species_cyprus:taxon:7bc7480c92f90504f424e7a828ab7c4f,Dactyloctenium aegyptium (L.) Willd.,Plantae,SPECIES
+323328701,4368896,alien_species_cyprus:taxon:838883db5f33bce88d634aed88a1731e,"Zafra selasphora (Melvill & Standen, 1901)",Animalia,SPECIES
+323328702,7923205,alien_species_cyprus:taxon:5687e096fba5d4a18ac04f6dedafb866,"Zafra savignyi (Moazzo, 1939)",Animalia,SPECIES
+2706231,2706232,alien_species_cyprus:taxon:9ae62b4de95eb639798f671bf889ba77,Lolium arundinaceum (Schreb.) Darbysh.,Plantae,SPECIES
+323328707,2705290,alien_species_cyprus:taxon:fe7218f9952ed8d452a5e64a63c0732b,Avena sativa L.,Plantae,SPECIES
+323328708,7655863,alien_species_cyprus:taxon:26369e8f3ea28061bf4cc3db5ae2a8ae,"Indothais lacera (Born, 1778)",Animalia,SPECIES
+323328711,4363957,alien_species_cyprus:taxon:a39ff66fd2e7e8850806568357db7e04,"Ergalatax junionae Houart, 2008",Animalia,SPECIES
+323328712,2705875,alien_species_cyprus:taxon:c79eb0b6f3d0a9a3581edab1f4a6fbf4,Urochloa ramosa (L.) T.Q.Nguyen,Plantae,SPECIES
+323328714,2705869,alien_species_cyprus:taxon:ab1dedca624ca1a8676ac368f1b9839d,Urochloa panicoides P.Beauv.,Plantae,SPECIES
+323328718,2705378,alien_species_cyprus:taxon:4e7a2ed01a4afdfee15f1be3624b9306,Eragrostis curvula (Schrad.) Nees,Plantae,SPECIES
+323328719,4369932,alien_species_cyprus:taxon:01175b9a44bc8d621df87864b219a605,"Smaragdia souverbiana (Montrouzier, 1863)",Animalia,SPECIES
+323328721,2705751,alien_species_cyprus:taxon:b904f8e308974b09fe2d1df13d0b65e4,Bambusa Schreb.,Plantae,GENUS
+323328725,2705565,alien_species_cyprus:taxon:382ae98e262d6842708332e0329adab9,Paspalum dilatatum Poir.,Plantae,SPECIES
+323328727,2705622,alien_species_cyprus:taxon:aae5f0eb9c404deeacbbaebaeb6d3ac6,Paspalum distichum L.,Plantae,SPECIES
+323328728,5711980,alien_species_cyprus:taxon:a67842afc6682a4af9db722e1af16228,"Oncorhynchus clarkii (Richardson, 1836)",Animalia,SPECIES
+323328730,5204019,alien_species_cyprus:taxon:9ff8f5349df56ecd2d67da0cc101794e,"Oncorhynchus mykiss (Walbaum, 1792)",Animalia,SPECIES
+323328732,5289686,alien_species_cyprus:taxon:e7f9511723835d57b72d4679ad8afe09,Setaria verticillata (L.) P.Beauv.,Plantae,SPECIES
+323328733,8215487,alien_species_cyprus:taxon:255dc4391a6aa0efa70c1f0eb64aa698,"Salmo trutta Linnaeus, 1758",Animalia,SPECIES
+323328734,5289698,alien_species_cyprus:taxon:c44492223037667753ab2d9d0ed259fa,Setaria italica (L.) P.Beauv.,Plantae,SPECIES
+323328737,4284021,alien_species_cyprus:taxon:0a0c5e92f8785497a3591fb2070f8897,"Salvelinus alpinus (Linnaeus, 1758)",Animalia,SPECIES
+323328738,5290052,alien_species_cyprus:taxon:7c26ee562864aa045879706b03a43ef8,Zea mays L.,Plantae,SPECIES
+323328743,2704523,alien_species_cyprus:taxon:633ee098668abba1986d45042a7b6be7,Cortaderia selloana (Schult. & Schult.f.) Asch. & Graebn.,Plantae,SPECIES
+323328744,2350570,alien_species_cyprus:taxon:b7c1a95dc37cb3872da7e101c48aed8b,"Gambusia holbrooki Girard, 1859",Animalia,SPECIES
+323328747,2702870,alien_species_cyprus:taxon:12ff224167c6c487ad69cd953ca67d38,Stenotaphrum secundatum (Walter) Kuntze,Plantae,SPECIES
+323328751,2703935,alien_species_cyprus:taxon:20cc28f40e205de048ab447703ad6db8,Saccharum spontaneum L.,Plantae,SPECIES
+323328752,2368598,alien_species_cyprus:taxon:453148ea986b1769b6cf54199d9cbc93,"Parexocoetus mento (Valenciennes, 1847)",Animalia,SPECIES
+323328753,2703912,alien_species_cyprus:taxon:371ef14f69ecf8868bc0e9f0f359bb65,Saccharum officinarum L.,Plantae,SPECIES
+323328757,2703723,alien_species_cyprus:taxon:a3586b37c5c9c9e2347ba23dad5ea129,Bromus catharticus Vahl,Plantae,SPECIES
+323328758,2368968,alien_species_cyprus:taxon:8b88bb5804520baecc9dad20103a8a9c,"Hemiramphus far (Forsskål, 1775)",Animalia,SPECIES
+323328760,2703712,alien_species_cyprus:taxon:00464d8f171c659bad12fe7126006469,Bromus carinatus Hook. & Arn.,Plantae,SPECIES
+323328767,2441461,alien_species_cyprus:taxon:3a77905089b4c28aba2018cc42033399,"Testudo graeca Linnaeus, 1758",Animalia,SPECIES
+323328768,2441502,alien_species_cyprus:taxon:c17ed49910893a792f6f1e21f8d594ae,"Testudo marginata Schoepff, 1792",Animalia,SPECIES
+323328771,3034046,alien_species_cyprus:taxon:0e415bfc9a3ecd3a2302f9b361cbdede,Persea americana Mill.,Plantae,SPECIES
+323328774,2443002,alien_species_cyprus:taxon:d4e4618bd9c2f81c096cb372dd78b33d,"Trachemys scripta (Thunberg In Schoepff, 1792)",Animalia,SPECIES
+323328778,3034110,alien_species_cyprus:taxon:44ac6d43a97f4d5bad2be16c9d6ec18b,Calycanthus occidentalis Hook. & Arn.,Plantae,SPECIES
+323328781,9357542,alien_species_cyprus:taxon:bba8f59958a88240ea4106ea9b24e634,"Indotyphlops braminus (Daudin, 1803)",Animalia,SPECIES
+323328787,8677924,alien_species_cyprus:taxon:2897e796510014a794d5065c080ef204,Pittosporum tobira (Murray) Aiton fil.,Plantae,SPECIES
+323328788,2356802,alien_species_cyprus:taxon:18f20b6415eef911352a212014566c0a,"Sargocentron rubrum (Forsskål, 1775)",Animalia,SPECIES
+323328789,4161523,alien_species_cyprus:taxon:d5b1ab742082e11f98cc5059e8fe9ed0,Pittosporum phillyreoides DC.,Plantae,SPECIES
+323328791,2986302,alien_species_cyprus:taxon:e7c2687c74ea54492457f6e68233ab49,Pittosporum viridiflorum Sims,Plantae,SPECIES
+323328795,2397527,alien_species_cyprus:taxon:ad225185f775756c533e169844f25bf2,"Cheilodipterus novemstriatus (Rüppell, 1838)",Animalia,SPECIES
+323328798,3034714,alien_species_cyprus:taxon:4c9aa85c7e4e064320f695a9f11ba796,Carum carvi L.,Plantae,SPECIES
+323328799,5853511,alien_species_cyprus:taxon:041499bd60a7423a1564957910d909d8,"Apogonichthyoides pharaonis (Bellotti, 1874)",Animalia,SPECIES
+323328802,3034646,alien_species_cyprus:taxon:03d91dced9c201fe36cebc3a8d49f539,Anethum graveolens L.,Plantae,SPECIES
+323328803,7193045,alien_species_cyprus:taxon:44aa1ab3487fff09766146b4f9687815,"Ostorhinchus fasciatus (White, 1790)",Animalia,SPECIES
+323328807,5371782,alien_species_cyprus:taxon:3ae8b4ca5b666e960072c47d74a57cd7,Falcaria vulgaris Bernh.,Plantae,SPECIES
+323328808,2396338,alien_species_cyprus:taxon:7bb93a9aa48c765bb60041c721a64576,"Equulites klunzingeri (Steindachner, 1898)",Animalia,SPECIES
+323328811,3034871,alien_species_cyprus:taxon:0150bdc48da1e78003296f5c4e5cbc8a,Coriandrum sativum L.,Plantae,SPECIES
+323328813,2394248,alien_species_cyprus:taxon:0a5db1df5961da42e44f17a607d21951,"Sphyraena flavicauda Rüppell, 1838",Animalia,SPECIES
+323328815,2394252,alien_species_cyprus:taxon:5633f14622501fc1684338158d7de158,"Sphyraena chrysotaenia Klunzinger, 1884",Animalia,SPECIES
+323328816,8350395,alien_species_cyprus:taxon:674f2d4ba5c8873a17d8f5ce03f098af,Cyclospermum leptophyllum (Pers.) Sprague,Plantae,SPECIES
+323328820,3635750,alien_species_cyprus:taxon:52e619c76f66799bbed74155f7a92e7e,Artedia squamata L.,Plantae,SPECIES
+323328821,2385717,alien_species_cyprus:taxon:fee2a9e508d402d971682efc1bc0268f,"Heniochus intermedius Steindachner, 1893",Animalia,SPECIES
+323328822,2385730,alien_species_cyprus:taxon:6445577f3fce3a151d039d44c34fafe1,"Heniochus acuminatus (Linnaeus, 1758)",Animalia,SPECIES
+323328825,8080300,alien_species_cyprus:taxon:2b7c0f813f1f0492a2d83d04f3bbc26a,Pimpinella anisum L.,Plantae,SPECIES
+323328828,2394486,alien_species_cyprus:taxon:bd5bb63ceb3ce8f45f9c3f125af69d13,"Lepomis gibbosus (Linnaeus, 1758)",Animalia,SPECIES
+323328829,7224069,alien_species_cyprus:taxon:33b4c3de575eb1debb7db88cfd864d6f,Petroselinum crispum subsp. crispum,Plantae,SUBSPECIES
+323328831,2394563,alien_species_cyprus:taxon:ee412d68e328ee2c619e026909e727e1,"Micropterus salmoides (Lacepède, 1802)",Animalia,SPECIES
+323328837,2381337,alien_species_cyprus:taxon:3b91e68e4070898bc6c0806f52273db4,"Kyphosus vaigiensis (Quoy & Gaimard, 1825)",Animalia,SPECIES
+323328838,3070346,alien_species_cyprus:taxon:c4730237aa1bc0dcd08b1170406b14c4,Euphorbia nutans Lag.,Plantae,SPECIES
+323328840,3064495,alien_species_cyprus:taxon:1fd83c81b3926ddb9e085adf9b1ad913,Euphorbia heterophylla L.,Plantae,SPECIES
+323328842,2374391,alien_species_cyprus:taxon:f538542ea500af55938af76da925015e,"Pempheris rhomboidea Kossmann & Räuber, 1877",Animalia,SPECIES
+323328843,3067119,alien_species_cyprus:taxon:2b14975157c27a9739d2901e7ec7200d,Euphorbia maculata L.,Plantae,SPECIES
+323328845,3064221,alien_species_cyprus:taxon:c537c643403a7219d4e66dba4f7c8744,Euphorbia serpens Kunth,Plantae,SPECIES
+323328847,3064170,alien_species_cyprus:taxon:50e1e55170f18134072a0eb8c657415e,Euphorbia graminea Jacq.,Plantae,SPECIES
+323328848,8363171,alien_species_cyprus:taxon:080743ba20532acbf4804dba73025c99,"Pteragogus trispilus Randall, 2013",Animalia,SPECIES
+323328849,3067891,alien_species_cyprus:taxon:fee1612297fd7c0b7ccf9c9a3809fb1e,Euphorbia prostrata Aiton,Plantae,SPECIES
+323328852,3066321,alien_species_cyprus:taxon:abec123ada5278ef0c31385df5dabfd0,Euphorbia hypericifolia L.,Plantae,SPECIES
+323328853,2393577,alien_species_cyprus:taxon:821f498f4c11f5c99584a0bbd846a92e,"Scarus ghobban Forsskål, 1775",Animalia,SPECIES
+323328854,3067182,alien_species_cyprus:taxon:0d3b4ef9a55fb926271e274dd41935bd,Euphorbia splendens Bojer ex Hook.,Plantae,SPECIES
+323328856,3068937,alien_species_cyprus:taxon:a71bb7d1bee8f354959aacc11838ceba,Euphorbia hirta L.,Plantae,SPECIES
+323328860,5379890,alien_species_cyprus:taxon:c3a55cdfd1d52b3bba75afd53e3343fe,Sapium stylare Müll.Arg.,Plantae,SPECIES
+323328863,8052612,alien_species_cyprus:taxon:b856741816ff5e61a2e0bc69d9e7111d,"Sillago suezensis Golani, Fricke & Tikochinski, 2013",Animalia,SPECIES
+323328864,5380041,alien_species_cyprus:taxon:da666bbfe4e285d51013b5d85ac04617,Ricinus communis L.,Plantae,SPECIES
+323328868,2396749,alien_species_cyprus:taxon:1885343f585fdff993cc5fe48a8411af,"Parupeneus forsskali (Fourmanoir & Guézé, 1976)",Animalia,SPECIES
+323328871,2874199,alien_species_cyprus:taxon:b0da59a6610be06bd40db8aef7b59e4c,Passiflora caerulea L.,Plantae,SPECIES
+323328872,2396797,alien_species_cyprus:taxon:4f96ce45f6a4735a6ba0c16c0c4e2c1a,"Upeneus pori Ben-Tuvia & Golani, 1989",Animalia,SPECIES
+323328873,2874190,alien_species_cyprus:taxon:858fa98483971f825722fe880d30ade8,Passiflora edulis Sims,Plantae,SPECIES
+323328874,2396768,alien_species_cyprus:taxon:b58a3bef6e001c22958ca07b2d9ba582,"Upeneus moluccensis (Bleeker, 1855)",Animalia,SPECIES
+323328879,2390185,alien_species_cyprus:taxon:a35a1cd917e4e12093be725034ce2597,"Siganus rivulatus Forsskål & Niebuhr, 1775",Animalia,SPECIES
+323328880,5372829,alien_species_cyprus:taxon:9d61b3597b7e8e10433287c7e1423aec,Salix fragilis L.,Plantae,SPECIES
+323328881,2390262,alien_species_cyprus:taxon:7b5f177a37b11fa10b552a115e42838c,"Siganus luridus (Rüppell, 1829)",Animalia,SPECIES
+323328882,5372639,alien_species_cyprus:taxon:8d85584da983be5a5939f9c75e0728a0,Salix babylonica L.,Plantae,SPECIES
+323328886,2379964,alien_species_cyprus:taxon:2cd86fa6a4e4950bdabab7822b49f5be,"Nemipterus randalli Russell, 1986",Animalia,SPECIES
+323328887,3040227,alien_species_cyprus:taxon:e92113a2f6b3aa924b93c69359abbdb7,Populus nigra L.,Plantae,SPECIES
+323328889,3040233,alien_species_cyprus:taxon:62e9630e7aa8e77b667272628a7ad713,Populus alba L.,Plantae,SPECIES
+323328892,7987711,alien_species_cyprus:taxon:e34f1d13e3f55215852fff6ba2ea2882,"Oxyurichthys petersii (Klunzinger, 1871)",Animalia,SPECIES
+323328895,2873861,alien_species_cyprus:taxon:4a350b128dea39f12b985eb7fea56eb2,Linum usitatissimum L.,Plantae,SPECIES
+323328897,2873926,alien_species_cyprus:taxon:29bc7f12071a0086d5bf857c63091c5e,Linum grandiflorum Desf.,Plantae,SPECIES
+323328898,2389100,alien_species_cyprus:taxon:785e7417c6ecf739fc898f22aa5586b4,"Variola louti (Forsskål, 1775)",Animalia,SPECIES
+323328903,2390581,alien_species_cyprus:taxon:d0b76c4d19cf31f44414e2bb019adbcf,"Alepes djedaba (Forsskål, 1775)",Animalia,SPECIES
+323328907,3845268,alien_species_cyprus:taxon:ba669e37a1e444c5a39e61d123ca17a1,Melianthus comosus Vahl,Plantae,SPECIES
+323328908,2385069,alien_species_cyprus:taxon:cd4c77cc2fd82854eb63f6fcaee32ded,"Lutjanus argentimaculatus (Forsskål, 1775)",Animalia,SPECIES
+323328914,2382872,alien_species_cyprus:taxon:34d34d889a9439e1c7dd9b701dfaa5b5,"Pomadasys stridens (Forsskål, 1775)",Animalia,SPECIES
+323328916,7311536,alien_species_cyprus:taxon:ea3b4d96ab16c41a3633cd5d558926c7,Daphne oleoides Schreb.,Plantae,SPECIES
+323328919,8140485,alien_species_cyprus:taxon:7a8b2308eda1acad292de960517ced2e,"Perca fluviatilis Linnaeus, 1758",Animalia,SPECIES
+323328922,3152084,alien_species_cyprus:taxon:dbcb7a668f96deecd146498acc2e74b2,Corchorus olitorius L.,Plantae,SPECIES
+323328924,5209188,alien_species_cyprus:taxon:96a050cb85eb98d31acf35ff0ffc07a0,"Acanthurus coeruleus Bloch & Schneider, 1801",Animalia,SPECIES
+323328925,3152081,alien_species_cyprus:taxon:7638e9de7d0c765176fa218e5215aeb0,Corchorus trilocularis L.,Plantae,SPECIES
+323328929,3669210,alien_species_cyprus:taxon:ec97a70ca8d4fe70fa71b56a66da1916,Pterospermum acerifolium (L.) Willd.,Plantae,SPECIES
+323328930,4285694,alien_species_cyprus:taxon:1af08f97ddb2502d20f6de411c9cc9f4,"Oreochromis niloticus (Linnaeus, 1758)",Animalia,SPECIES
+323328932,2372367,alien_species_cyprus:taxon:b019a2a7164181d4efa87c3a0ef690dc,"Oreochromis aureus (Steindachner, 1864)",Animalia,SPECIES
+323328934,3152583,alien_species_cyprus:taxon:204a4503e07bcbe2e45aa7804c0e9423,Hibiscus syriacus L.,Plantae,SPECIES
+323328936,3152555,alien_species_cyprus:taxon:deab55a8f0e68ef20ce27e9dface2d0b,Hibiscus mutabilis L.,Plantae,SPECIES
+323328937,2386919,alien_species_cyprus:taxon:998b80c12338e68ddc0da3b1e49060ce,"Callionymus filamentosus Valenciennes, 1837",Animalia,SPECIES
+323328938,3152559,alien_species_cyprus:taxon:efa4003bcfee71a875aab5f4eb35baff,Hibiscus rosa-sinensis L.,Plantae,SPECIES
+323328940,3152566,alien_species_cyprus:taxon:3b9fd8db6d102f7e2908b03d15dd12d0,Hibiscus coccineus (Medik.) Walter,Plantae,SPECIES
+323328941,2386659,alien_species_cyprus:taxon:bf3e6845f264340fb351abe34cda5e9d,"Synchiropus sechellensis Regan, 1908",Animalia,SPECIES
+323328945,3152614,alien_species_cyprus:taxon:747ac5ba4b5e2afdd87a491c94f8d405,Abutilon theophrasti Medik.,Plantae,SPECIES
+323328946,2374255,alien_species_cyprus:taxon:6639a99342b889e417c9a161a4166e2c,"Scomberomorus commerson (Lacepède, 1800)",Animalia,SPECIES
+323328949,3152268,alien_species_cyprus:taxon:da0d2963738ecac5eba32af00a1ff0fb,Malvastrum coromandelianum (L.) Garcke,Plantae,SPECIES
+323328950,2374013,alien_species_cyprus:taxon:26e5ad9181e3a7cbefd36211bf38e0cb,"Thunnus albacares (Bonnaterre, 1788)",Animalia,SPECIES
+323328954,3152658,alien_species_cyprus:taxon:80e8706b709b83e7c802b67da7000fad,Gossypium herbaceum L.,Plantae,SPECIES
+323328956,3152661,alien_species_cyprus:taxon:5f6243cefeb6e198215d32155168e30d,Gossypium hirsutum L.,Plantae,SPECIES
+323328957,5202520,alien_species_cyprus:taxon:e74789ef13e7cd477fe6d6a07059045e,"Ictalurus punctatus (Rafinesque, 1818)",Animalia,SPECIES
+323328959,3152666,alien_species_cyprus:taxon:5d01b67b8a1ad080dea3bd8102c6140f,Gossypium barbadense L.,Plantae,SPECIES
+323328962,7965247,alien_species_cyprus:taxon:163a39867c156bbfd1725dfa0a751ac8,"Plotosus lineatus (Thunberg, 1787)",Animalia,SPECIES
+323328963,7323035,alien_species_cyprus:taxon:0d164d745a7437e64a25a940d8774401,Brachychiton populneus (Schott & Endl.) R.Br.,Plantae,SPECIES
+323328968,5406697,alien_species_cyprus:taxon:8d5ebb1ef239a5f5b514924a13719cfc,Ceiba pentandra (L.) Gaertn.,Plantae,SPECIES
+323328971,5212667,alien_species_cyprus:taxon:948f3d7d0f1c33970f2d50353a6d7409,"Synodus randalli Cressey, 1981",Animalia,SPECIES
+323328972,3152707,alien_species_cyprus:taxon:f1ad281a622f57ae22eb483554fe6292,Abelmoschus esculentus (L.) Moench,Plantae,SPECIES
+323328977,5545555,alien_species_cyprus:taxon:dc6fa5289377936d6d062407c6aa12e4,Cola heterophylla (P.Beauv.) Schott & Endl.,Plantae,SPECIES
+323328978,2375043,alien_species_cyprus:taxon:7fe97862ea7ac5a999d0e54063d7c139,"Priacanthus sagittarius Starnes, 1988",Animalia,SPECIES
+323328981,4259350,alien_species_cyprus:taxon:a7ce817f3b0ca38fa14f4b52d3e26f5a,Tilia tomentosa Moench,Plantae,SPECIES
+323328986,8688929,alien_species_cyprus:taxon:6a49297ac806c30325cfc229c11f1b3d,"Ceiba speciosa (A.St.-Hil., A.Juss. & Cambess.) Ravenna",Plantae,SPECIES
+5215888,5215888,alien_species_cyprus:taxon:2d62d4d2ec1d1e386b266c9e4760fabc,"Himantura uarnak (Forskål, 1775)",Animalia,SPECIES
+323328990,5406789,alien_species_cyprus:taxon:4aecfa02fcbbe34e1c59ab4bb3656533,Alcea rosea L.,Plantae,SPECIES
+323328995,2334433,alien_species_cyprus:taxon:50aae216850bb3bb0d317c58912d8350,"Pterois miles (Bennett, 1828)",Animalia,SPECIES
+323328996,6437976,alien_species_cyprus:taxon:8bd92cd157871180c120bb7e69005b3f,Cistus ladanifer L.,Plantae,SPECIES
+323329000,5201174,alien_species_cyprus:taxon:65f92b3fda11b49e27144917d6372789,"Synanceia verrucosa Bloch & Schneider, 1801",Animalia,SPECIES
+323329005,3170473,alien_species_cyprus:taxon:efa02c66c942403024b56dc44ab7d772,Cryptostegia grandiflora (Roxb.) R.Br.,Plantae,SPECIES
+323329006,5962255,alien_species_cyprus:taxon:295e8d3f212631a5af79bbe8c87bfdbd,"Cyclopterus lumpus Linnaeus, 1758",Animalia,SPECIES
+323329013,7999925,alien_species_cyprus:taxon:2d3c5f5ce20209040d05a9ae84bb8e6d,"Atherinomorus forskalii (Rüppell, 1838)",Animalia,SPECIES
+323329014,3169137,alien_species_cyprus:taxon:10b621f3efbc9d175cb01c1332aacf2f,Euonymus fortunei (Turcz.) Hand.-Mazz.,Plantae,SPECIES
+323329016,7102937,alien_species_cyprus:taxon:9534ca1170d8f09bd0b5e5537d41febf,Euonymus japonicus Thunb.,Plantae,SPECIES
+323329023,2489005,alien_species_cyprus:taxon:32d79575fdd275826368ce9c5bab0a61,"Acridotheres tristis (Linnaeus, 1766)",Animalia,SPECIES
+323329025,2888740,alien_species_cyprus:taxon:6198f33c2214311effb281435e9253d0,Centranthus ruber (L.) DC.,Plantae,SPECIES
+323329028,8012439,alien_species_cyprus:taxon:123b4201155fd7d6b1064778249ede5b,Symphoricarpos albus (L.) K.Koch,Plantae,SPECIES
+323329029,11221569,alien_species_cyprus:taxon:cac2690ff85bb06c13e2532c6a565a00,Serinus canaria domestica,Animalia,SUBSPECIES
+323329032,7301010,alien_species_cyprus:taxon:28e673cc1ab27922d166e316bbef2224,Sixalix atropurpurea (L.) Greuter & Burdet,Plantae,SPECIES
+323329035,2482499,alien_species_cyprus:taxon:8bcfbc95a6848f7f9a3ab819dbda9eca,"Corvus splendens Vieillot, 1817",Animalia,SPECIES
+323329036,5334240,alien_species_cyprus:taxon:81e63b7e05c58bbd468d6f9ecfeace4a,Lonicera japonica Thunb.,Plantae,SPECIES
+323329039,2493632,alien_species_cyprus:taxon:3054fefa3a2ce391999b861a2a61f4ec,"Taeniopygia Reichenbach, 1862",Animalia,GENUS
+323329041,2888722,alien_species_cyprus:taxon:46d89d5a0e96a6ba9c871976c00de7fe,Sambucus ebulus L.,Plantae,SPECIES
+323329043,2888723,alien_species_cyprus:taxon:194dc2eb176bc3e7fcbf53e8dc03e83e,Sambucus racemosa L.,Plantae,SPECIES
+323329045,2888728,alien_species_cyprus:taxon:69a3e6f889001bea09ef0169d202dabe,Sambucus nigra L.,Plantae,SPECIES
+6101223,2495659,alien_species_cyprus:taxon:f0adce09c36f455451a422e7af613b8f,"Spilopelia senegalensis (Linnaeus, 1766)",Animalia,SPECIES
+323329050,2495696,alien_species_cyprus:taxon:ecf76517093173d88bdc4d2034d4cf84,"Streptopelia decaocto (Frivaldszky, 1838)",Animalia,SPECIES
+323329051,2888605,alien_species_cyprus:taxon:cba59c2e53403ef10c5c662c6055f59a,Viburnum opulus L.,Plantae,SPECIES
+323329052,2495688,alien_species_cyprus:taxon:4be06bdb36ec042e8b9ece675c7360ff,"Streptopelia roseogrisea (Sundevall, 1857)",Animalia,SPECIES
+323329053,2888626,alien_species_cyprus:taxon:0f2aedcc6091ee54f83171e10d2c6073,Viburnum odoratissimum Ker Gawl.,Plantae,SPECIES
+323329054,2888615,alien_species_cyprus:taxon:548b4285a7a9be630f44305ed81a51d8,Viburnum lantana L.,Plantae,SPECIES
+323329061,2498305,alien_species_cyprus:taxon:b70f60023bfbb02c59a6be170a5fe5c1,"Oxyura jamaicensis (J.F.Gmelin, 1789)",Animalia,SPECIES
+323329062,5372392,alien_species_cyprus:taxon:4782657215b1fab9c1754ad143cc35bc,Vitis vinifera L.,Plantae,SPECIES
+323329065,2498252,alien_species_cyprus:taxon:59c7d9247128d6293a77e6e39edd2fc9,"Alopochen aegyptiaca (Linnaeus, 1766)",Animalia,SPECIES
+323329066,3039194,alien_species_cyprus:taxon:0a8bb964de613d97f4ab9f0be46c4224,Parthenocissus quinquefolia (L.) Planch.,Plantae,SPECIES
+2498283,2498283,alien_species_cyprus:taxon:35efaeeb66111ca5b7bbdfa70ac909eb,Cairina moschata (Established Feral),Animalia,SPECIES
+323329073,2985963,alien_species_cyprus:taxon:84933a1d13c1e6f266be13c01c6645a6,Deutzia crenata Siebold & Zucc.,Plantae,SPECIES
+323329074,2498343,alien_species_cyprus:taxon:e807a8dce4a43813db48c1566c1bd0e6,"Cygnus olor (J.F.Gmelin, 1789)",Animalia,SPECIES
+323329079,3082234,alien_species_cyprus:taxon:fd6eae3ca5d59bc88bad45e52d808e7f,Cornus sanguinea L.,Plantae,SPECIES
+323329082,9752149,alien_species_cyprus:taxon:bc42037d65926b03a40f4abb1bf4bb28,"Phasianus colchicus Linnaeus, 1758",Animalia,SPECIES
+323329086,5914287,alien_species_cyprus:taxon:43328d8f66abb60d2090edbfdaafa41f,Melia azedarach L.,Plantae,SPECIES
+9457155,7548673,alien_species_cyprus:taxon:c35c7bb9d582fe70bc6c5b615773dc97,Gallus gallus f. domesticus,Animalia,FORM
+323329091,2473958,alien_species_cyprus:taxon:29495e97c4dbb6e1d3fbb3d36c1888f8,"Perdix perdix (Linnaeus, 1758)",Animalia,SPECIES
+323329092,3190653,alien_species_cyprus:taxon:54251798d07ab8d70c55d3736987af7e,Ailanthus altissima (Mill.) Swingle,Plantae,SPECIES
+323329095,2473733,alien_species_cyprus:taxon:85fe9508d2a63df4bea35c3bfd2d24bc,"Ammoperdix heyi (Temminck, 1825)",Animalia,SPECIES
+323329098,3189866,alien_species_cyprus:taxon:144da6d1e1e34060d579cf7981872a92,Acer negundo L.,Plantae,SPECIES
+323329099,9606290,alien_species_cyprus:taxon:1e91c263e764898c649ebeb227e27765,"Meleagris gallopavo Linnaeus, 1758",Animalia,SPECIES
+323329100,3189870,alien_species_cyprus:taxon:d5acbe429b998b1c023f9a426b49eb71,Acer pseudoplatanus L.,Plantae,SPECIES
+323329104,5421144,alien_species_cyprus:taxon:2b9b94f3ef12140bbf75b596937b590c,Dodonaea viscosa (L.) Jacq.,Plantae,SPECIES
+323329105,9791464,alien_species_cyprus:taxon:38d8348c2957cd4ca52e47412e1e1b1f,"Colinus virginianus (Linnaeus, 1758)",Animalia,SPECIES
+323329106,5576925,alien_species_cyprus:taxon:1fe7c803f9c6c0e4aa6fb98cf3adc15e,Dodonaea triquetra J.C.Wendl.,Plantae,SPECIES
+323329110,5421180,alien_species_cyprus:taxon:8b19d3fb0821d90d7b52248764ce0f35,Koelreuteria paniculata Laxm.,Plantae,SPECIES
+323329113,2479977,alien_species_cyprus:taxon:e308de1711d7e2f41fd708f6915cc3b8,"Nymphicus hollandicus (Kerr, 1792)",Animalia,SPECIES
+323329114,5421133,alien_species_cyprus:taxon:fdd44628f7c795e05599c198e3584311,Sapindus mukorossi Gaertn.,Plantae,SPECIES
+323329118,3189815,alien_species_cyprus:taxon:382684773ba2e015a200765ae7a8d2a3,Aesculus hippocastanum L.,Plantae,SPECIES
+323329119,2479407,alien_species_cyprus:taxon:9ec2a2ff407f1246640b8c5249eb16b2,"Myiopsitta monachus (Boddaert, 1783)",Animalia,SPECIES
+323329122,3189939,alien_species_cyprus:taxon:f6de20d4eb9f49e3300eb9ceccaeb90a,Cardiospermum halicacabum L.,Plantae,SPECIES
+323329123,2479226,alien_species_cyprus:taxon:f7bbc6cb5eb8b550e77717a0d18c19ef,"Psittacula krameri (Scopoli, 1769)",Animalia,SPECIES
+323329127,2479798,alien_species_cyprus:taxon:55614c2936135f1f3fbdf949fc7fdf99,"Melopsittacus undulatus (Shaw, 1805)",Animalia,SPECIES
+323329128,3190522,alien_species_cyprus:taxon:bd0f5006d9382d1d5c3b8e1ba10a4058,Cotinus coggygria Scop.,Plantae,SPECIES
+323329129,2479538,alien_species_cyprus:taxon:5f7ced0bd9070cf744986a66081922e8,"Agapornis Selby, 1836",Animalia,GENUS
+323329132,5544358,alien_species_cyprus:taxon:23e0c2cc5cc6111c4f828cf901d03f78,Searsia erosa (Thunb.) Moffett,Plantae,SPECIES
+323329136,3190585,alien_species_cyprus:taxon:b52f8a30a4db3a8b03ef3ad56f3fd422,Pistacia vera L.,Plantae,SPECIES
+323329137,2412966,alien_species_cyprus:taxon:f8dbc309101a220a9f52f6f181c726d7,"Dussumieria elopsoides Bleeker, 1849",Animalia,SPECIES
+323329140,3660419,alien_species_cyprus:taxon:3f8cf80adaac036f91baa35a7f3742fd,Schinus terebinthifolia Raddi,Plantae,SPECIES
+323329141,8365316,alien_species_cyprus:taxon:4b28bc1f5c6f73c09cfa6ccb6eb90e63,"Etrumeus golanii DiBattista, Randall & Bowen, 2012",Animalia,SPECIES
+323329142,3190642,alien_species_cyprus:taxon:d75a5259648e5f8a0ebc336b0c77c18f,Schinus molle L.,Plantae,SPECIES
+323329146,2412987,alien_species_cyprus:taxon:cd8b08de85b546f450148c915df7e6aa,"Spratelloides delicatulus (Bennett, 1832)",Animalia,SPECIES
+323329147,3190538,alien_species_cyprus:taxon:606bdc709eb07b1686e465ffa5a7ba30,Rhus typhina L.,Plantae,SPECIES
+7647136,9198046,alien_species_cyprus:taxon:7c78d3532c3937d45f121ce9671a874d,Citrus ×limon (L.) Osbeck,Plantae,SPECIES
+323329154,2359706,alien_species_cyprus:taxon:2dde29454fb91526cd84931e5f0d6a35,"Rutilus rutilus (Linnaeus, 1758)",Animalia,SPECIES
+323329155,3190164,alien_species_cyprus:taxon:cfe4d4c302762b95e533bb380f4c65c2,Citrus ×aurantiifolia (Christm.) Swingle,Plantae,SPECIES
+323329157,8077391,alien_species_cyprus:taxon:d9a71c96f1e715be838a0ad4c5fd9bf2,Citrus ×aurantium L.,Plantae,SPECIES
+323329158,2359471,alien_species_cyprus:taxon:225bd04d904291d1f84c6bff1f4cef76,"Blicca bjoerkna (Linnaeus, 1758)",Animalia,SPECIES
+323329159,3190157,alien_species_cyprus:taxon:032a55d336b1f06c394dcd2b59835364,Citrus medica L.,Plantae,SPECIES
+323329161,3190172,alien_species_cyprus:taxon:505789b7930dd83a814a095d80bc7679,Citrus reticulata Blanco,Plantae,SPECIES
+323329162,2366645,alien_species_cyprus:taxon:d429e749d65893c047980df31f6ee44a,"Carassius carassius (Linnaeus, 1758)",Animalia,SPECIES
+3190160,3190161,alien_species_cyprus:taxon:81ff912fd9ac145956c594c8c91a73dd,Citrus maxima (Burm.) Merr.,Plantae,SPECIES
+323329164,4286942,alien_species_cyprus:taxon:b2c568ed80e068663382f1a64af8e14a,"Carassius auratus (Linnaeus, 1758)",Animalia,SPECIES
+323329168,4286975,alien_species_cyprus:taxon:8b32d5cddba1fc617fe94ffb3f728232,"Cyprinus carpio Linnaeus, 1758",Animalia,SPECIES
+323329171,3167003,alien_species_cyprus:taxon:3472290b3f9ac9433524d5a432d6c40a,Triodanis perfoliata (L.) Nieuwl.,Plantae,SPECIES
+323329172,2362473,alien_species_cyprus:taxon:f11d27a8d426944207ec9877dd1e1291,"Hypophthalmichthys molitrix (Valenciennes, 1844)",Animalia,SPECIES
+323329175,2362925,alien_species_cyprus:taxon:d138eb6b9cae3e4813ca4d25c9df00e3,"Alburnus alburnus (Linnaeus, 1758)",Animalia,SPECIES
+323329178,3086845,alien_species_cyprus:taxon:73ebba2f243c876919dd0c802296eee0,Flaveria trinervia (Spreng.) C.Mohr,Plantae,SPECIES
+323329182,3120060,alien_species_cyprus:taxon:8a16864acd7cccd3b877a67f3958b8e8,Achillea millefolium L.,Plantae,SPECIES
+323329183,5201037,alien_species_cyprus:taxon:f1825e40d395f0df3d12bbfa5f8df079,"Hippocampus kuda Bleeker, 1852",Animalia,SPECIES
+323329186,3111754,alien_species_cyprus:taxon:67e98236cee216a8aa8928bc3f781a94,Zinnia elegans Jacq.,Plantae,SPECIES
+323329189,5200931,alien_species_cyprus:taxon:ad27882e5aebca8dcb370f37ed4be521,"Fistularia petimba Lacepède, 1803",Animalia,SPECIES
+323329190,5200938,alien_species_cyprus:taxon:5c0f6a84c6f8a9f9133662f62404fcbb,"Fistularia commersonii Rüppell, 1838",Animalia,SPECIES
+323329191,3089150,alien_species_cyprus:taxon:59a8d77a2a1c958a16121b1f6757b813,Xanthium spinosum L.,Plantae,SPECIES
+323329195,3104179,alien_species_cyprus:taxon:be8fb1a04d5e84d9791c447b92ae093f,Tripleurospermum inodorum (L.) Sch.-Bip,Plantae,SPECIES
+323329198,2407378,alien_species_cyprus:taxon:91d5bae7b1f10852e7a41ec39bcf1a1b,"Arothron hispidus (Linnaeus, 1758)",Animalia,SPECIES
+323329199,7223198,alien_species_cyprus:taxon:207093cf5804d9481e10a5cb3e7af311,Lapsana communis subsp. communis,Plantae,SUBSPECIES
+323329202,2407780,alien_species_cyprus:taxon:cab79a226729bd6cf3c9dcfcc0478deb,"Lagocephalus suezensis Clark & Gohar, 1953",Animalia,SPECIES
+323329203,2407758,alien_species_cyprus:taxon:d90a197354708429cf7d0ec5bd9453de,"Lagocephalus sceleratus (Gmelin, 1789)",Animalia,SPECIES
+323329204,7222727,alien_species_cyprus:taxon:76d30bd73cffad297694df0c6831c6cf,Heterotheca subaxillaris subsp. subaxillaris,Plantae,SUBSPECIES
+323329205,2407748,alien_species_cyprus:taxon:b5933411f8044a2be046b966958b1763,"Lagocephalus guentheri Miranda Ribeiro, 1915",Animalia,SPECIES
+323329208,3119175,alien_species_cyprus:taxon:82f573e4ab3329f61e05f1fa318e50dc,Helianthus tuberosus L.,Plantae,SPECIES
+323329209,2407287,alien_species_cyprus:taxon:c55dc4e742049356881ca53f491f4e07,"Torquigener hypselogeneion (Bleeker, 1852)",Animalia,SPECIES
+323329210,9206251,alien_species_cyprus:taxon:c4328a9c0a892d3231930cae8f5df473,Helianthus annuus L.,Plantae,SPECIES
+323329214,11153937,alien_species_cyprus:taxon:3bf0c81050a228b57b8b5a4eb838e451,Jacobaea maritima subsp. maritima,Plantae,SUBSPECIES
+323329215,5213449,alien_species_cyprus:taxon:74cac0fbadb4940cf3b9b8ad9a1bc203,"Stephanolepis diaspros Fraser-Brunner, 1940",Animalia,SPECIES
+323329219,3103791,alien_species_cyprus:taxon:95c462293186dbf5a1e538bc3358227a,Matricaria discoidea DC.,Plantae,SPECIES
+323329220,5213374,alien_species_cyprus:taxon:6151cd035f6c63033537dd080046cfec,"Diodon hystrix Linnaeus, 1758",Animalia,SPECIES
+323329223,5391882,alien_species_cyprus:taxon:31cf828c0e8727e0cb7f0389cd50dc13,Bidens subalternans DC.,Plantae,SPECIES
+323329225,5389402,alien_species_cyprus:taxon:33084f9a5e3c44b3626b827a231f934a,Bidens bipinnata L.,Plantae,SPECIES
+323329227,5391845,alien_species_cyprus:taxon:17b45dca01e83fa62642c6375acd4c0f,Bidens pilosa L.,Plantae,SPECIES
+323329228,8456531,alien_species_cyprus:taxon:822557404288cfaffa2ec9d4da0e4634,"Saurida lessepsianus Russell, Golani & Tikochinski, 2015",Animalia,SPECIES
+323329232,5394163,alien_species_cyprus:taxon:ad3b11d2bcc1caafeca0b9feeba57575,Taraxacum officinale Weber ex F.H.Wigg.,Plantae,SPECIES
+323329236,3120677,alien_species_cyprus:taxon:5eb608ed5bb6b3941dc0474c6b02bf98,Artemisia arborescens L.,Plantae,SPECIES
+323329237,5200757,alien_species_cyprus:taxon:15e273627df6bfe70d8d0ad03a4545f9,"Botryllus schlosseri (Pallas, 1766)",Animalia,SPECIES
+323329238,8373355,alien_species_cyprus:taxon:31c7c669dd9496c0f39299b5dfe3d25a,Artemisia annua L.,Plantae,SPECIES
+323329240,3120790,alien_species_cyprus:taxon:09a5fd4ac4b9a6389c8c064128746d7c,Artemisia verlotiorum Lamotte,Plantae,SPECIES
+323329241,2332243,alien_species_cyprus:taxon:8b5b9bdce746065e0915045084ef7aa7,"Symplegma brakenhielmi (Michaelsen, 1904)",Animalia,SPECIES
+323329244,5391480,alien_species_cyprus:taxon:b12099f96298345529adf7e6389bfe7f,Calendula officinalis L.,Plantae,SPECIES
+323329245,2331954,alien_species_cyprus:taxon:85dffafda328a5abb630314e19520fbd,"Styela plicata (Lesueur, 1823)",Animalia,SPECIES
+323329248,10793401,alien_species_cyprus:taxon:7ac0083569985270d343060e2853a66b,"Pseudopodospermum brevicaule (Vahl) Zaika, Sukhor. & N.Kilian",Plantae,SPECIES
+323329250,5200684,alien_species_cyprus:taxon:0115e2239a80c4cb7c83b61e0557433a,"Microcosmus exasperatus Heller, 1878",Animalia,SPECIES
+323329253,5401760,alien_species_cyprus:taxon:ef1b21cb22e8885f7639e236d3e061aa,Ageratum houstonianum Mill.,Plantae,SPECIES
+323329254,5200658,alien_species_cyprus:taxon:414e89473484f779aa1c9dd16469e163,"Herdmania momus (Savigny, 1816)",Animalia,SPECIES
+323329257,5387098,alien_species_cyprus:taxon:e51a944b3a5392552bf5a144d244617b,Dahlia coccinea Cav.,Plantae,SPECIES
+323329259,5387142,alien_species_cyprus:taxon:fcf0d12265029fe4d265445b11bbacd1,Dahlia ×pinnata Cav.,Plantae,SPECIES
+323329261,2330725,alien_species_cyprus:taxon:64bfec7b35ae70ec3e5d30b04565f809,"Ecteinascidia turbinata Herdman, 1880",Animalia,SPECIES
+323329264,8584304,alien_species_cyprus:taxon:82a316ba537f0bcebd6f39fe47ecbe50,Guizotia abyssinica (L.fil.) Cass.,Plantae,SPECIES
+323329267,2330558,alien_species_cyprus:taxon:9c6cbf1e03ffd2de432fb969c35a9b7a,"Phallusia nigra Savigny, 1816",Animalia,SPECIES
+323329268,8298495,alien_species_cyprus:taxon:883e33cdc56ee05bda2d9b229b112ec9,Galinsoga quadriradiata Ruiz & Pav.,Plantae,SPECIES
+323329270,3132570,alien_species_cyprus:taxon:6e47f39da7e03998777a3295e97a396b,Galinsoga parviflora Cav.,Plantae,SPECIES
+323329274,3118254,alien_species_cyprus:taxon:4c68d9371477d7ff77a9e7c688934784,Tanacetum balsamita L.,Plantae,SPECIES
+323329275,2330198,alien_species_cyprus:taxon:a58ed4179e11379c524470c3c7a4efb7,"Clavelina lepadiformis (Müller, 1776)",Animalia,SPECIES
+323329276,3118284,alien_species_cyprus:taxon:7650ddf91a4ae7234f9aba1d9641c940,Tanacetum cinerariifolium (Trevis.) Sch.Bip.,Plantae,SPECIES
+323329277,2330172,alien_species_cyprus:taxon:12b4c221afe2605c187b38c546800411,"Clavelina oblonga Herdman, 1880",Animalia,SPECIES
+323329279,3118430,alien_species_cyprus:taxon:16cf0863da999a95b94166635e430bf7,Tanacetum parthenium (L.) Sch.Bip.,Plantae,SPECIES
+323329283,3146717,alien_species_cyprus:taxon:3758bc4ea26454781150ae07badfabec,Erigeron bonariensis L.,Plantae,SPECIES
+323329285,3146791,alien_species_cyprus:taxon:c027276988de597ffd59257abe95638e,Erigeron canadensis L.,Plantae,SPECIES
+323329286,2435506,alien_species_cyprus:taxon:9447501a9f540be2e48f9e937d4caa35,"Suncus etruscus (Savi, 1822)",Animalia,SPECIES
+323329287,3146683,alien_species_cyprus:taxon:eb4c7e69b1a4822c4e5075a89ea9653e,Erigeron sumatrensis Retz.,Plantae,SPECIES
+323329291,3102871,alien_species_cyprus:taxon:1283e7117a8218199cce6a9b1d4b6151,Xerochrysum bracteatum (Vent.) Tzvelev,Plantae,SPECIES
+323329294,7705930,alien_species_cyprus:taxon:93eb7a94a008f93af61abdc6bbeb6f85,"Sus scrofa Linnaeus, 1758",Animalia,SPECIES
+323329295,3128888,alien_species_cyprus:taxon:a308062dbd5802101a8202d61224b177,Centaurea solstitialis L.,Plantae,SPECIES
+323329298,6294301,alien_species_cyprus:taxon:eb74b481a9acb09166acfa1f3312baba,Centaurea nigra subsp. nigra,Plantae,SUBSPECIES
+323329299,2441110,alien_species_cyprus:taxon:419245b99130636689760e5b04d004cf,"Ovis aries Linnaeus, 1758",Animalia,SPECIES
+323329302,3112361,alien_species_cyprus:taxon:c3cf72c391469ef60c070741102d7ba9,Cynara scolymus L.,Plantae,SPECIES
+323329303,2441022,alien_species_cyprus:taxon:5366047cc001fb8df4c1eeccc2e9f1a7,"Bos taurus Linnaeus, 1758",Animalia,SPECIES
+323329306,5390636,alien_species_cyprus:taxon:b6693fa6a87258bdb88e1482f09b2191,Cota austriaca (Jacq.) Sch.Bip.,Plantae,SPECIES
+323329307,2441056,alien_species_cyprus:taxon:b25fc7d735fe0f6b223c07bc06b2df7a,"Capra hircus Linnaeus, 1758",Animalia,SPECIES
+10676000,3142208,alien_species_cyprus:taxon:8d097173641c79f5a918b18befb35d91,Leuzea repens (L.) D.J.N.Hind,Plantae,SPECIES
+5706324,5220137,alien_species_cyprus:taxon:bb003479bb89d0a51a63ddced6ec9029,"Dama dama mesopotamica (Brooke, 1875)",Animalia,SUBSPECIES
+323329314,3113414,alien_species_cyprus:taxon:fd29f5ab3cee2bb9671303825f881b84,Cirsium arvense (L.) Scop.,Plantae,SPECIES
+323329319,4933568,alien_species_cyprus:taxon:54225e32784c43664f0e0e024478b8a2,Senecio angulatus L.fil.,Plantae,SPECIES
+323329320,5218987,alien_species_cyprus:taxon:5c9331496fa91ec3e476de95bdb456eb,"Mustela nivalis Linnaeus, 1766",Animalia,SPECIES
+323329323,3138327,alien_species_cyprus:taxon:81b75c76b3da9f5b0946605877ba475b,Carthamus tinctorius L.,Plantae,SPECIES
+323329326,6164210,alien_species_cyprus:taxon:027abdd13b0005431f1f60da85aba3e2,"Canis lupus familiaris Linnaeus, 1758",Animalia,SUBSPECIES
+323329327,3125933,alien_species_cyprus:taxon:791bfccdbb0149bb0b90e34f1821bb04,Santolina chamaecyparissus L.,Plantae,SPECIES
+323329330,5219243,alien_species_cyprus:taxon:a150175237a5e6f3059841d6cc7433f6,"Vulpes vulpes (Linnaeus, 1758)",Animalia,SPECIES
+323329331,3098912,alien_species_cyprus:taxon:25fedd9d3d9626d2a920f3e4d9c880e3,Cosmos bipinnatus Cav.,Plantae,SPECIES
+323329335,3088481,alien_species_cyprus:taxon:db36950e889c09a3c2e32f030b0d1361,Tagetes minuta L.,Plantae,SPECIES
+323329336,5218786,alien_species_cyprus:taxon:9ff05227e4481f8f997eab5ab232e364,"Procyon lotor (Linnaeus, 1758)",Animalia,SPECIES
+323329339,5384950,alien_species_cyprus:taxon:0cffded378429843aa91b5ea2ece1860,Eclipta prostrata (L.) L.,Plantae,SPECIES
+323329342,7964291,alien_species_cyprus:taxon:6d14edd5fb18cbfcfb1670329dcf7cbb,"Felis silvestris Schreber, 1777",Animalia,SPECIES
+323329343,5391152,alien_species_cyprus:taxon:3af85735734cfaa5b18a8da1c19835ef,Pentzia incana (Thunb.) Kuntze,Plantae,SPECIES
+323329344,2435035,alien_species_cyprus:taxon:f1f1a32768b381663234cafe4d2dac22,"Felis catus Linnaeus, 1758",Animalia,SPECIES
+323329351,2438261,alien_species_cyprus:taxon:c3bc8f28bd1e88585010fd73c98d11e6,"Acomys nesiotes Bate, 1903",Animalia,SPECIES
+323329352,3112455,alien_species_cyprus:taxon:e0db493e056a046a2d26b63f402404eb,Gazania rigens (L.) Gaertn.,Plantae,SPECIES
+323329355,7429082,alien_species_cyprus:taxon:0d240a2d6e440addb859e4d959af2843,"Mus musculus Linnaeus, 1758",Animalia,SPECIES
+323329359,2439261,alien_species_cyprus:taxon:c7652f8a4bd180288dd7bb0339fb3532,"Rattus norvegicus (Berkenhout, 1769)",Animalia,SPECIES
+323329360,2928666,alien_species_cyprus:taxon:df78224d2f58a22a3d9ebd91d7f73195,Dichondra micrantha Urb.,Plantae,SPECIES
+323329361,2439270,alien_species_cyprus:taxon:4c97a38dab6cb57a3d3338a28d25ef30,"Rattus rattus (Linnaeus, 1758)",Animalia,SPECIES
+323329364,2928397,alien_species_cyprus:taxon:ae5ece6962bd615e2f867000d2c27130,Convolvulus scammonia L.,Plantae,SPECIES
+323329368,2927530,alien_species_cyprus:taxon:d9b69243d944b9d40220e3a9b96037cc,Cuscuta epilinum Weihe,Plantae,SPECIES
+323329369,2436940,alien_species_cyprus:taxon:e55a4d1859bbd682ddb51b627098defe,"Oryctolagus cuniculus (Linnaeus, 1758)",Animalia,SPECIES
+323329370,3610757,alien_species_cyprus:taxon:bc442fdb0d05355cca860397baa3dbb0,Cuscuta campestris Yunck.,Plantae,SPECIES
+323329374,11065948,alien_species_cyprus:taxon:aaaa512df0991d905bf30c88eeeccaa5,Ipomoea lobata (Cerv.) Thell.,Plantae,SPECIES
+323329377,2928598,alien_species_cyprus:taxon:964a3f8f3aa1fa033f2379b422f656a4,Ipomoea indica (Burm.) Merr.,Plantae,SPECIES
+323329379,2928576,alien_species_cyprus:taxon:c7b4271078e2e5c870007c932b2c5e74,Ipomoea purpurea (L.) Roth,Plantae,SPECIES
+323329380,1004650,alien_species_cyprus:taxon:9db418c995f9b9129c92590cecd1cb04,"Celleporaria vermiformis (Waters, 1909)",Animalia,SPECIES
+323329385,5581168,alien_species_cyprus:taxon:b748a10a4bb5a88bd3a8dc3f8cb58d3a,Physalis philadelphica subsp. ixocarpa (Brot. ex Hornem.) Sobr.-Vesp. & Sanz-Elorza,Plantae,SUBSPECIES
+323329386,1005677,alien_species_cyprus:taxon:27225432d27e7b8a2421f9c9b8fa650d,"Watersipora subtorquata (d'Orbigny, 1852)",Animalia,SPECIES
+323329387,5341792,alien_species_cyprus:taxon:dd8e8a96adbee46509925fc4f4484d90,Physalis angulata L.,Plantae,SPECIES
+323329389,5341784,alien_species_cyprus:taxon:469591ea9449f7bb4dcbd7925c64bfb8,Physalis peruviana L.,Plantae,SPECIES
+323329392,1009044,alien_species_cyprus:taxon:59dc373c45d9560561950d5b46d40c74,"Microporella coronata (Audouin, 1826)",Animalia,SPECIES
+323329393,2928751,alien_species_cyprus:taxon:ef77ff673837574ff6d38c60b7fb8b6f,Datura stramonium L.,Plantae,SPECIES
+323329395,2928755,alien_species_cyprus:taxon:84ed0d4ed023696bba67831cc9a08e63,Datura innoxia Mill.,Plantae,SPECIES
+323329397,2928747,alien_species_cyprus:taxon:66231c398d5f510168a7af6f14f1f4b6,Datura metel L.,Plantae,SPECIES
+323329398,1006705,alien_species_cyprus:taxon:9d2cbded3ed9388f69fa0136a3a7f063,"Parasmittina egyptiaca (Waters, 1909)",Animalia,SPECIES
+323329401,2928791,alien_species_cyprus:taxon:ab2e21a94b24023cd67b47d533a1e56d,Cestrum nocturnum L.,Plantae,SPECIES
+323329405,3797394,alien_species_cyprus:taxon:41ae60dedbc97493d989596fcb308bd7,Lycium ferocissimum Miers,Plantae,SPECIES
+323329406,7446481,alien_species_cyprus:taxon:de34ade94688e99d8da6fb89ed5c826f,"Amathia verticillata (delle Chiaje, 1822)",Animalia,SPECIES
+323329410,2932944,alien_species_cyprus:taxon:beabf06c63152e0ad3d22802b457b5f5,Capsicum annuum L.,Plantae,SPECIES
+323329412,2932938,alien_species_cyprus:taxon:67fb18f8146081d797d84abf97e6882c,Capsicum baccatum L.,Plantae,SPECIES
+323329416,2928840,alien_species_cyprus:taxon:e77f2ed2ad10d1df3d743fed0be6a951,Withania somnifera (L.) Dunal,Plantae,SPECIES
+323329417,4341995,alien_species_cyprus:taxon:2d7e8acab013beb2a9230c99a30e2b8d,"Synaptula reciprocans (Forsskål, 1775)",Animalia,SPECIES
+323329420,5341760,alien_species_cyprus:taxon:40f51142235072e317be4daf9e06cb43,Brugmansia sanguinea (Ruiz & Pav.) D.Don,Plantae,SPECIES
+323329422,5341758,alien_species_cyprus:taxon:98561cbbf41a59ee80c62b62d5affbcf,Brugmansia suaveolens (Humb. & Bonpl. ex Willd.) Bercht. & J.Presl,Plantae,SPECIES
+323329424,5341759,alien_species_cyprus:taxon:3b96e371e3a36abafd269fb408dc0d45,Brugmansia arborea (L.) Steud.,Plantae,SPECIES
+323329427,2272084,alien_species_cyprus:taxon:0260bef7578d55a291053f3278c4317d,"Aquilonastra burtoni (Gray, 1840)",Animalia,SPECIES
+323329428,3799026,alien_species_cyprus:taxon:f1237bfe20bbd19aa627a81a015b2548,Lycianthes rantonnetii (Carrière ex Lesc.) Bitter,Plantae,SPECIES
+323329432,2930439,alien_species_cyprus:taxon:682e006f2a8cd79b7e27487064e8d4ca,Solanum laciniatum Aiton,Plantae,SPECIES
+323329434,2930262,alien_species_cyprus:taxon:0ef259c86783e975afaa0063a81129b7,Solanum tuberosum L.,Plantae,SPECIES
+323329436,2929800,alien_species_cyprus:taxon:f11dde41812b3ca93cee71eecee059bf,Solanum angustifolium Houst. ex Mill.,Plantae,SPECIES
+323329437,2276151,alien_species_cyprus:taxon:e4dca866498827f830acebd0d93f8e51,"Ophiactis savignyi (Müller & Troschel, 1842)",Animalia,SPECIES
+323329438,2932040,alien_species_cyprus:taxon:7de94f5c98aa6372766da45b36b0b1ec,Solanum seaforthianum Andrews,Plantae,SPECIES
+323329439,2276189,alien_species_cyprus:taxon:7d471291feb03aa3af19c769439a9d9b,"Ophiactis macrolepidota Marktanner-Turneretscher, 1887",Animalia,SPECIES
+323329440,2931542,alien_species_cyprus:taxon:f46f87114d79880e9cff23054a8a032f,Solanum anguivi Lam.,Plantae,SPECIES
+323329442,2930137,alien_species_cyprus:taxon:c1e3742d1a2c1bee8b4959e5684358d4,Solanum lycopersicum L.,Plantae,SPECIES
+323329444,2930617,alien_species_cyprus:taxon:fb1022f09744e418108aff44e71fbffc,Solanum melongena L.,Plantae,SPECIES
+323329446,2929892,alien_species_cyprus:taxon:d3ddb100c22e0d196f6c3bc4c6ae3dad,Solanum elaeagnifolium Cav.,Plantae,SPECIES
+323329449,5721108,alien_species_cyprus:taxon:ce47354afaf40c1218ee219270443ed3,"Diadema setosum (Leske, 1778)",Animalia,SPECIES
+323329450,2928783,alien_species_cyprus:taxon:7f6221ee255bf9b1590f89783680d36c,Nicotiana glauca Graham,Plantae,SPECIES
+323329452,2928774,alien_species_cyprus:taxon:d4c6cb20140db4085655fa8fe1cb7e8f,Nicotiana tabacum L.,Plantae,SPECIES
+323329454,2928764,alien_species_cyprus:taxon:105963cbe2916f75107aa27f7a294d10,Nicotiana suaveolens Lehm.,Plantae,SPECIES
+323329457,2928775,alien_species_cyprus:taxon:f9fcf99020dd3d1a71cac74d8ada7ad7,Nicotiana rustica L.,Plantae,SPECIES
+323329460,2237923,alien_species_cyprus:taxon:e1195a9f765ebd952f2f5639f4c465dc,"Paraleucilla magna Klautau, Monteiro & Borojevic, 2004",Animalia,SPECIES
+323329465,3173453,alien_species_cyprus:taxon:a700480bae4f33d4cb12db241a93aae2,Callistemon lanceolatus (Sm.) Sweet,Plantae,SPECIES
+323329469,5415719,alien_species_cyprus:taxon:d5da001c3765408511a768031f4538bb,Melaleuca armillaris (Gaertn.) Sm.,Plantae,SPECIES
+323329472,4322154,alien_species_cyprus:taxon:0844b3437f6733783a432de215866800,"Triconia rufa (Boxshall & Böttger, 1987)",Animalia,SPECIES
+323329473,4322159,alien_species_cyprus:taxon:d45c155b53ca7e43ba1a9d37d1320734,"Triconia hawii (Böttger-Schnack & Boxshall, 1990)",Animalia,SPECIES
+323329474,3176772,alien_species_cyprus:taxon:54a54ee926434baf59ebb5468e5755b9,Eucalyptus gomphocephala A.Cunn. ex DC.,Plantae,SPECIES
+323329476,3176719,alien_species_cyprus:taxon:eea59a422a021bf54aa4f488222c10c4,Eucalyptus tereticornis Sm.,Plantae,SPECIES
+323329478,3177146,alien_species_cyprus:taxon:c7b4792e66c451d8101b18a32b274ff8,Eucalyptus occidentalis Endl.,Plantae,SPECIES
+323329480,3177189,alien_species_cyprus:taxon:dc0ab5cc2fec54311ab99aaadce4d529,Eucalyptus sideroxylon A.Cunn. ex Woolls,Plantae,SPECIES
+323329481,2114201,alien_species_cyprus:taxon:6dd2b24b1a8fbf680afeb37c3f7a3df5,"Calanopia elliptica (Dana, 1849)",Animalia,SPECIES
+323329482,3176371,alien_species_cyprus:taxon:1ed45faa0b9e282332f7fa3a4d72e720,Eucalyptus brockwayi C.A.Gardner,Plantae,SPECIES
+323329484,3176794,alien_species_cyprus:taxon:c9e3d52d2536373721117931ce14dd11,Eucalyptus melliodora A.Cunn. ex Schauer,Plantae,SPECIES
+323329486,3177119,alien_species_cyprus:taxon:64f71f29daf6200a27a4f64056860d04,Eucalyptus rudis Endl.,Plantae,SPECIES
+323329487,2114345,alien_species_cyprus:taxon:5782f2fc2d094ab03e36f4a78ae8b44a,"Euchaeta concinna Dana, 1849",Animalia,SPECIES
+323329488,3177263,alien_species_cyprus:taxon:ba5eb9036e17014fb67c38ef0cb3b1da,Eucalyptus porosa Miq.,Plantae,SPECIES
+3176197,3176197,alien_species_cyprus:taxon:57ff94bfd51d7fa2560a0fe189051c62,Eucalyptus camaldulensis Dehn.,Plantae,SPECIES
+323329491,3176835,alien_species_cyprus:taxon:8c5c45a2438b6d57580adf08671d6a02,Eucalyptus torquata Luehm.,Plantae,SPECIES
+323329493,3176816,alien_species_cyprus:taxon:89bf461459600d3cf762cf329dbfa00c,Eucalyptus cornuta Labill.,Plantae,SPECIES
+323329494,2114733,alien_species_cyprus:taxon:ee0420ef3c2f240748866103b113265f,"Centropages furcatus (Dana, 1849)",Animalia,SPECIES
+323329495,7750091,alien_species_cyprus:taxon:3e273db0ef1f6f682862f9f36afb7dbc,Eucalyptus odorata Behr,Plantae,SPECIES
+323329497,3176456,alien_species_cyprus:taxon:4941b2198faa635e57aa60f44a28c13b,Eucalyptus woodwardii Maiden,Plantae,SPECIES
+323329499,3177019,alien_species_cyprus:taxon:1f06e561ab051cdb98ed15af9fdef8a0,Eucalyptus leucoxylon F.Muell.,Plantae,SPECIES
+323329503,5420380,alien_species_cyprus:taxon:41462f6ad90fed3174bb7384c6d14f71,Psidium guajava L.,Plantae,SPECIES
+323329504,1419322,alien_species_cyprus:taxon:a5b87342573904de0bc984dbde806e01,"Echidnophaga gallinacea (Westwood, 1875)",Animalia,SPECIES
+323329508,1419472,alien_species_cyprus:taxon:45eca4f9126cb166cbfc441e16fc838c,"Ctenocephalides felis (Bouché, 1835)",Animalia,SPECIES
+323329509,5420912,alien_species_cyprus:taxon:ebd6bd9bddfc5a8cc5ac242999dec62b,Lawsonia inermis L.,Plantae,SPECIES
+323329510,1419468,alien_species_cyprus:taxon:9d99a73069743049e869edd9fc1c2de0,"Ctenocephalides canis (Curtis, 1926)",Animalia,SPECIES
+323329513,5420901,alien_species_cyprus:taxon:44bdbc63009fce9a629b336c630d51f5,Punica granatum L.,Plantae,SPECIES
+323329514,1419547,alien_species_cyprus:taxon:28b199f315e02488937b30a3e82cccdc,"Pulex irritans Linnaeus, 1758",Animalia,SPECIES
+323329519,3188924,alien_species_cyprus:taxon:0b894a44e2e4583aeaf84afd69b5b523,Oenothera biennis L.,Plantae,SPECIES
+323329520,1417654,alien_species_cyprus:taxon:c1c7392f702451434d918ad0d8c7e4e2,"Leptopsylla segnis (Schönherr, 1811)",Animalia,SPECIES
+323329521,3188847,alien_species_cyprus:taxon:98b799948c5f6efed57bea20e50d89bb,Oenothera affinis Cambess.,Plantae,SPECIES
+323329523,3188894,alien_species_cyprus:taxon:39a9f31497ad14978372b55ac5084c16,Oenothera glazioviana Micheli,Plantae,SPECIES
+7322650,8053718,alien_species_cyprus:taxon:8701759425cbaf18f9fafb0302716a28,Chamaenerion angustifolium subsp. angustifolium,Plantae,SUBSPECIES
+323329532,1421105,alien_species_cyprus:taxon:1b6d01f3c63ae1b07bb5cc9d235dd00c,"Thermobia domestica (Packard, 1837)",Animalia,SPECIES
+323329535,5414222,alien_species_cyprus:taxon:a3e093f5bd96e468b3a34d20394ed145,Ilex aquifolium L.,Plantae,SPECIES
+323329536,6098843,alien_species_cyprus:taxon:3278746857c3f853cc0f65f670a6d07a,"Ctenolepisma longicaudatum Escherich, 1905",Animalia,SPECIES
+323329543,3995995,alien_species_cyprus:taxon:53f9607983cb9741b121cb332d763eaf,Hakea drupacea (C.F.Gaertn.) Roem. & Schult.,Plantae,SPECIES
+323329544,1852118,alien_species_cyprus:taxon:0f91c7eccac816ec7229221a177d7219,"Phthorimaea operculella (Zeller, 1873)",Animalia,SPECIES
+323329547,2891791,alien_species_cyprus:taxon:4080203ac52a42600218cfeaf481e60a,Grevillea robusta A.Cunn. ex R.Br.,Plantae,SPECIES
+323329548,5121979,alien_species_cyprus:taxon:8a0c72a8feacc638749efb33bdeb7265,"Pectinophora gossypiella (Saunders, 1844)",Animalia,SPECIES
+4528100,4528099,alien_species_cyprus:taxon:53247b99117567521a949d8026e735b4,"Phthorimaea absoluta Meyrick, 1917",Animalia,SPECIES
+323329555,4204358,alien_species_cyprus:taxon:64b7aec3541d372902cac840b040bd75,Cobaea scandens Cav.,Plantae,SPECIES
+323329556,1849209,alien_species_cyprus:taxon:8b7091407e7d901e6ef70dfc0df3a216,"Sitotroga cerealella (Olivier, 1789)",Animalia,SPECIES
+323329560,1849681,alien_species_cyprus:taxon:3fb25ba8b4b0fc52436691f927c02568,"Scrobipalpa aptatella (Walker, 1864)",Animalia,SPECIES
+323329561,3032980,alien_species_cyprus:taxon:849dc04300f4dde976ebf56654dce60e,Diospyros lotus L.,Plantae,SPECIES
+323329563,3032986,alien_species_cyprus:taxon:c186e8b0b2b058cfb80b5638faf6ceda,Diospyros virginiana L.,Plantae,SPECIES
+323329564,1847596,alien_species_cyprus:taxon:736c0bc1cb5d40c9272abfa2a3ff5c25,"Anarsia balioneura Meyrick, 1921",Animalia,SPECIES
+323329565,3032984,alien_species_cyprus:taxon:e0249ae986bd41b341de4127fb752ddd,Diospyros kaki L.f.,Plantae,SPECIES
+323329569,2883026,alien_species_cyprus:taxon:08ab7460a996b53011935c505ada4ca9,Rhododendron L.,Plantae,GENUS
+323329570,5121048,alien_species_cyprus:taxon:485ce7d8bd69d530d22381ad8b2b357d,"Coleophora texanella Chambers, 1878",Animalia,SPECIES
+323329575,7127347,alien_species_cyprus:taxon:8fd92bb1ed8dd10e5791ff479f00f23b,Cyclamen creticum (Dörfl.) Hildebr.,Plantae,SPECIES
+323329576,1749240,alien_species_cyprus:taxon:5b7b2a5a6a841450c499de96576e90c5,"Stomphastis conflua (Meyrick, 1914)",Animalia,SPECIES
+323329579,5414335,alien_species_cyprus:taxon:fe3eb20be1cac7aa327e8b0b362c3286,Primula vulgaris Huds.,Plantae,SPECIES
+323329580,1749580,alien_species_cyprus:taxon:edc13a9885906a9b68f3d2282d2f6f6f,"Phyllocnistis citrella Stainton, 1856",Animalia,SPECIES
+323329584,1749936,alien_species_cyprus:taxon:e66a60eb7cd2b2dfa27126ef9d19e577,"Phyllonorycter platani (Staudinger, 1870)",Animalia,SPECIES
+11052595,6135809,alien_species_cyprus:taxon:a2d3fc975c5db4fe39d0a464feb69ee4,Begonia cucullata Hort.,Plantae,SPECIES
+323329589,7303522,alien_species_cyprus:taxon:8079422d2281b87c185223587df17103,Begonia hydrocotylifolia Otto ex Hook.,Plantae,SPECIES
+10766693,5104643,alien_species_cyprus:taxon:af08a510e48ef787cd09f22a4f6b81db,"Syndemis cedricola (Diakonoff, 1974)",Animalia,SPECIES
+323329591,7303475,alien_species_cyprus:taxon:2bda4569feb9e1fbe825aede617d8943,Begonia maculata Raddi,Plantae,SPECIES
+323329596,5109855,alien_species_cyprus:taxon:f3f1172f7043a801562e045fe960c785,"Spodoptera frugiperda J.E.Smith, 1797",Animalia,SPECIES
+323329597,2874521,alien_species_cyprus:taxon:3b43d63b814e97782b7f3d7dbfff5d4b,Cucurbita foetidissima Kunth,Plantae,SPECIES
+323329598,5109882,alien_species_cyprus:taxon:50d7ae7a233722f338f9fa7981d759cf,"Spodoptera litura (Fabricius, 1775)",Animalia,SPECIES
+323329601,2874612,alien_species_cyprus:taxon:06d58b56ce1f4d78141972f7f4875ea9,Sechium edule (Jacq.) Sw.,Plantae,SPECIES
+323329602,5772169,alien_species_cyprus:taxon:d2e2f6946692eaf8ee0efcdc3b62dcda,"Mythimna unipuncta (Haworth, 1809)",Animalia,SPECIES
+323329608,1858674,alien_species_cyprus:taxon:c96a3725ee2fb6dd3c7d66e13b28ba60,"Lantanophaga pusillidactylus (Walker, 1864)",Animalia,SPECIES
+323329609,2891661,alien_species_cyprus:taxon:b491199462dc0950936a771a2b2fc818,Oxalis pes-caprae L.,Plantae,SPECIES
+323329611,2891755,alien_species_cyprus:taxon:29b5ccb47f4bb87b8027b6d5f23dc8b7,Oxalis latifolia Kunth,Plantae,SPECIES
+323329614,1941864,alien_species_cyprus:taxon:df702a3f4b8619c7d06ad57055af212f,"Paysandisia archon (Burmeister, 1880)",Animalia,SPECIES
+323329619,7393329,alien_species_cyprus:taxon:8cf38fca8599e51a027dc005d587eb9d,Cucurbita moschata (Duchesne) Duchesne ex Poir.,Plantae,SPECIES
+323329620,5123419,alien_species_cyprus:taxon:de1248fef5447f934a8a11fb303b3bdc,"Choreutis sexfasciella Sauber, 1902",Animalia,SPECIES
+323329621,2874512,alien_species_cyprus:taxon:c0d5ddcd2f5ac9aba51059666da5c193,Cucurbita ficifolia Bouché,Plantae,SPECIES
+323329623,7317678,alien_species_cyprus:taxon:73108932c969a46ca5d451c412c5824c,Cucurbita argyrosperma subsp. argyrosperma,Plantae,SUBSPECIES
+323329625,2874508,alien_species_cyprus:taxon:5a79690915c14488fe0d913145d2be96,Cucurbita pepo L.,Plantae,SPECIES
+323329626,4529740,alien_species_cyprus:taxon:908bbef12f6021d30ccc0b8a4c7b7449,"Anatrachyntis simplex (Walsingham, 1891)",Animalia,SPECIES
+323329629,2874599,alien_species_cyprus:taxon:9ce86ee5d23ac3689eb64e09b8dfe7f3,Luffa aegyptiaca Mill.,Plantae,SPECIES
+323329632,1883200,alien_species_cyprus:taxon:d21115d4b18a6b00a4edb5b2529ab285,"Chilo partellus Swinhoe, 1885",Animalia,SPECIES
+323329633,2874621,alien_species_cyprus:taxon:ea4e390d375b45e9e44ab400aa5da8d6,Citrullus lanatus (Thunb.) Matsum. & Nakai,Plantae,SPECIES
+323329636,1882965,alien_species_cyprus:taxon:2cb8bdc24ba3c659cfa66e263dbbe6a5,"Herpetogramma licarsisalis (Walker, 1859)",Animalia,SPECIES
+323329637,2874569,alien_species_cyprus:taxon:4ca91da29ef3662ebce1668aa3326591,Cucumis sativus L.,Plantae,SPECIES
+323329639,2874570,alien_species_cyprus:taxon:92c409e20e6b3eedb6d8d1482ef1fb88,Cucumis melo L.,Plantae,SPECIES
+323329640,1873079,alien_species_cyprus:taxon:aa1858cb8d4538ca3735bfa1113bf636,"Plodia interpunctella (Hübner, 1813)",Animalia,SPECIES
+323329643,2874672,alien_species_cyprus:taxon:4f15cbd9e0078c1ff838b08d51c617fa,Lagenaria siceraria (Molina) Standl.,Plantae,SPECIES
+323329646,1803060,alien_species_cyprus:taxon:cfaa1f8ebcea5635dca04abe8463f1ae,"Earias insulana (Boisduval, 1833)",Animalia,SPECIES
+323329651,2888439,alien_species_cyprus:taxon:67999279be5c8d431872822a66847eb5,Papaver somniferum L.,Plantae,SPECIES
+323329652,1938069,alien_species_cyprus:taxon:2991fde94c056a813591fc4020a0eccc,"Papilio demoleus Linnaeus, 1758",Animalia,SPECIES
+323329655,2888380,alien_species_cyprus:taxon:e78673e64b60806c0ddf7b934db26ae4,Eschscholzia californica Cham.,Plantae,SPECIES
+323329656,5133088,alien_species_cyprus:taxon:37b76cacf3205a50f274098870f8cc93,"Danaus plexippus (Linnaeus, 1758)",Animalia,SPECIES
+3033833,3033830,alien_species_cyprus:taxon:bc0469fbffbef0495b30fd767484739a,Delphinium ajacis L.,Plantae,SPECIES
+1871969,4531354,alien_species_cyprus:taxon:9f76a021a247ec1e55978f8ed98aedf4,"Arenipses sabella Hampson, 1901",Animalia,SPECIES
+323329665,3033518,alien_species_cyprus:taxon:71d6fa30d76f7ef5435793625cbf7b1f,Clematis viticella L.,Plantae,SPECIES
+323329666,1873890,alien_species_cyprus:taxon:047ea18f05857a87711ab3885621eb25,"Cadra cautella (Walker, 1863)",Animalia,SPECIES
+323329667,3033558,alien_species_cyprus:taxon:1c04daafee0d0899960c6e25e88718dd,Clematis vitalba L.,Plantae,SPECIES
+323329668,1873903,alien_species_cyprus:taxon:3aa31799e916111702999eacb3f3662d,"Cadra figulilella (Gregson, 1871)",Animalia,SPECIES
+323329671,5371700,alien_species_cyprus:taxon:929e079cc911cecacd92eda480d58e0a,Nigella sativa L.,Plantae,SPECIES
+323329672,1878490,alien_species_cyprus:taxon:fac5fd09b570f7244437ec688c760bb4,"Ephestia kuehniella Zeller, 1879",Animalia,SPECIES
+323329674,1878470,alien_species_cyprus:taxon:eca92c2baa9f450b20ca0e4dedc949d7,"Ephestia elutella (Hübner, 1796)",Animalia,SPECIES
+323329675,3033329,alien_species_cyprus:taxon:1b53dc8592a9162f09bed87197cecb82,Ranunculus bulbosus L.,Plantae,SPECIES
+323329678,1874959,alien_species_cyprus:taxon:0a9b8bd494e4bf57bf9949fcade57b73,"Phycita diaphana Staudinger, 1870",Animalia,SPECIES
+323329681,3033865,alien_species_cyprus:taxon:3bb86d75b63a0ea0a9749eac954bb8d2,Mahonia aquifolium (Pursh) Nutt.,Plantae,SPECIES
+323329682,1876941,alien_species_cyprus:taxon:ac0d72bdcd156d81fb485e9af95ff6d6,"Corcyra cephalonica (Stainton, 1866)",Animalia,SPECIES
+323329685,3033894,alien_species_cyprus:taxon:3d3c8532d6ce4dbca7ecc9aba23dc90b,Berberis vulgaris L.,Plantae,SPECIES
+323329688,1858173,alien_species_cyprus:taxon:e4bf2ef7f989b1cd25e0ee92f5ede062,"Tinea murariella Staudinger, 1859",Animalia,SPECIES
+323329690,1858063,alien_species_cyprus:taxon:0efa3cfdc8f680da39f6e44416fe95f9,"Tinea translucens Meyrick, 1917",Animalia,SPECIES
+323329693,3152824,alien_species_cyprus:taxon:afcaa085f472f0af3882836bc12f9138,Liquidambar styraciflua L.,Plantae,SPECIES
+323329694,1857577,alien_species_cyprus:taxon:37d903742177eb66a4b5d47e8cb2a6ba,"Trichophaga tapetzella (Linnaeus, 1758)",Animalia,SPECIES
+323329695,3152825,alien_species_cyprus:taxon:c371236ce86a4740a0cd8f1b8bcf5ddb,Liquidambar orientalis Mill.,Plantae,SPECIES
+323329698,1857068,alien_species_cyprus:taxon:ab73d6a972ffcacf97dd7cb0c0f7bf1a,"Opogona sacchari (Bojer, 1856)",Animalia,SPECIES
+323329701,2986185,alien_species_cyprus:taxon:aceb2d9af3354a81d02fa8feee0be015,Ribes uva-crispa L.,Plantae,SPECIES
+323329702,1855733,alien_species_cyprus:taxon:98b6a2041031bf89d132bff805ff8680,"Praeacedes atomosella (Walker, 1863)",Animalia,SPECIES
+323329703,2986097,alien_species_cyprus:taxon:725a7f4b7e5e2d99ca691a658a16feec,Ribes rubrum L.,Plantae,SPECIES
+323329708,1830823,alien_species_cyprus:taxon:ff66229a0af282fc5d6cf7a065c0e8a7,"Prays citri Millière, 1873",Animalia,SPECIES
+323329709,2985930,alien_species_cyprus:taxon:105ed824c7d0898548666257f4149f92,Kalanchoe pinnata (Lam.) Pers.,Plantae,SPECIES
+323329713,2985863,alien_species_cyprus:taxon:3e792a7e02f4acd1c3cb6a0d6c01ffe4,Hylotelephium spectabile (Boreau) H.Ohba,Plantae,SPECIES
+323329714,1868664,alien_species_cyprus:taxon:ee99c8508b19094424ace8b0caac214c,"Bombyx mori Linnaeus, 1758",Animalia,SPECIES
+323329717,4702564,alien_species_cyprus:taxon:1bf0c340e9bc57a38c4249dedcacef62,"Trilocha varians Walker, 1855",Animalia,SPECIES
+323329718,5836084,alien_species_cyprus:taxon:e2c1a64224c34652fe3d1263e1be2e19,Cotyledon orbiculata var. oblonga (Haw.) DC.,Plantae,VARIETY
+323329722,2985682,alien_species_cyprus:taxon:b555d464dc6c14a8e260c08f7cafaad0,Aeonium arboreum (L.) Webb & Berthel.,Plantae,SPECIES
+323329726,1311649,alien_species_cyprus:taxon:ac8da9449ee2a87532d462e1ce1efdb3,"Vespula germanica (Fabricius, 1793)",Animalia,SPECIES
+323329728,5361760,alien_species_cyprus:taxon:86e54f0bf8b0456905f6f0c6a487aab0,Myriophyllum spicatum L.,Plantae,SPECIES
+323329736,2928366,alien_species_cyprus:taxon:7d337e9cb3e24efa3cb75854687d8035,Wigandia urens (Ruiz & Pav.) Kunth,Plantae,SPECIES
+323329737,1359259,alien_species_cyprus:taxon:6703bd94c2e56835e95467668e58e862,"Odontofroggatia galili Wiebes, 1980",Animalia,SPECIES
+323329739,1359257,alien_species_cyprus:taxon:4549b5b83b46cb284da59a9a2b0b8315,"Odontofroggatia ishii Wiebes, 1980",Animalia,SPECIES
+323329742,2928226,alien_species_cyprus:taxon:1dfd36aa302f6a411a4f07dd8cf6b9d5,Phacelia tanacetifolia Benth.,Plantae,SPECIES
+323329743,1358725,alien_species_cyprus:taxon:dd5bfddbef724725a16350ac66474042,"Josephiella microcarpae Beardsley & Rasplus, 2001",Animalia,SPECIES
+323329747,1359447,alien_species_cyprus:taxon:eb4f20aaedc116fd8c7e1b1d1d539912,"Meselatus bicolor Chen, 1999",Animalia,SPECIES
+323329748,5341290,alien_species_cyprus:taxon:8bd753bfb99a29085e6d11d7cdd179f8,Cordia myxa L.,Plantae,SPECIES
+323329750,5660676,alien_species_cyprus:taxon:a72ce0b01716e159380b12252690da10,Cordia sinensis Lam.,Plantae,SPECIES
+323329751,1358754,alien_species_cyprus:taxon:38d1f04cccd4a58db568123a8a1f897d,"Eufroggattisca okinavensis (Ishii, 1934)",Animalia,SPECIES
+323329756,5341175,alien_species_cyprus:taxon:05c9ce8c4bb31f075ee0e9277d27459f,Myosotis sylvatica Ehrh. ex Hoffm.,Plantae,SPECIES
+323329757,1365087,alien_species_cyprus:taxon:fb11eac806ec727698a2b735a5d0c996,"Coccophagus scutellaris (Dalman, 1825)",Animalia,SPECIES
+323329760,2926110,alien_species_cyprus:taxon:eac55c8c4b56ed0b318ec9c968574fe7,Borago officinalis L.,Plantae,SPECIES
+323329761,1365699,alien_species_cyprus:taxon:1b36ca070675604e165277bf399c0fbf,"Encarsia citrina (Craw, 1891)",Animalia,SPECIES
+323329763,1365557,alien_species_cyprus:taxon:45c15d5e959ec2951bf7ef7efb3cb26f,"Encarsia lounsburyi (Berlese & Paoli, 1916)",Animalia,SPECIES
+323329764,3690997,alien_species_cyprus:taxon:22d8f035085da72a2bd115f66c269820,Cardamine occulta Hornem.,Plantae,SPECIES
+323329767,1364062,alien_species_cyprus:taxon:020030b75e13adb53f85b4d7f976b15d,"Aphelinus mali (Haldeman, 1851)",Animalia,SPECIES
+323329768,2925874,alien_species_cyprus:taxon:915d410cf80ef359bd00b6f9517c0d8f,Amsinckia lycopsoides Lehm.,Plantae,SPECIES
+323329771,1364706,alien_species_cyprus:taxon:d94742be0a8661b5b05304d311b9c447,"Aphytis melinus DeBach, 1959",Animalia,SPECIES
+323329773,1364656,alien_species_cyprus:taxon:894daf1e4fadd1d35587aa8cf04df812,"Aphytis proclia (Walker, 1839)",Animalia,SPECIES
+323329774,2925786,alien_species_cyprus:taxon:ecc62aadc32265c35cfb9e14115b7589,Heliotropium curassavicum L.,Plantae,SPECIES
+323329775,1364769,alien_species_cyprus:taxon:87682c57cfd30c0af2a787a0c4429d0a,"Aphytis diaspidis (Howard, 1881)",Animalia,SPECIES
+323329777,1364694,alien_species_cyprus:taxon:eb2ae5b38478be8f839fbf3755422f9e,"Aphytis chilensis Howard, 1900",Animalia,SPECIES
+323329779,1364710,alien_species_cyprus:taxon:9812df12d29a3337c4f5cd68f680c00a,"Aphytis lingnanensis Compere, 1955",Animalia,SPECIES
+323329781,1364679,alien_species_cyprus:taxon:eb5c9637071ba3c5dd1f287a49ec8ed2,"Aphytis lepidosaphes Compere, 1955",Animalia,SPECIES
+323329782,2984671,alien_species_cyprus:taxon:4a4688732c4c0d01191c214ccda53f1a,Buxus sempervirens L.,Plantae,SPECIES
+323329783,1364719,alien_species_cyprus:taxon:db978ccae844ee9fca0b37c87a9f2978,"Aphytis mytilaspidis (Le Baron, 1870)",Animalia,SPECIES
+323329785,1364625,alien_species_cyprus:taxon:8d06ea31091b3b654fe2cb3a98930289,"Aphytis holoxanthus DeBach, 1960",Animalia,SPECIES
+323329786,1364750,alien_species_cyprus:taxon:3fc03b82da5bfb61299ae1e1e565f271,"Aphytis coheni DeBach, 1960",Animalia,SPECIES
+323329791,3172622,alien_species_cyprus:taxon:0d3862f5f90cbe0e686e98b25e25f3f6,Sesamum indicum L.,Plantae,SPECIES
+323329793,1286246,alien_species_cyprus:taxon:c6c31bdd26b038e95d5e3b2ba0a3b8c7,"Campoplex haywardi Blanchard, 1946",Animalia,SPECIES
+323329796,1290747,alien_species_cyprus:taxon:d620e4882cd37a32a1b132903f347dce,"Eriborus trochanteratus (Morley, 1913)",Animalia,SPECIES
+323329797,4083707,alien_species_cyprus:taxon:cb0c024af83473c3633b3dcbc635cfc2,Verbena aristigera S.Moore,Plantae,SPECIES
+323329801,2925655,alien_species_cyprus:taxon:5c36d9a74f2c556e2f0205946585d127,Duranta erecta L.,Plantae,SPECIES
+323329802,1249411,alien_species_cyprus:taxon:1b176b86ac1cc495974d41690298ee69,"Prosevania fuscipes (Illiger, 1807)",Animalia,SPECIES
+323329805,2925303,alien_species_cyprus:taxon:9b47641fdc9b731d5758fec5fa2fcf51,Lantana camara L.,Plantae,SPECIES
+323329806,1249184,alien_species_cyprus:taxon:25d2896bb145556125dd8c4af9fffb1a,"Evania appendigaster (Linnaeus, 1758)",Animalia,SPECIES
+323329811,4924659,alien_species_cyprus:taxon:ce67d5de801e21580f24e0b9ce50205b,Leonotis nepetifolia (L.) R.Br.,Plantae,SPECIES
+323329812,1371005,alien_species_cyprus:taxon:f0e78761b59abde2490276e1d6c96606,"Megastigmus transvaalensis (Hussey, 1956)",Animalia,SPECIES
+323329815,2927096,alien_species_cyprus:taxon:a922543458d7b7823ede75dc1368e70a,Ocimum basilicum L.,Plantae,SPECIES
+323329818,1395998,alien_species_cyprus:taxon:21ed27cb809b9b5e7a92af80deb1b3c7,"Spalangia cameroni Perkins, 1910",Animalia,SPECIES
+8017036,8017036,alien_species_cyprus:taxon:7ae6fcee33af590ec85cd71458a6beca,"Salvia officinalis Pall., 1795",Plantae,SPECIES
+323329820,1396059,alien_species_cyprus:taxon:5d772e8bd530d4e7ed9581d4bbdbaee0,"Spalangia endius Walker, 1839",Animalia,SPECIES
+323329821,2927045,alien_species_cyprus:taxon:5c802564c14eed79a0456ac70bd00030,Salvia microphylla Kunth,Plantae,SPECIES
+323329822,1396025,alien_species_cyprus:taxon:43d19a26d4b8b14a88fcd12df17c3843,"Spalangia nigroaenea Curtis, 1839",Animalia,SPECIES
+323329823,2927030,alien_species_cyprus:taxon:0a12f26160f11b79a2ca8211a19b4834,Salvia aethiopis L.,Plantae,SPECIES
+323329825,8249932,alien_species_cyprus:taxon:788b0f6b5ed6894a9047e0d6ebf01f03,Salvia splendens Sellow ex Nees,Plantae,SPECIES
+323329828,5041422,alien_species_cyprus:taxon:95c244715276133a79ced141373f9908,"Sceliphron curvatum (F.Smith, 1870)",Animalia,SPECIES
+323329829,7308335,alien_species_cyprus:taxon:998cc72862dc35b8a1bfa052db6f3b38,Mentha spicata subsp. spicata,Plantae,SUBSPECIES
+323329833,2927235,alien_species_cyprus:taxon:48afc06367cbde1256a9cb734452749b,Stachys annua (L.) L.,Plantae,SPECIES
+1325547,8295316,alien_species_cyprus:taxon:f59a504e2acfe022d9b8f17dc4908ef6,"Paratrechina jaegerskioeldi (Mayr, 1904)",Animalia,SPECIES
+323329837,1314464,alien_species_cyprus:taxon:79707399e174e197ef97de898436d66f,"Monomorium exiguum Forel, 1894",Animalia,SPECIES
+323329838,5341492,alien_species_cyprus:taxon:49456688b5c9d66e414122fcd6ad59ec,Coleus scutellarioides (L.) Benth.,Plantae,SPECIES
+323329839,1314725,alien_species_cyprus:taxon:920aa6090c62f93fcebaae0b9db97195,"Monomorium bicolor Emery, 1877",Animalia,SPECIES
+1314508,8729567,alien_species_cyprus:taxon:8e62f0bf75efe816da25b2e7bc1cc185,"Monomorium destructor (Jerdon, 1851)",Animalia,SPECIES
+323329842,2927305,alien_species_cyprus:taxon:ae13b0238467058ffe201e1a3616f183,Lavandula angustifolia Mill.,Plantae,SPECIES
+323329845,1325561,alien_species_cyprus:taxon:46f75db2bfca28104a610984172f1d16,"Paratrechina longicornis (Latreille, 1802)",Animalia,SPECIES
+323329846,5341387,alien_species_cyprus:taxon:86d7ee6cf68f1ab1aff5cc8ed8858467,Hyssopus officinalis L.,Plantae,SPECIES
+323329849,1317123,alien_species_cyprus:taxon:7cf6ec2e5ef660038109ec6239f25a8c,"Cardiocondyla mauritanica Forel, 1890",Animalia,SPECIES
+323329850,2926613,alien_species_cyprus:taxon:8d9dafe8be6b2a05e06b24e77c8104fd,Origanum onites L.,Plantae,SPECIES
+323329851,8384845,alien_species_cyprus:taxon:8570bfa6633c735a4fd4ad00a41bba9f,"Cardiocondyla obscurior Wheeler, 1929",Animalia,SPECIES
+323329852,3894972,alien_species_cyprus:taxon:7567117bd472c25a475cbd49c1269d02,Origanum dictamnus L.,Plantae,SPECIES
+9452454,1315403,alien_species_cyprus:taxon:aeb10495b1cc9510d6d636d7a9b54f9e,"Solenomorpha Cockerell, 1903",Animalia,GENUS
+323329855,5341394,alien_species_cyprus:taxon:17e3dc163423a0dcc5491b7e8a37f3c2,Perilla frutescens (L.) Britton,Plantae,SPECIES
+323329857,1326634,alien_species_cyprus:taxon:6ace4f4bb6441dcd4d979df6325d1892,"Hypoponera punctatissima (Roger, 1859)",Animalia,SPECIES
+323329861,3173105,alien_species_cyprus:taxon:6ea4c54b8d17c0b7713c4fbeadf0db91,Justicia adhatoda L.,Plantae,SPECIES
+323329862,1315391,alien_species_cyprus:taxon:f7c8bed2b36b21e3a4bff1632c5f1c2d,"Wasmannia auropunctata (Roger, 1863)",Animalia,SPECIES
+323329865,5415455,alien_species_cyprus:taxon:d2b918091774d273605ebf041acdd907,Acanthus mollis L.,Plantae,SPECIES
+323329866,1322486,alien_species_cyprus:taxon:d7d67e8e67c44749c0fcbb97582fb035,"Pheidole parva Mayr, 1865",Animalia,SPECIES
+323329867,1322016,alien_species_cyprus:taxon:e2e84296c5385217cad2286be55d5cb1,"Pheidole indica Mayr, 1879",Animalia,SPECIES
+323329870,7907443,alien_species_cyprus:taxon:91571d64aa0c57785be89a803947a57b,"Ruellia formosa Ledeb. ex Steud., 1841",Plantae,SPECIES
+323329871,11375937,alien_species_cyprus:taxon:6437549b580008b5f7e121003c03f9ce,"Trichomyrmex mayri (Forel, 1902)",Animalia,SPECIES
+323329875,10114596,alien_species_cyprus:taxon:fce12a9f770452375bff4fce404d9dbf,"Tetramorium immigrans Santschi, 1927",Animalia,SPECIES
+323329876,3172001,alien_species_cyprus:taxon:9eaacf3f18f84089455da54f4e2f809a,Antirrhinum majus L.,Plantae,SPECIES
+323329877,1323402,alien_species_cyprus:taxon:0c00a7f95bf886620aaf230ef19c4702,"Tetramorium bicarinatum (Nylander, 1846)",Animalia,SPECIES
+323329879,1323448,alien_species_cyprus:taxon:7dcbaa7fd40ca5bf087106cf9b69f77f,"Tetramorium lanuginosum Mayr, 1870",Animalia,SPECIES
+323329880,8200663,alien_species_cyprus:taxon:86b841cc662561d317ffac3ac2020e13,"Cymbalaria muralis G.Gaertn., B.Mey. & Scherb.",Plantae,SPECIES
+323329881,1323493,alien_species_cyprus:taxon:01a1917f68a554dcec36bb8d43ed6532,"Tetramorium caldarium (Roger, 1857)",Animalia,SPECIES
+323329884,3172077,alien_species_cyprus:taxon:a2428467dd7ad63939d88089eff2d1c2,Veronica persica Poir.,Plantae,SPECIES
+323329887,1359528,alien_species_cyprus:taxon:7fd0701ceff65642152a87233b7e558c,"Eupristina verticillata Waterston, 1921",Animalia,SPECIES
+323329888,8418857,alien_species_cyprus:taxon:62c0b429ef75c367d42ee879d0f82a8d,Maurandya barclayana Lindl.,Plantae,SPECIES
+323329891,1359657,alien_species_cyprus:taxon:9858c7ad280b0d8d60f244ba89212f05,"Pleistodontes imperialis Saunders, 1882",Animalia,SPECIES
+323329894,3170823,alien_species_cyprus:taxon:7825ddf4aa1695bb9c00197418f89338,Paulownia tomentosa (Thunb.) Steud.,Plantae,SPECIES
+323329897,1388587,alien_species_cyprus:taxon:2ab9ee876a7a68552f9739ce565afefd,"Quadrastichus citrella Reina & La Salle, 2004",Animalia,SPECIES
+323329900,7298716,alien_species_cyprus:taxon:eb25e0fd07f027abc3039eb447f17440,Pandorea jasminoides (Lindl.) Schumann,Plantae,SPECIES
+323329901,1380757,alien_species_cyprus:taxon:0e182a48a8cd19d8cbe1ff2a67f61372,"Leptocybe invasa Fisher & La Salle, 2004",Animalia,SPECIES
+323329904,3172592,alien_species_cyprus:taxon:2d95d3bee0b291e6fcce803f1e7f12eb,Podranea ricasoliana (Tanfani) Sprague,Plantae,SPECIES
+323329905,1382851,alien_species_cyprus:taxon:384e6f99c3a9a9e56a948323536568e6,"Semielacher petiolata (Girault, 1915)",Animalia,SPECIES
+323329908,5415072,alien_species_cyprus:taxon:d96bcdb2c13e994d999118091756c536,Chilopsis linearis (Cav.) Sweet,Plantae,SPECIES
+323329909,1385478,alien_species_cyprus:taxon:1fc39aea34da91f3a2eb723b1b29322e,"Ophelimus maskelli (Ashmead, 1900)",Animalia,SPECIES
+3172549,7613490,alien_species_cyprus:taxon:5b3e7091f1cda21582754e2ffdbded4a,Campsis radicans (L.) Bureau,Plantae,SPECIES
+323329913,1388189,alien_species_cyprus:taxon:01e498390c2df9e2ecc2870d58408118,"Tamarixia radiata (Waterston, 1922)",Animalia,SPECIES
+323329914,4094511,alien_species_cyprus:taxon:92ff461b6b6e0475814633549b29caf4,Campsis grandiflora (Thunb.) K.Schum.,Plantae,SPECIES
+323329918,1381011,alien_species_cyprus:taxon:dadeee44e605dc0bd3ff46e631296906,"Citrostichus phyllocnistoides (Narayanan, 1960)",Animalia,SPECIES
+323329919,3172499,alien_species_cyprus:taxon:3d3e41983cc49c6835eec74e17c0d9e7,Jacaranda mimosifolia D.Don,Plantae,SPECIES
+323329922,1381201,alien_species_cyprus:taxon:ebcad1d0c30c420a40fea806b9338944,"Cirrospilus ingenuus Gahan, 1932",Animalia,SPECIES
+323329923,3172492,alien_species_cyprus:taxon:7ffd16a6c873261efa1c11e038b317b7,Tecoma stans (L.) Juss. ex Kunth,Plantae,SPECIES
+3172490,3172489,alien_species_cyprus:taxon:243b16b97bdafce380208d8c6261b126,Tecomaria capensis (Thunb.) Spach,Plantae,SPECIES
+5046769,10575724,alien_species_cyprus:taxon:152d6d58d7593f10ccff8e51b01796aa,"Chrysonotomyia chamaeleon (Girault, 1922)",Animalia,SPECIES
+323329930,5830619,alien_species_cyprus:taxon:e5f7233283ffc2c473dec66d8298adee,Dolichandra unguis-cati (L.) L.G.Lohmann,Plantae,SPECIES
+323329933,1392156,alien_species_cyprus:taxon:6f19b722f428b89f54b016aa5ad1816d,"Scutellista caerulea (Fonscolombe, 1832)",Animalia,SPECIES
+323329934,3172615,alien_species_cyprus:taxon:2963198ae04e46190fddcbd5bede12ab,Catalpa bignonioides Walter,Plantae,SPECIES
+323329938,3172569,alien_species_cyprus:taxon:dc6c817ea9d9ad7953cf5081dc73cc1d,Pyrostegia venusta (Ker Gawl.) Miers,Plantae,SPECIES
+323329939,1379261,alien_species_cyprus:taxon:4fea4c336801ed472d725d43155abcea,"Leptomastix dactylopii Howard, 1885",Animalia,SPECIES
+323329943,1376774,alien_species_cyprus:taxon:24ec6bfb174a1e3e62eb232ff4cebc1d,"Microterys nietneri (Motschulsky, 1859)",Animalia,SPECIES
+323329945,5415100,alien_species_cyprus:taxon:fa65988faf5dd7622e6e6d3295e8a652,Proboscidea louisianica (Mill.) Thell.,Plantae,SPECIES
+323329946,1377352,alien_species_cyprus:taxon:6d4a55d27891a7890c660a06f3aa8447,"Comperiella bifasciata Howard, 1906",Animalia,SPECIES
+323329950,5415039,alien_species_cyprus:taxon:711febf81b16a65752d8b3e5e561b750,Syringa vulgaris L.,Plantae,SPECIES
+323329951,1375386,alien_species_cyprus:taxon:9d131e23dffbfe0fa0bcd81750b69ee6,"Metaphycus helvolus (Compere, 1926)",Animalia,SPECIES
+323329952,5415038,alien_species_cyprus:taxon:2e0ca15ae8baa30330a9dd9c39c704de,Syringa reticulata (Blume) H.Hara,Plantae,SPECIES
+323329953,1375185,alien_species_cyprus:taxon:b5da1e2ec9952ecdc7c496cd92032c9c,"Metaphycus lounsburyi (Howard, 1898)",Animalia,SPECIES
+323329955,1375042,alien_species_cyprus:taxon:8d33fd68ced79b2d893ae1bee8e41bb9,"Metaphycus flavus (Howard, 1881)",Animalia,SPECIES
+323329956,3172272,alien_species_cyprus:taxon:dc9fbd9e564d00e2aabd6f7ccd4ce896,Jasminum mesnyi Hance,Plantae,SPECIES
+323329957,1374888,alien_species_cyprus:taxon:21b3c8e7305cc36d064a68061d527326,"Metaphycus anneckei Guerrieri & Noyes, 2000",Animalia,SPECIES
+323329958,3682902,alien_species_cyprus:taxon:e309ec0df006c98a0c591787f7edc336,Jasminum angulare Vahl,Plantae,SPECIES
+323329960,3172261,alien_species_cyprus:taxon:14d815a9849c5465dba5e10a69486b55,Jasminum officinale L.,Plantae,SPECIES
+323329961,1376477,alien_species_cyprus:taxon:98b4331c00424b1da603142fad4a82fa,"Coccidoxenoides perminutus Girault, 1915",Animalia,SPECIES
+323329962,3682631,alien_species_cyprus:taxon:0196e8ecaf285eff01936967f91d906f,Jasminum polyanthum Franch.,Plantae,SPECIES
+323329964,3172271,alien_species_cyprus:taxon:9ac7ae51f2aaf75b84a9511caddb6d2a,Jasminum azoricum L.,Plantae,SPECIES
+323329965,1377762,alien_species_cyprus:taxon:c647e82e19e02695a2736ce9b777f740,"Ageniaspis citricola Logvinovskaya, 1983",Animalia,SPECIES
+323329966,3172262,alien_species_cyprus:taxon:1b308147d9ed0c856b81518bcf72f2fe,Jasminum grandiflorum L.,Plantae,SPECIES
+323329968,3172266,alien_species_cyprus:taxon:ba856ab90459cdae0957e50a2c65c3c5,Jasminum nudiflorum Lindl.,Plantae,SPECIES
+323329971,1376899,alien_species_cyprus:taxon:67889c44821d35e0285d13bb766cce24,"Psyllaephagus bliteus Riek, 1962",Animalia,SPECIES
+323329972,5415056,alien_species_cyprus:taxon:0265aaa7dd207f7a31780fd9a3f2a704,Forsythia suspensa (Thunb.) Vahl,Plantae,SPECIES
+323329973,1377049,alien_species_cyprus:taxon:057e03751ff084eeab58be5abcb94cb8,"Psyllaephagus macrohomotoma Singh & Agarwal, 1993",Animalia,SPECIES
+323329976,3683169,alien_species_cyprus:taxon:32137fe4095fc347a6b51003463c9353,"Ligustrum japonicium Thunb., 1784",Plantae,SPECIES
+323329977,1380657,alien_species_cyprus:taxon:3b3865fdd643a2236e466f863214f5bf,"Diversinervus elegans Silvestri, 1915",Animalia,SPECIES
+323329978,3172300,alien_species_cyprus:taxon:46f19a1e7be6b1e9f17e91afeff5fe7f,Ligustrum vulgare L.,Plantae,SPECIES
+323329981,1379329,alien_species_cyprus:taxon:e9697819486e3ab36f73409d295efa12,"Encyrtus aurantii (Geoffroy, 1785)",Animalia,SPECIES
+323329982,7325947,alien_species_cyprus:taxon:e263bc2d63034db6059374ff901c2c67,Phillyrea angustifolia L.,Plantae,SPECIES
+323329985,1378607,alien_species_cyprus:taxon:ce835019d2342dc88e0640def6c052a3,"Copidosoma koehleri Blanchard, 1940",Animalia,SPECIES
+323329986,3172334,alien_species_cyprus:taxon:f89dc0610e75b3504b6b75875c4e5337,Fraxinus velutina Torr.,Plantae,SPECIES
+323329988,7325877,alien_species_cyprus:taxon:bd607670791ce90d1f79eaf49e6b5e6c,Fraxinus angustifolia Vahl,Plantae,SPECIES
+323329990,3172347,alien_species_cyprus:taxon:0cd9355efe64b29215a7e8a1aef027a7,Fraxinus ornus L.,Plantae,SPECIES
+323329994,3172276,alien_species_cyprus:taxon:3caf541a6dd558a51e3d128b1a07b606,Osmanthus heterophyllus (G.Don) P.S.Green,Plantae,SPECIES
+323329997,1252146,alien_species_cyprus:taxon:66d77ae3dcc8a9e59002f8fa57602d96,"Orgilus lepidus Muesebeck, 1967",Animalia,SPECIES
+323329999,1252117,alien_species_cyprus:taxon:edcd039427c5123d42d3ed188b0361e9,"Orgilus gelechiae (Ashmead, 1889)",Animalia,SPECIES
+323330000,3172657,alien_species_cyprus:taxon:22d139cff7116fd475d5d61c5822a223,Myoporum laetum G.Forst.,Plantae,SPECIES
+323330001,1252223,alien_species_cyprus:taxon:e9229f6b5d00e9f54fa6901cd94dbbe0,"Orgilus parcus Turner, 1922",Animalia,SPECIES
+323330002,7335194,alien_species_cyprus:taxon:7242c2d07d4fb904326d367dab89b9d3,Myoporum tenuifolium G.Forst.,Plantae,SPECIES
+323330005,1269194,alien_species_cyprus:taxon:f7c806948399e93ec9fa2c93015d7647,"Aphidius smithi Sharma & Subba Rao, 1959",Animalia,SPECIES
+323330006,3173340,alien_species_cyprus:taxon:757a50565198b33c7f74ca4250ed44af,Buddleja madagascariensis Lam.,Plantae,SPECIES
+323330008,3173338,alien_species_cyprus:taxon:7bb38fa78dc0ee0907834dad829be7b6,Buddleja davidii Franch.,Plantae,SPECIES
+323330009,8105513,alien_species_cyprus:taxon:90d57c8d7c4c69a4dc2e49a909a50303,Therophilus unimaculatus,Animalia,SPECIES
+323330012,3172138,alien_species_cyprus:taxon:23e860207f9f35199dae4ef599a8dc16,Leucophyllum frutescens (Berl.) I.M.Johnst.,Plantae,SPECIES
+323330013,1267923,alien_species_cyprus:taxon:e22a3f399901fcb49389ddf60f4857c7,"Apanteles scutellaris Muesebeck, 1921",Animalia,SPECIES
+1268379,7380319,alien_species_cyprus:taxon:a30805a2e447c2ff19047e4a26a98e0e,"Apanteles subandinus Blanchard, 1947",Animalia,SPECIES
+323330016,3739506,alien_species_cyprus:taxon:6e88947976f7cacb09606c8754205dba,Verbascum geminiflorum Hochst.,Plantae,SPECIES
+323330019,1266476,alien_species_cyprus:taxon:454176dcda55a856482aba5e855ffd55,"Chelonus curvimaculatus Cameron, 1906",Animalia,SPECIES
+323330024,3054368,alien_species_cyprus:taxon:8c9cd65863deec956a9e0604755ca612,Juglans regia L.,Plantae,SPECIES
+323330025,1342075,alien_species_cyprus:taxon:fee386769538a2dc30d34c07e4ddaf6d,"Xylocopa pubescens Spinola, 1838",Animalia,SPECIES
+323330030,5045094,alien_species_cyprus:taxon:3005cbe266b783195e46859e7d1c262a,"Eurytoma amygdali Enderlein, 1907",Animalia,SPECIES
+323330031,8205751,alien_species_cyprus:taxon:2ca2e5c3c94ed7af802e7548b983aea1,Asemeia apopetala (Brandegee) J.F.B.Pastore & J.R.Abbott,Plantae,SPECIES
+323330034,6128680,alien_species_cyprus:taxon:83142af82ec5c1425d812b6453e3f587,"Sycophila maculafacies Chen, 1999",Animalia,SPECIES
+323330035,3191402,alien_species_cyprus:taxon:ce066bb4d7e031293fdded9fe1587940,Polygala myrtifolia L.,Plantae,SPECIES
+323330036,5044663,alien_species_cyprus:taxon:51d96294e414e89f95aa8991b3cb4996,"Sycophila petiolata Chen, 1999",Animalia,SPECIES
+323330041,5359085,alien_species_cyprus:taxon:d9ff0ada60baac13e0e5ba9043375098,Trifolium grandiflorum Schreb.,Plantae,SPECIES
+323330042,1359395,alien_species_cyprus:taxon:2d83493b2ed3841980e895d827809514,"Walkerella microcarpae Boucek, 1993",Animalia,SPECIES
+323330045,1393304,alien_species_cyprus:taxon:62234768b330cf24c76c48f29c7722d7,"Anisopteromalus calandrae (Howard, 1881)",Animalia,SPECIES
+323330046,2975768,alien_species_cyprus:taxon:6c6e840cf6706340709776d896837e86,Tamarindus indica L.,Plantae,SPECIES
+323330047,1358514,alien_species_cyprus:taxon:1549d3b2cd28f1ad74bfc09fd6e2aaba,"Apocrypta longitarsus Mayr, 1906",Animalia,SPECIES
+323330050,5359660,alien_species_cyprus:taxon:daa2d11265813c09691dac62980236e6,Glycine max (L.) Merr.,Plantae,SPECIES
+323330051,1358656,alien_species_cyprus:taxon:a37adfc4c80e6d145fe270358fb8bea8,"Philotrypesis taiwanensis Chen, 1999",Animalia,SPECIES
+323330053,1358697,alien_species_cyprus:taxon:3ed7ff39ead5715fda9877b6d05a1cf1,"Philotrypesis okinavensis Ishii, 1934",Animalia,SPECIES
+323330054,2973215,alien_species_cyprus:taxon:70bdba20b763b794b315002bec207c00,Albizia lebbeck (L.) Benth.,Plantae,SPECIES
+323330056,2972983,alien_species_cyprus:taxon:14f312205233c49e125b1ab0307a2096,Albizia julibrissin Durazz.,Plantae,SPECIES
+323330057,1359101,alien_species_cyprus:taxon:8c76f4cfe7ed9f442ddc5d5fec8cf981,"Micranisa degastris Chen, 1999",Animalia,SPECIES
+323330060,5043074,alien_species_cyprus:taxon:f41f49c6447e53b9cab49ecb4a562acc,"Sycophaga sycomori (Linnaeus, 1758)",Animalia,SPECIES
+323330066,2958715,alien_species_cyprus:taxon:14eb8810fe8aee9c55a42117e28fd500,Caesalpinia pulcherrima (L.) Sw.,Plantae,SPECIES
+323330067,1365139,alien_species_cyprus:taxon:1ed148ab0bb67b4ec444227938ba69d4,"Cales noacki Howard, 1907",Animalia,SPECIES
+323330070,2975667,alien_species_cyprus:taxon:fd0b17eb24ad60a93dba23ca69161cd4,Galega officinalis L.,Plantae,SPECIES
+323330074,5048540,alien_species_cyprus:taxon:e5cc4c6e8e4fd49d7271977505b29b0b,"Miomantis paykullii Stal, 1871",Animalia,SPECIES
+323330075,5353590,alien_species_cyprus:taxon:c7c1cd512542eeb8e666c0c80fb915ce,Cercis siliquastrum L.,Plantae,SPECIES
+323330079,2982533,alien_species_cyprus:taxon:cb90b14cd0b41f997a4ae020f2f0277d,Vigna mungo (L.) Hepper,Plantae,SPECIES
+323330081,2982380,alien_species_cyprus:taxon:f8bd743c403495c984c722e8f67292f6,Vigna radiata (L.) R.Wilczek,Plantae,SPECIES
+323330082,1420592,alien_species_cyprus:taxon:3fe859d8f49f42fdffab45a9c85e100d,"Anaphothrips sudanensis Trybom, 1911",Animalia,SPECIES
+323330085,5358460,alien_species_cyprus:taxon:99305db298468c301aab9d55f6179fac,Prosopis juliflora (Sw.) DC.,Plantae,SPECIES
+323330086,1420923,alien_species_cyprus:taxon:357c01644e2195087675b08d809abcc5,"Thrips australis (Bagnall, 1915)",Animalia,SPECIES
+323330087,5358508,alien_species_cyprus:taxon:19db5abb262d8e2ec941677041a18124,Prosopis pubescens Benth.,Plantae,SPECIES
+323330090,4423762,alien_species_cyprus:taxon:36aec9c70a622fedce5492a49326c2c9,"Pezothrips kellyanus (Bagnall, 1916)",Animalia,SPECIES
+323330091,5355395,alien_species_cyprus:taxon:feba473427f369e6649fd0ff3dde5165,Spartium junceum L.,Plantae,SPECIES
+323330094,1420877,alien_species_cyprus:taxon:5f048198aab67ac2678359d4adf82c3f,"Retithrips syriacus (Mayet, 1890)",Animalia,SPECIES
+323330096,2963569,alien_species_cyprus:taxon:aa081e0a0995eb9dc766a2187ae0d53b,Styphnolobium japonicum (L.) Schott,Plantae,SPECIES
+323330098,1420795,alien_species_cyprus:taxon:ba229910ea86f656f4d8a161179f8324,"Heliothrips haemorrhoidalis (Bouché, 1833)",Animalia,SPECIES
+323330100,3974754,alien_species_cyprus:taxon:751fcb67b9656002fd6deecc2c2bf485,Vachellia karroo (Hayne) Banfi & Galasso,Plantae,SPECIES
+323330101,8351995,alien_species_cyprus:taxon:a23b0b3e916e90f71f155bc177624119,"Frankliniella occidentalis (Pergande, 1895)",Animalia,SPECIES
+323330102,2979265,alien_species_cyprus:taxon:76062d626b0add5943b7c1127796ee25,Vachellia farnesiana (L.) Wight & Arn.,Plantae,SPECIES
+323330104,3795576,alien_species_cyprus:taxon:d19b96e5b2ee1cf13411dc39bdbe8708,Vachellia constricta (Benth.) Seigler & Ebinger,Plantae,SPECIES
+323330107,1420183,alien_species_cyprus:taxon:2e64b4390b754454e49836a883c5d50d,"Podothrips semiflavus Hood, 1913",Animalia,SPECIES
+323330108,2962831,alien_species_cyprus:taxon:25ca585b455a85f5019a9defe99c07d9,Pithecellobium dulce (Roxb.) Benth.,Plantae,SPECIES
+323330111,1420175,alien_species_cyprus:taxon:00a41a56f126263163d11a567b893ba1,"Karnyothrips flavipes (Jones, 1912)",Animalia,SPECIES
+3973001,5350010,alien_species_cyprus:taxon:20c6a3950d01e3fa5ad2490661478fa0,Vicia lens (L.) Coss. & Germ.,Plantae,SPECIES
+323330115,1420018,alien_species_cyprus:taxon:aa1d22ceb835c031cf43ce5205e406f4,"Haplothrips gowdeyi (Franklin, 1908)",Animalia,SPECIES
+323330116,5360384,alien_species_cyprus:taxon:051f0e20dba975378eecda80a7776481,Trigonella balansae Boiss. & Reut.,Plantae,SPECIES
+323330119,6096852,alien_species_cyprus:taxon:519e55545fc860ab5d7d69a44b704bd3,"Androthrips ramachandrai Karny, 1926",Animalia,SPECIES
+323330120,5350452,alien_species_cyprus:taxon:d36ef3e8fa9465dafa6f9470d1ff55c9,Phaseolus vulgaris L.,Plantae,SPECIES
+323330122,5350466,alien_species_cyprus:taxon:43597f1649008ed18efc950c5f11d799,Phaseolus coccineus L.,Plantae,SPECIES
+323330123,1420185,alien_species_cyprus:taxon:f41923d7bd4fac454b9a1cb2c3e264aa,"Gynaikothrips ficorum (Marchal, 1908)",Animalia,SPECIES
+323330124,5350438,alien_species_cyprus:taxon:f64834cb3102020ab79251f8b2b5d8b0,Phaseolus lunatus L.,Plantae,SPECIES
+323330125,1420186,alien_species_cyprus:taxon:ad620eedc53152a750e5328dc9c3bf7b,"Gynaikothrips uzeli (Zimmermann, 1900)",Animalia,SPECIES
+323330129,2978335,alien_species_cyprus:taxon:bf45f4f4b10056faef79cdee6b56fde9,Senegalia greggii (A.Gray) Britton & Rose,Plantae,SPECIES
+323330131,3796193,alien_species_cyprus:taxon:3e634a2a9c3880dbcc07af1400492225,Senegalia caffra (Thunb.) P.J.H.Hurter & Mabb.,Plantae,SPECIES
+323330132,1032759,alien_species_cyprus:taxon:ad3f795c175bcd9a0dc5c6bb4914c331,"Gyropus ovalis Burmeister, 1838",Animalia,SPECIES
+323330135,2943719,alien_species_cyprus:taxon:57126bee91914def1e5cbef7adf8da10,Paraserianthes lophantha (Willd.) I.C.Nielsen,Plantae,SPECIES
+323330138,1032748,alien_species_cyprus:taxon:05a2edbc5224f8ec53f35703f8a3a7dc,"Trichodectes canis (de Geer, 1778)",Animalia,SPECIES
+323330139,2977323,alien_species_cyprus:taxon:3956178032f3970e561e1be4e9d6556b,Wisteria floribunda (Willd.) DC.,Plantae,SPECIES
+323330143,2958707,alien_species_cyprus:taxon:582eb332edbe958c16eb5910db68dc3f,Libidibia coriaria (Jacq.) Schltdl.,Plantae,SPECIES
+1032839,4422680,alien_species_cyprus:taxon:9031d01c6ac9eadc2656e0188096f9d8,"Menacanthus stramineus (Nitzsch, 1818)",Animalia,SPECIES
+323330147,2957431,alien_species_cyprus:taxon:7880fd44ae71fe94514821a637fe22f5,Senna corymbosa (Lam.) H.S.Irwin & Barneby,Plantae,SPECIES
+323330150,1032750,alien_species_cyprus:taxon:28dec54d1a32adc8a98288baf966bc19,"Bovicola ovis (Schrank, 1781)",Animalia,SPECIES
+323330151,2956176,alien_species_cyprus:taxon:cbfdfb61f85bc8b597980f5357a3c290,Delonix regia (Bojer ex Hook.) Raf.,Plantae,SPECIES
+323330155,5354656,alien_species_cyprus:taxon:3c38a6723a0bac72564c2f54a05b2a0e,Cytisus scoparius (L.) Link,Plantae,SPECIES
+323330156,1032880,alien_species_cyprus:taxon:a9654c96376a6c04f6c34e1d78b982b5,"Linognathus stenopsis (Burmeister, 1838)",Animalia,SPECIES
+323330160,5347612,alien_species_cyprus:taxon:1be6225c48e07592afb6b06091e232c8,Genista tinctoria L.,Plantae,SPECIES
+323330163,4451244,alien_species_cyprus:taxon:08c4c242abe6ef1bae8919b613f96a73,"Latridius minutus (Linnaeus, 1767)",Animalia,SPECIES
+323330164,2947311,alien_species_cyprus:taxon:c8a22dc4168fe0721f30759020238f7c,Cicer arietinum L.,Plantae,SPECIES
+323330167,4451126,alien_species_cyprus:taxon:3b785aa8356e718521155e2c1a53d600,"Cartodere nodifer (Westwood, 1839)",Animalia,SPECIES
+323330168,2965732,alien_species_cyprus:taxon:ee7a513bf9b9e650475204f3af8beab0,Glycyrrhiza glabra L.,Plantae,SPECIES
+323330171,4450882,alien_species_cyprus:taxon:5b3c768ba6af143992c01773451f5ad4,"Corticaria serrata (Paykull, 1798)",Animalia,SPECIES
+323330172,2959443,alien_species_cyprus:taxon:67b0920ac66ef4bc6aabef20e5f112c4,Gleditsia triacanthos L.,Plantae,SPECIES
+323330173,4450869,alien_species_cyprus:taxon:303a8aa1fd57befc5f2c3e297c00e7a6,"Corticaria fulva (Comolli, 1837)",Animalia,SPECIES
+323330175,4450917,alien_species_cyprus:taxon:60e06b3f6ec4020b4927c27549fe1fce,"Corticaria pubescens (Gyllenhal, 1827)",Animalia,SPECIES
+323330176,2952236,alien_species_cyprus:taxon:aefe7c0eedbd93c9b25485270f05c0f2,Lablab purpureus (L.) Sweet,Plantae,SPECIES
+323330180,8130309,alien_species_cyprus:taxon:c628f9d00a5972ce60bb5e5ad4c64627,Erythrostemon gilliesii (Hook.) Klotzsch,Plantae,SPECIES
+323330184,5352251,alien_species_cyprus:taxon:139a7e6b2613b335d8471ebfa3c33980,Robinia pseudoacacia L.,Plantae,SPECIES
+323330185,1230310,alien_species_cyprus:taxon:6e88a4c2fa815fd94dba871905d33928,"Coccotrypes dactyliperda (J.C.Fabricius, 1802)",Animalia,SPECIES
+323330186,5352221,alien_species_cyprus:taxon:fe72e75d4f29eeb45df21a083b0805da,Robinia hispida L.,Plantae,SPECIES
+323330189,12265301,alien_species_cyprus:taxon:8ad7465a5efd33c8d2aaca16cf8361e8,"Campylonotum cypricum Stüben, 2021",Animalia,SPECIES
+323330190,2965379,alien_species_cyprus:taxon:71a617b1502f7557ddc35470bbba16a5,Medicago arborea L.,Plantae,SPECIES
+323330192,6132234,alien_species_cyprus:taxon:75108758d6923175849c2b503fdb5ecd,"Rhynchophorus ferrugineus (A.G.Olivier, 1791)",Animalia,SPECIES
+2965331,8316569,alien_species_cyprus:taxon:cb4ef01c457a8a38667a656f65d7ca36,Medicago ×varia Martyn,Plantae,SPECIES
+323330196,1170174,alien_species_cyprus:taxon:3e6a4813274eed0fef5ed7b0774ab8d0,"Sitophilus granarius (C.Linnaeus, 1758)",Animalia,SPECIES
+323330198,4291553,alien_species_cyprus:taxon:31fc6e6ca4161059e82ed5ad365d7290,"Sitophilus zeamais Motschulsky & V.de, 1855",Animalia,SPECIES
+323330200,1170207,alien_species_cyprus:taxon:d4c55923f27fe66b45b3d81496616aa9,"Sitophilus sculpturatus Gyllenhal, 1838",Animalia,SPECIES
+323330201,5354888,alien_species_cyprus:taxon:81e95bacc993ac180a007d752c021a1c,Ebenus pinnata Aiton,Plantae,SPECIES
+323330205,7587087,alien_species_cyprus:taxon:7a39f5590b33970a60bc6fc23aca215b,Cajanus cajan (L.) Huth,Plantae,SPECIES
+323330206,4292415,alien_species_cyprus:taxon:212d0b9b803bd40da5b569609ae6b401,"Sternochetus mangiferae (J.C.Fabricius, 1775)",Animalia,SPECIES
+323330209,5357217,alien_species_cyprus:taxon:2e7ac75fe6cda851f51df635c770473e,Parkinsonia aculeata L.,Plantae,SPECIES
+323330210,5008491,alien_species_cyprus:taxon:90713cc4f935cf3874a73291aebc1a42,"Scyphophorus acupunctatus Gyllenhal, 1838",Animalia,SPECIES
+323330214,5352512,alien_species_cyprus:taxon:26d77427b9232f37d8c5287ddadb9af5,Tipuana tipu (Benth.) Kuntze,Plantae,SPECIES
+323330215,4455268,alien_species_cyprus:taxon:c899f29f80b0d2680a53713538e12859,"Alphitophagus bifasciatus (Say, 1824)",Animalia,SPECIES
+323330218,2968737,alien_species_cyprus:taxon:bf7d99bd879aa96baa8fdc430a730c17,Dalbergia rostrata Hassk.,Plantae,SPECIES
+323330219,1045874,alien_species_cyprus:taxon:1a5ef97e27e35342d538f97dc671a393,"Alphitobius laevigatus (Fabricius, 1781)",Animalia,SPECIES
+323330221,1045875,alien_species_cyprus:taxon:b519e5621a07ab2de0a2c2f80c17582d,"Alphitobius diaperinus (Panzer, 1797)",Animalia,SPECIES
+7679480,5354370,alien_species_cyprus:taxon:d2e4bed506beb0d797bf9f928e8f5f31,Senna artemisioides (Gaudich. ex DC.) Randell,Plantae,SPECIES
+323330225,1045833,alien_species_cyprus:taxon:08c39c689bb20b3199cdd2debc79dfad,"Latheticus oryzae C.O.Waterhouse, 1880",Animalia,SPECIES
+323330226,2975014,alien_species_cyprus:taxon:dd59a504cfe21379686f5007e403c8c8,Vicia sativa L.,Plantae,SPECIES
+323330228,2974832,alien_species_cyprus:taxon:cb2393bf80ebeb31301ec40c88694a8b,Vicia faba L.,Plantae,SPECIES
+323330229,4454311,alien_species_cyprus:taxon:efa71a01f476cd9732a98b5f85d0339a,"Lyphia tetraphylla (Fairmaire, 1857)",Animalia,SPECIES
+323330232,5356488,alien_species_cyprus:taxon:8cad1d22ca35eb78b03fbedc3c729d7c,Lathyrus sativus L.,Plantae,SPECIES
+323330233,7987689,alien_species_cyprus:taxon:c87472bdf4b665e79bd39651281b4a4b,"Tribolium confusum Jaquelin Du Val, 1868",Animalia,SPECIES
+323330234,4990338,alien_species_cyprus:taxon:5f9bda159dfe02ba8cc5d01fe7bd1326,"Tribolium castaneum (Herbst, 1797)",Animalia,SPECIES
+323330236,5356407,alien_species_cyprus:taxon:50d908056fafb27af3a923cffcd9f3af,Lathyrus clymenum L.,Plantae,SPECIES
+323330238,5356514,alien_species_cyprus:taxon:c4342b7a5e206ac1409a5948446add03,Lathyrus odoratus L.,Plantae,SPECIES
+323330240,5356517,alien_species_cyprus:taxon:e911cfd16eccf6b6b17e8c18d7ebb901,Lathyrus latifolius L.,Plantae,SPECIES
+323330241,4989835,alien_species_cyprus:taxon:0ed6279fd8a833c2fb5ba3ee2fa2fef1,"Cryptolestes ferrugineus (Stephens, 1831)",Animalia,SPECIES
+323330245,2953251,alien_species_cyprus:taxon:6815b8552a084eb0b3b3ab14d97a4f5f,Bauhinia variegata L.,Plantae,SPECIES
+323330246,1159172,alien_species_cyprus:taxon:a85dd9daad5e2a4ab436571b1963ebbd,"Xylotrechus stebbingi Gahan, 1906",Animalia,SPECIES
+323330247,2953031,alien_species_cyprus:taxon:941896ae3bf3a955812e685e7b23554b,Bauhinia tomentosa L.,Plantae,SPECIES
+323330250,1114140,alien_species_cyprus:taxon:15baf966978a13c58856e83b420caa95,"Phoracantha semipunctata (Fabricius, 1775)",Animalia,SPECIES
+323330251,2942877,alien_species_cyprus:taxon:c2ee187d454ce4cc3f4fd83967b9d897,Crotalaria juncea L.,Plantae,SPECIES
+323330252,1114246,alien_species_cyprus:taxon:2d5b4f78efe1450264eb98d971973dbd,"Phoracantha recurva Newman, 1840",Animalia,SPECIES
+323330255,2970648,alien_species_cyprus:taxon:d86e98684abeecf08dd906c875e00927,Sesbania sesban (L.) Merr.,Plantae,SPECIES
+323330258,1161907,alien_species_cyprus:taxon:18a85cfac749ab1b9241b36fa6f66ede,"Tarsostenus univittatus Rossi, 1790",Animalia,SPECIES
+323330259,7799711,alien_species_cyprus:taxon:3f014140728557be710e09fc99c12021,Canavalia ensiformis (L.) DC.,Plantae,SPECIES
+323330262,1161902,alien_species_cyprus:taxon:8dcfeb54589993b2748f4befd106b248,"Necrobia rufipes (Fabricius, 1781)",Animalia,SPECIES
+323330263,5360150,alien_species_cyprus:taxon:a916916ae5d50b328901c1e02a9dd2a4,Faidherbia albida (Delile) A.Chev.,Plantae,SPECIES
+323330264,4448925,alien_species_cyprus:taxon:25792ea4584b5dcbb589efbc5c5cc197,"Necrobia violacea (Linnaeus, 1758)",Animalia,SPECIES
+323330267,2965085,alien_species_cyprus:taxon:5569eedad8bad6234c0b9a69d622d298,Retama monosperma (L.) Boiss.,Plantae,SPECIES
+323330269,2965095,alien_species_cyprus:taxon:fc7bfd55758a0b5d9e3bbbcad4f246db,Retama raetam (Forssk.) Webb & Berthel.,Plantae,SPECIES
+323330270,1046911,alien_species_cyprus:taxon:86f9b1bdcff3e80d13cb92aabf4038f4,"Anthicus crinitus La Ferté-Sénectère, 1849",Animalia,SPECIES
+323330273,2970418,alien_species_cyprus:taxon:b5e77f85c4401cec4e7cf4410d11a72e,Leucaena leucocephala (Lam.) de Wit,Plantae,SPECIES
+323330274,1046849,alien_species_cyprus:taxon:aed7c1f07b3d59fe7e78d0a782628e03,"Omonadus floralis (Linnaeus, 1758)",Animalia,SPECIES
+3977043,3977043,alien_species_cyprus:taxon:171bb817a239422429ec1195eb1dc6bc,Hedysarum coronatum Poir.,Plantae,SPECIES
+323330280,1045506,alien_species_cyprus:taxon:8553b8470fdef56a50be091f2e3d35d2,"Typhaea stercorea (Linnaeus, 1758)",Animalia,SPECIES
+323330281,5349719,alien_species_cyprus:taxon:eaee9ec1c30f16ee8272640d486be52f,Erythrina crista-galli L.,Plantae,SPECIES
+323330285,5749012,alien_species_cyprus:taxon:4c8908f5c46ce396e1a7a30cc5153fd4,"Cryptophagus laticollis Lucas, 1846",Animalia,SPECIES
+323330286,2979775,alien_species_cyprus:taxon:8d3402047ad95982e111099b2e865f3f,Acacia mearnsii De Wild.,Plantae,SPECIES
+323330287,5749074,alien_species_cyprus:taxon:c9ccbcd727b5e94db38415bd3d84144b,"Cryptophagus pilosus Gyllenhal, 1827",Animalia,SPECIES
+323330288,2980425,alien_species_cyprus:taxon:760e296f3609fceef050a1560a89eb84,Acacia cyclops A.Cunn. ex G.Don,Plantae,SPECIES
+323330290,2978680,alien_species_cyprus:taxon:699ad9e6aeb023ec017741ac8e76c202,Acacia concurrens Pedley,Plantae,SPECIES
+323330292,2978643,alien_species_cyprus:taxon:4e9b8d20bae2388908c1ada5ccdf780b,Acacia pravissima F.Muell.,Plantae,SPECIES
+323330293,1048487,alien_species_cyprus:taxon:5bba3077f221f735c8fec93c0e22ecc6,"Stator limbatus (Horn, 1873)",Animalia,SPECIES
+323330294,2978730,alien_species_cyprus:taxon:82405c7d9b30139f807410ec8b7c668b,Acacia longifolia (Andrews) Willd.,Plantae,SPECIES
+323330296,2979494,alien_species_cyprus:taxon:10b188320775527e70039810254f141c,Acacia pendula A.Cunn. ex G.Don,Plantae,SPECIES
+323330297,6273748,alien_species_cyprus:taxon:96283856435cd6ec2921f0709070921c,"Octodonta nipae (Maulik, 1921)",Animalia,SPECIES
+323330298,2978604,alien_species_cyprus:taxon:1ad25e76b6f475e0708b9cbc6bd66539,Acacia pycnantha Benth.,Plantae,SPECIES
+323330299,2979408,alien_species_cyprus:taxon:ab2ca8b5fbb1ddbe2094fab7344cf1b9,Acacia retinodes Schltdl.,Plantae,SPECIES
+323330301,2978552,alien_species_cyprus:taxon:58fa69af60a88e67788bffd4954c6f25,Acacia saligna (Labill.) H.L.Wendl.,Plantae,SPECIES
+323330302,1047341,alien_species_cyprus:taxon:65c5e09a142662273ce4100d1bd7c55b,"Callosobruchus chinensis (Linnaeus, 1758)",Animalia,SPECIES
+323330303,2979559,alien_species_cyprus:taxon:806d2be80258bef243bdcd440f72d3bb,Acacia cultriformis A.Cunn. ex G.Don,Plantae,SPECIES
+323330305,2978548,alien_species_cyprus:taxon:c55ed7023eca0330ae6600dd0f8f0315,Acacia salicina Lindl.,Plantae,SPECIES
+323330306,1047525,alien_species_cyprus:taxon:6426f45771f4223058819c0d1ffb766f,"Acanthoscelides obtectus (Say, 1831)",Animalia,SPECIES
+323330307,2981177,alien_species_cyprus:taxon:9f384c0c585486e50c6949f088b8b160,Acacia ligulata A.Cunn. ex Benth.,Plantae,SPECIES
+323330308,1047530,alien_species_cyprus:taxon:71530512f3f291b60e46ab5ce33a14fe,"Acanthoscelides macrophthalmus (Schaeffer, 1907)",Animalia,SPECIES
+323330309,2979000,alien_species_cyprus:taxon:516f44693ff01e602f600c4ecc25731d,Acacia melanoxylon R.Br.,Plantae,SPECIES
+323330311,2979292,alien_species_cyprus:taxon:f24bd330c7335cbef27297dcc7d352c3,Acacia verticillata (L'Her.) Willd.,Plantae,SPECIES
+323330312,4460066,alien_species_cyprus:taxon:17ac6361b3856c9e3969b996536956c0,"Chrysolina americana (Linnaeus, 1758)",Animalia,SPECIES
+323330316,5752246,alien_species_cyprus:taxon:8e126f13f9fd5aa33e0dad4bfb984f1d,"Pseudopachymerina spinipes (Erichson, 1834)",Animalia,SPECIES
+323330319,3040255,alien_species_cyprus:taxon:d75582f35158c562d9c16ac23ca30366,Reseda odorata L.,Plantae,SPECIES
+323330320,5752143,alien_species_cyprus:taxon:b8606ea2ec65d72a3353b83954d4b0f9,"Bruchus rufimanus Boheman, 1833",Animalia,SPECIES
+323330321,3040253,alien_species_cyprus:taxon:c09e56deb91431f55577274bc8f29531,Reseda phyteuma L.,Plantae,SPECIES
+323330322,5752155,alien_species_cyprus:taxon:be4809a76a74d941cd17004d16f1da44,"Bruchus pisorum Linnaeus, 1758",Animalia,SPECIES
+323330326,1047737,alien_species_cyprus:taxon:554a616b75efa5d6ce55efd75d7a1116,"Caryedon serratus (Olivier, 1790)",Animalia,SPECIES
+323330327,5373324,alien_species_cyprus:taxon:058257000782fd01f5925f82ed23c3cb,Lunaria annua L.,Plantae,SPECIES
+323330331,5374118,alien_species_cyprus:taxon:ca10021aac9763e3ae1fe69dcea329e0,Isatis tinctoria L.,Plantae,SPECIES
+323330332,1044673,alien_species_cyprus:taxon:1fc177725b343b69e5f32bc86e8dacb3,"Carcinops pumilio (Erichson, 1834)",Animalia,SPECIES
+323330335,7903057,alien_species_cyprus:taxon:659482b51489ac2593d4b2048bc8dd40,Brassica rapa L.,Plantae,SPECIES
+323330336,4433282,alien_species_cyprus:taxon:6eb0cd349cb4302c7e70041c2b1bfcb9,"Hister bipunctatus Paykull, 1811",Animalia,SPECIES
+323330337,3042636,alien_species_cyprus:taxon:5d0ac9c3f74dac3b7b53909a1ba3eaaf,Brassica napus L.,Plantae,SPECIES
+323330339,4433095,alien_species_cyprus:taxon:fffe55be6f7b868bef82c388b00b6aa0,"Hypocaccus brasiliensis (Paykull, 1811)",Animalia,SPECIES
+323330342,7678610,alien_species_cyprus:taxon:92310669bdf108f72ba0cdbb6b0f5756,Raphanus sativus L.,Plantae,SPECIES
+323330343,4433030,alien_species_cyprus:taxon:5dfc249780697acb7fa626a507c6c722,"Chalcionellus decemstriatus (P.Rossi, 1792)",Animalia,SPECIES
+323330347,5377378,alien_species_cyprus:taxon:521a20c202c5bd73d57105da85efcf90,Matthiola incana (L.) W.T.Aiton,Plantae,SPECIES
+323330348,1034043,alien_species_cyprus:taxon:fa22776dd407cc32dd0203111126bef6,"Dactylosternum abdominale (Fabricius, 1792)",Animalia,SPECIES
+323330352,3046736,alien_species_cyprus:taxon:0e659a27741c768950cd245e9d65fad3,Sisymbrium altissimum L.,Plantae,SPECIES
+323330353,1171601,alien_species_cyprus:taxon:2e3cf37ab7e4539ef6967b6f807420dc,"Cylas formicarius (Fabricius, 1798)",Animalia,SPECIES
+323330356,5376337,alien_species_cyprus:taxon:5480e2e799160ddae094ea91f8ba22cd,Diplotaxis muralis (L.) DC.,Plantae,SPECIES
+323330357,4463518,alien_species_cyprus:taxon:624b9e654b61207a48225609b5226681,"Rhopalapion longirostre (Olivier, 1807)",Animalia,SPECIES
+323330358,5376426,alien_species_cyprus:taxon:5936d2bf8a9b9390889365bcb6bb03c3,Diplotaxis tenuifolia (L.) DC.,Plantae,SPECIES
+323330362,3048203,alien_species_cyprus:taxon:732e1ea781f945e506289ebacb869caa,Erysimum cheiri (L.) Crantz,Plantae,SPECIES
+323330363,4449493,alien_species_cyprus:taxon:7caafd9e36567c838a97bab4eab541e9,"Acanthocnemus nigricans (Hope, 1845)",Animalia,SPECIES
+323330366,5376565,alien_species_cyprus:taxon:b346045ca79cebf54cb9484dc747bd7c,Lepidium sativum L.,Plantae,SPECIES
+323330368,5376648,alien_species_cyprus:taxon:4c7b6b1c8c52f88805a9b9699a580f0a,Lepidium virginicum L.,Plantae,SPECIES
+323330369,10470364,alien_species_cyprus:taxon:4c8bc7dea493ce099afbed4dc69e9697,"Lyctus brunneus (Stephens, 1830)",Animalia,SPECIES
+323330370,5376762,alien_species_cyprus:taxon:56e75ceb99640ce2deb0a19562064966,Lepidium spinosum Ard.,Plantae,SPECIES
+323330372,5377060,alien_species_cyprus:taxon:116b7d679c1f9c4c610cae14eb6697e1,Lepidium didymum L.,Plantae,SPECIES
+323330373,4427572,alien_species_cyprus:taxon:e725d9ceb2b602aaaf5f30905a83d05f,"Sinoxylon perforans (Schrank, 1789)",Animalia,SPECIES
+323330376,3044349,alien_species_cyprus:taxon:fae9ddae6cca932c609be0c29854eaae,Chorispora tenella (Pall.) DC.,Plantae,SPECIES
+323330377,4427567,alien_species_cyprus:taxon:0c0a71d06ffbae945b93876377bd026d,"Apate monachus Fabricius, 1775",Animalia,SPECIES
+323330380,3047621,alien_species_cyprus:taxon:59797244c7fbfa68f914dfe5c40e297c,Sinapis alba L.,Plantae,SPECIES
+323330381,1095716,alien_species_cyprus:taxon:1f1efad50dbd5cd18f5de1301efd07c7,"Rhyzopertha dominica (Fabricius, 1792)",Animalia,SPECIES
+323330384,3052680,alien_species_cyprus:taxon:18d812601873205cb492413fbc32b189,Thlaspi arvense L.,Plantae,SPECIES
+323330385,4426163,alien_species_cyprus:taxon:1c9d7436657f4ba2676d626c10e5e566,"Trogoxylon impressum (Comolli, 1837)",Animalia,SPECIES
+323330389,3044318,alien_species_cyprus:taxon:add11b6b6901744997b1fd34ed684a0d,Descurainia sophia (L.) Webb ex Prantl,Plantae,SPECIES
+323330390,1040046,alien_species_cyprus:taxon:211f94170f7e916117cb6866d203e61b,"Oligota pusillima (Gravenhorst, 1806)",Animalia,SPECIES
+323330392,1040045,alien_species_cyprus:taxon:dbce60ef7d93e1545a9d2ab75425c830,"Oligota parva Kraatz, 1862",Animalia,SPECIES
+323330393,5373358,alien_species_cyprus:taxon:d67a4c9daaad5449d4a6bd0bb9dc0100,Lobularia maritima (L.) Desv.,Plantae,SPECIES
+323330396,4438308,alien_species_cyprus:taxon:02dcb067851feb6e92c50839406cc2ce,"Proteinus ovalis Stephens, 1834",Animalia,SPECIES
+323330399,2889934,alien_species_cyprus:taxon:12e125fc07a1e0734f61ada080d30b14,Tropaeolum majus L.,Plantae,SPECIES
+323330400,1040764,alien_species_cyprus:taxon:48a17d19ad3a06fb125d24086e4e8be1,"Aleochara puberula Klug, 1833",Animalia,SPECIES
+323330405,1039712,alien_species_cyprus:taxon:2308622cf723b41a252e498b50ee7694,"Carpelimus pusillus (Gravenhorst, 1802)",Animalia,SPECIES
+323330406,1039693,alien_species_cyprus:taxon:985ae0c34245ca66ea8cf940d697df0d,"Carpelimus bilineatus (Stephens, 1834)",Animalia,SPECIES
+323330407,8228089,alien_species_cyprus:taxon:26dae2607f931cb914b0fd4f40a7aaef,Ziziphus spina-christi (L.) Desf.,Plantae,SPECIES
+323330408,1039716,alien_species_cyprus:taxon:ec2308662b083101c7fd7a3d0f0c8a47,"Carpelimus corticinus (Gravenhorst, 1806)",Animalia,SPECIES
+323330409,3039423,alien_species_cyprus:taxon:4ea2fce88626de4184e1b20703c26fa8,Ziziphus jujuba Mill.,Plantae,SPECIES
+323330413,5372457,alien_species_cyprus:taxon:2e96b676bcb4eae79a43cbf92fdabb91,Paliurus spina-christi Mill.,Plantae,SPECIES
+323330414,4990235,alien_species_cyprus:taxon:1b327b2146622865dee8341de3cfb5e9,"Cryptophilus integer (Heer, 1841)",Animalia,SPECIES
+323330419,3039269,alien_species_cyprus:taxon:6d63efc1daf3d05378d5a2390405c287,Elaeagnus angustifolia L.,Plantae,SPECIES
+323330420,6964183,alien_species_cyprus:taxon:970fbdcb08cd9cdab7915dd2829a1651,"Sphaericus pinguis (Wollaston, 1854)",Animalia,SPECIES
+323330424,1095750,alien_species_cyprus:taxon:18f483d185436146ebea7d717df09430,"Gibbium psylloides (Czenpinski, 1778)",Animalia,SPECIES
+10786206,3024146,alien_species_cyprus:taxon:b76ac4850c90db5dd1ce23c54c663c70,Rhaphiolepis bibas (Lour.) Galasso & Banfi,Plantae,SPECIES
+323330428,1095739,alien_species_cyprus:taxon:3aafadca23e506677cde219a19f13b3f,"Mezium affine Boieldieu, 1856",Animalia,SPECIES
+323330429,3001244,alien_species_cyprus:taxon:dd12f92c98e33b0377fd5e85b78e0623,Malus domestica (Suckow) Borkh.,Plantae,SPECIES
+323330431,3001509,alien_species_cyprus:taxon:8dd0e3214b6ef025c74a2fa9788ef6e3,Malus sylvestris Mill.,Plantae,SPECIES
+323330432,1095795,alien_species_cyprus:taxon:213e3a0962f0641288fb46a3ba4dfe47,"Ptinus fur (Linnaeus, 1758)",Animalia,SPECIES
+323330434,1095783,alien_species_cyprus:taxon:5f959bad5eed9eeb1fbd7fdd2cb7b3f6,"Ptinus tectus Boieldieu, 1856",Animalia,SPECIES
+323330435,1095800,alien_species_cyprus:taxon:e75e7ca9ac63caa16a40aa2d10b931cf,"Ptinus latro Fabricius, 1775",Animalia,SPECIES
+323330436,3004247,alien_species_cyprus:taxon:3c8ecb81875fd3a5c709688010aec3e9,Rosa banksiae R.Br. ex Aiton,Plantae,SPECIES
+323330437,4426500,alien_species_cyprus:taxon:6714791df7194d76164eb6fc04e89955,"Ptinus exulans Erichson, 1842",Animalia,SPECIES
+323330438,3002530,alien_species_cyprus:taxon:3caf53bcb8056e9b228c27a8896ea8e8,Rosa gallica L.,Plantae,SPECIES
+8058607,3002625,alien_species_cyprus:taxon:4b1f7687c7da9df9fcee50d6a470f7a6,Rosa canina var. blondaeana (Ripart ex Déségl.) Crép.,Plantae,VARIETY
+323330441,1095270,alien_species_cyprus:taxon:2e9817e109543ad1deeccc3466a7e32a,"Nicobium castaneum (Olivier, 1790)",Animalia,SPECIES
+323330442,7390572,alien_species_cyprus:taxon:db1c4ca40e70876cfd34a333b353236a,Rosa ×damascena Mill.,Plantae,SPECIES
+323330445,4998194,alien_species_cyprus:taxon:a5ec87139577af815d780e24d2caa4ec,"Lasioderma serricorne Fabricius, 1792",Animalia,SPECIES
+323330446,3031774,alien_species_cyprus:taxon:20f44f18bf6a3d7b36f502a00c3378f6,Mespilus germanica L.,Plantae,SPECIES
+323330449,1095652,alien_species_cyprus:taxon:5a9f07447c9ce869f7d5310bb3969c90,"Stegobium paniceum (Linnaeus, 1758)",Animalia,SPECIES
+323330450,2996929,alien_species_cyprus:taxon:6fc25b3248ab0b5361d7f5dbfb9326ad,Rubus ulmifolius Schott,Plantae,SPECIES
+323330453,1095277,alien_species_cyprus:taxon:ed8432012095b1fc15db29aa83260ab7,"Ozognathus cornutus (LeConte, 1859)",Animalia,SPECIES
+323330454,3013215,alien_species_cyprus:taxon:76a6b4815b3bc16c528ab0c79d78d312,Cormus domestica (L.) Spach,Plantae,SPECIES
+323330457,1095760,alien_species_cyprus:taxon:72648f072823f561133cbeb9d7fa5f49,"Niptus hololeucus (Faldermann, 1835)",Animalia,SPECIES
+323330458,5362328,alien_species_cyprus:taxon:8e0cb2f0a8a8f4c9f5fe98dada90aafa,Pyrus salicifolia Pall.,Plantae,SPECIES
+323330460,5362573,alien_species_cyprus:taxon:fa3c1a0471c085ddce6f1ab1d6b326c1,Pyrus communis L.,Plantae,SPECIES
+323330463,1043501,alien_species_cyprus:taxon:6e29c6a7e5490c076867d84415a5b9ca,"Chilocorus circumdatus (Gyllenhall, 1808)",Animalia,SPECIES
+323330464,7931731,alien_species_cyprus:taxon:13dee240caa1d52a8a7fdea6a9d3bb67,Prunus domestica L.,Plantae,SPECIES
+323330465,10717672,alien_species_cyprus:taxon:36d133e4e7cab095e961d98f3bf96952,"Chilocorus hauseri Weise, 1895",Animalia,SPECIES
+323330466,7818643,alien_species_cyprus:taxon:f942dc5fee40b2c35b8f975ece6138ed,Prunus armeniaca L.,Plantae,SPECIES
+323330468,3021730,alien_species_cyprus:taxon:7254e463df1d83e340adcca76645839f,Prunus cerasifera Ehrh.,Plantae,SPECIES
+323330469,4990176,alien_species_cyprus:taxon:b9d94142fc7c7d6afec33a094c166798,"Rhyzobius forestieri (Mulsant, 1853)",Animalia,SPECIES
+323330470,3020980,alien_species_cyprus:taxon:4b6254dd41023998dc9e70ad1f1ee6a7,Prunus amygdalus Batsch,Plantae,SPECIES
+8149923,3022511,alien_species_cyprus:taxon:21eb62fe76d84d02c8c14d7252fae5fd,Prunus persica (L.) Stokes,Plantae,SPECIES
+323330473,1043717,alien_species_cyprus:taxon:4b5e8c4fe00adae4e59033c31cad9612,"Cryptolaemus montrouzieri Mulsant, 1853",Animalia,SPECIES
+323330474,3020791,alien_species_cyprus:taxon:f755225ac0cde82d89808b12e2f6e79e,Prunus avium (L.) L.,Plantae,SPECIES
+4990175,8324845,alien_species_cyprus:taxon:459d7aefa1a98f11caec52c6fb03070a,"Rhyzobius lophanthae (Blaisdell, 1892)",Animalia,SPECIES
+323330478,2988188,alien_species_cyprus:taxon:f7e3d1e76c59663cea62e19a2e2166e4,Pyracantha coccinea M.Roem.,Plantae,SPECIES
+323330481,1043326,alien_species_cyprus:taxon:3d320880bc8441668a71561b45836179,"Rodolia cardinalis (Mulsant, 1850)",Animalia,SPECIES
+323330482,5362215,alien_species_cyprus:taxon:3cf1ec7bbce30624c841ac594b733026,Cydonia oblonga Mill.,Plantae,SPECIES
+323330487,1043875,alien_species_cyprus:taxon:0b992c07177a94906e0fc982437b036e,"Oryzaephilus surinamensis (Linnaeus, 1758)",Animalia,SPECIES
+323330489,2984580,alien_species_cyprus:taxon:254e907d4b925ed1bbd8ef966ba70b8c,Maclura pomifera (Raf. ex Sarg.) C.K.Schneid.,Plantae,SPECIES
+323330492,7501381,alien_species_cyprus:taxon:8f0a48b5abbeeaea0edbd227ae1708e6,"Xylographus bostrychoides (Dufour, 1843)",Animalia,SPECIES
+323330493,5361889,alien_species_cyprus:taxon:7dd6af9d2801db0e7164f70d7fc4f6f0,Morus alba L.,Plantae,SPECIES
+323330495,5361888,alien_species_cyprus:taxon:3ade76dbff0f4d7d97314f10cf425639,Morus nigra L.,Plantae,SPECIES
+323330498,4453205,alien_species_cyprus:taxon:bc2448ecf208e1e2fb967b1f21238385,"Carpophilus pilosellus Motschulsky, 1858",Animalia,SPECIES
+323330499,5361914,alien_species_cyprus:taxon:3aa6747725bcb21dc482463a7d4135cd,Ficus drupacea Thunb.,Plantae,SPECIES
+323330500,1044109,alien_species_cyprus:taxon:fe25b388bb3874d3d88842c2a06d3313,"Carpophilus marginellus Motschulsky, 1858",Animalia,SPECIES
+323330501,5361899,alien_species_cyprus:taxon:6792f2933dc54935018b036a9db44e00,Ficus lyrata Warb.,Plantae,SPECIES
+323330502,1044106,alien_species_cyprus:taxon:3a11869f1dd1f04ad5237763de53d480,"Carpophilus mutilatus Erichson, 1843",Animalia,SPECIES
+323330503,7467639,alien_species_cyprus:taxon:69b939ed4cd2c83d70a959ae9f0d3d00,Ficus microcarpa L.fil.,Plantae,SPECIES
+323330504,1044114,alien_species_cyprus:taxon:d1b6a44cc537d09de2ba4ca44ae5c08b,"Carpophilus dimidiatus (Fabricius, 1792)",Animalia,SPECIES
+323330505,7262699,alien_species_cyprus:taxon:09636ec60968abf2a5e9625e63283057,Ficus binnendijkii (Miq.) Miq.,Plantae,SPECIES
+323330506,1044111,alien_species_cyprus:taxon:4cd7c70a47a887bad662f0cd47037e09,"Carpophilus hemipterus (Linnaeus, 1758)",Animalia,SPECIES
+323330507,5361921,alien_species_cyprus:taxon:6185fb4d85a1663c5d19977bffe25767,Ficus sycomorus L.,Plantae,SPECIES
+323330508,4453195,alien_species_cyprus:taxon:f503e5bee64ceed3cfc06ee0d74d9155,"Carpophilus obsoletus Erichson, 1843",Animalia,SPECIES
+323330509,7835333,alien_species_cyprus:taxon:0df2c318b313e1ecc8c928cc4b5fcfbb,Ficus elastica Roxb.,Plantae,SPECIES
+323330510,5361929,alien_species_cyprus:taxon:c14018780f95f295452a006bf6eddb24,Ficus rubiginosa Desf. ex Vent.,Plantae,SPECIES
+323330511,4453189,alien_species_cyprus:taxon:d73ee7d00589e6046bddbb82974b6514,"Carpophilus nepos Murray, 1864",Animalia,SPECIES
+323330512,5361932,alien_species_cyprus:taxon:1a812671a713187a122f2834ff4bfa32,Ficus benjamina L.,Plantae,SPECIES
+323330513,9547586,alien_species_cyprus:taxon:d6fc6c705142357eb9d20196b3abe986,"Carpophilus bifenestratus Murray, 1864",Animalia,SPECIES
+7460131,7460131,alien_species_cyprus:taxon:63f1cb0ddc136c513f41394ec38ff003,"Ficus macrophylla Desf., 1804",Plantae,SPECIES
+323330517,5361944,alien_species_cyprus:taxon:93c5aae56fd13cb77b1ab9486ad1ee5d,Broussonetia papyrifera (L.) L'Hér. ex Vent.,Plantae,SPECIES
+323330518,5749668,alien_species_cyprus:taxon:8df4615a8334439ddc0d6b0c47311716,"Nitidula carnaria (Schaller, 1783)",Animalia,SPECIES
+323330522,2984359,alien_species_cyprus:taxon:8e0a650bf930ad219671cba883f12c25,Boehmeria nivea (L.) Gaudich.,Plantae,SPECIES
+323330523,4990251,alien_species_cyprus:taxon:586cf1aebf12275bf02b184775ff5c6d,"Omosita discoidea (Fabricius, 1775)",Animalia,SPECIES
+323330527,1044156,alien_species_cyprus:taxon:c5c1578cf7b2c6f4ee1296d6c7c5a792,"Urophorus humeralis (Fabricius, 1798)",Animalia,SPECIES
+323330528,5361880,alien_species_cyprus:taxon:6c6ea8838f32e524bf598833d946be53,Cannabis sativa L.,Plantae,SPECIES
+323330531,2984537,alien_species_cyprus:taxon:381bb05ccf7c58075dbae67555bbe92e,Humulus scandens (Lour.) Merr.,Plantae,SPECIES
+323330534,7814838,alien_species_cyprus:taxon:0907fa0580670fd79df3035ae8381faa,"Carterus dama (P.Rossi, 1792)",Animalia,SPECIES
+323330535,2984492,alien_species_cyprus:taxon:9d8ef23f62438c655f2f38e7ff51fd1f,Celtis australis L.,Plantae,SPECIES
+323330539,5755203,alien_species_cyprus:taxon:33ca67006b1a572632f34df9f86d3d55,"Laemostenus complanatus (Dejean, 1828)",Animalia,SPECIES
+323330540,4159329,alien_species_cyprus:taxon:598aa4d62f47e9263cd437c0a043dd3b,Zelkova abelicea (Lam.) Boiss.,Plantae,SPECIES
+323330543,5361866,alien_species_cyprus:taxon:00a10400d52bebf8c6b7170ccbe39e5e,Ulmus glabra Huds.,Plantae,SPECIES
+323330544,7459990,alien_species_cyprus:taxon:54735e055994f6f8d819b0549e09d5f4,"Anaulacus rutilus (Schaum, 1863)",Animalia,SPECIES
+323330548,1035043,alien_species_cyprus:taxon:5d20b198bf71eea1ff957cdcf000f9c9,"Nomius pygmaeus (Dejean, 1831)",Animalia,SPECIES
+323330550,5334351,alien_species_cyprus:taxon:72f983357cb9c538a4fe13e4bde3023c,Fallopia baldschuanica (Regel) Holub,Plantae,SPECIES
+323330554,5334315,alien_species_cyprus:taxon:9364856f521d9cb828fb383a6289cb61,Polygonum arenarium Waldst. & Kit.,Plantae,SPECIES
+323330555,6978596,alien_species_cyprus:taxon:600d5b53f98ccb51c72e7125540071d6,"Aeolus melliculus Candèze, 1859",Animalia,SPECIES
+323330559,2889015,alien_species_cyprus:taxon:637daf49702d087d74aa175d064f2c1c,Rumex hymenosepalus Torr.,Plantae,SPECIES
+323330562,1095958,alien_species_cyprus:taxon:b12fd764ce2ba94aef0fd9ee284c9f35,"Attagenus unicolor (Brahm, 1790)",Animalia,SPECIES
+323330563,6391194,alien_species_cyprus:taxon:a8fed39c49f021a699a34cc535a9dd93,Persicaria maculosa Gray,Plantae,SPECIES
+323330567,1095979,alien_species_cyprus:taxon:a6d45ec622def9193624d72bedaf62ff,"Trogoderma granarium Everts, 1898",Animalia,SPECIES
+323330569,1095976,alien_species_cyprus:taxon:047204eafbc013d4458d7f8c8ead84df,"Trogoderma versicolor (Creutzer, 1799)",Animalia,SPECIES
+323330570,8124412,alien_species_cyprus:taxon:c0c93fcb886fa9d1958a35808ba46b1f,Aizoon canariense L.,Plantae,SPECIES
+323330572,1095977,alien_species_cyprus:taxon:b838969adf4f479baff508d1718bd9ee,"Trogoderma inclusum LeConte, 1854",Animalia,SPECIES
+323330573,3704907,alien_species_cyprus:taxon:29a5c4cb33702d4e8ac4452d4568bbb6,Lampranthus roseus (Willd.) Schwantes,Plantae,SPECIES
+323330576,4427377,alien_species_cyprus:taxon:1f9c818274d77e0ee9dcbdf5eee7b87b,"Dermestes bicolor Fabricius, 1781",Animalia,SPECIES
+323330577,3084842,alien_species_cyprus:taxon:0e093aa18e2282e4196e9a111cc472e9,Carpobrotus edulis (L.) N.E.Br.,Plantae,SPECIES
+323330578,1095863,alien_species_cyprus:taxon:00fbdaabeb26b66a522a8c88bf80dc70,"Dermestes maculatus DeGeer, 1774",Animalia,SPECIES
+323330579,3703606,alien_species_cyprus:taxon:0dcf9beb0d220731c7ae0ee84f62baa1,Carpobrotus acinaciformis (L.) L.Bolus,Plantae,SPECIES
+323330580,1095854,alien_species_cyprus:taxon:c0c55fbb4ff345e3e5dd6fe2e56fbaa4,"Dermestes frischi Kugelman, 1792",Animalia,SPECIES
+323330582,8185812,alien_species_cyprus:taxon:ece298d690cb15aec6e617d388b8adb2,Mesembryanthemum cordifolium L.fil.,Plantae,SPECIES
+323330583,1095848,alien_species_cyprus:taxon:32d9d698c9ccc2f1ca379bc3a304816d,"Dermestes lardarius Linnaeus, 1758",Animalia,SPECIES
+323330585,1095855,alien_species_cyprus:taxon:ac88b1e04442ff82308e11b5b9122a63,"Dermestes ater DeGeer, 1774",Animalia,SPECIES
+323330588,3082283,alien_species_cyprus:taxon:621048b4420170287d6b324d032635ef,Plumbago auriculata Lam.,Plantae,SPECIES
+323330589,4427293,alien_species_cyprus:taxon:184f99ce301d357e5f13508ffab4f9a2,"Anthrenus flavidus Solskij, 1876",Animalia,SPECIES
+323330592,1095899,alien_species_cyprus:taxon:8f164abd1e6899039ecfd2f30b2bcebb,"Anthrenus scrophulariae (Linnaeus, 1758)",Animalia,SPECIES
+323330593,3084015,alien_species_cyprus:taxon:a04efa038af761a16aab04d3c91e0f64,Phytolacca americana L.,Plantae,SPECIES
+323330594,1095895,alien_species_cyprus:taxon:84e3bb34f35d121ff6d52681686a7272,"Anthrenus verbasci (Linnaeus, 1767)",Animalia,SPECIES
+323330595,7309625,alien_species_cyprus:taxon:157123b463795bd7a8e1a907326d6617,Phytolacca dioica L.,Plantae,SPECIES
+323330600,7418706,alien_species_cyprus:taxon:242a240635886f1fc4c59f0f441fc2c4,"Oxybasis urbica (L.) S.Fuentes, Uotila & Borsch",Plantae,SPECIES
+323330601,1161887,alien_species_cyprus:taxon:aee29bff52b8481e2b534c3d24b03efc,"Tenebroides mauritanicus (Linnaeus, 1758)",Animalia,SPECIES
+323330602,7725469,alien_species_cyprus:taxon:f554593bcb08b96a58eca5912f4680f6,"Oxybasis rubra (L.) S.Fuentes, Uotila & Borsch",Plantae,SPECIES
+323330606,5568213,alien_species_cyprus:taxon:43c7b511dabbda4f9894c4f01f559fc4,Bassia indica (Wight) A.J.Scott,Plantae,SPECIES
+323330607,5383936,alien_species_cyprus:taxon:6468dc5cb96a047c2be3bcba249da343,Bassia scoparia (L.) A.J.Scott,Plantae,SPECIES
+323330610,1031400,alien_species_cyprus:taxon:248395048cae180fc1f4dbf51e672fb2,"Ectopsocus briggsi McLachlan, 1899",Animalia,SPECIES
+323330611,7323598,alien_species_cyprus:taxon:3c0b23f7c17ce28c3a207c7bf3dda0de,Alternanthera pulchella Kunth,Plantae,SPECIES
+323330612,8026099,alien_species_cyprus:taxon:1ccfe0d2615e9a8f7ebac04ee48babec,"Ectopsocus meridionalis Ribaga, 1904",Animalia,SPECIES
+323330615,3083934,alien_species_cyprus:taxon:067f5ea8ee682ac1590a4b4e6081160a,Chenopodium hircinum Schrad.,Plantae,SPECIES
+323330616,3756077,alien_species_cyprus:taxon:cee5ae84413d1ecccb9575bf2654c473,Chenopodium giganteum D.Don,Plantae,SPECIES
+323330619,1031677,alien_species_cyprus:taxon:b4fc802f43e41325fdec7ac51aad3b16,"Trogium pulsatorium (Linnaeus, 1758)",Animalia,SPECIES
+323330623,5568361,alien_species_cyprus:taxon:dd64e9fdfa9a71ef52d569d656fa6277,Dysphania multifida (L.) Mosyakin & Clemants,Plantae,SPECIES
+323330624,1031685,alien_species_cyprus:taxon:1bb5899e19c771125a1060ba47b791be,"Lepinotus reticulatus Enderlein, 1904",Animalia,SPECIES
+323330627,5384393,alien_species_cyprus:taxon:472447e20805c29ff8f22d78ff2b7eac,Amaranthus palmeri S.Watson,Plantae,SPECIES
+323330629,5384401,alien_species_cyprus:taxon:ab72f4d88545c874c7a75c305f9c606f,Amaranthus spinosus L.,Plantae,SPECIES
+323330630,7323711,alien_species_cyprus:taxon:b8cf7874d7d8534809566b7612fb82eb,Amaranthus quitensis Kunth,Plantae,SPECIES
+323330631,1031521,alien_species_cyprus:taxon:f324b6725eabdbb1d2341b0df1fd743d,"Liposcelis decolor (Pearman, 1925)",Animalia,SPECIES
+323330633,1031528,alien_species_cyprus:taxon:cd93ad951c9185a1a0d716dface291b5,"Liposcelis corrodens (Heymons, 1909)",Animalia,SPECIES
+323330634,5384364,alien_species_cyprus:taxon:59f8f5ea347237fbc2ef60cb2d707f03,Amaranthus hybridus L.,Plantae,SPECIES
+323330635,5384395,alien_species_cyprus:taxon:316cf307d4fbc375790ebe5ccea51d2d,Amaranthus blitoides S.Watson,Plantae,SPECIES
+323330636,1031520,alien_species_cyprus:taxon:e5fdf01ca4e18b1f2c0b898a0b7cd578,"Liposcelis bostrychophila Badonnel, 1931",Animalia,SPECIES
+323330637,5384334,alien_species_cyprus:taxon:28d7e73c0987d1da22c672f7ac69dc1a,Amaranthus viridis L.,Plantae,SPECIES
+323330638,1031512,alien_species_cyprus:taxon:d801aeaa85cd375cde8f0843cb7d37a4,"Liposcelis brunnea Motschulsky, 1852",Animalia,SPECIES
+323330639,6109611,alien_species_cyprus:taxon:5c6af4f82cb5d9285d783a674bfb8688,Amaranthus caudatus L.,Plantae,SPECIES
+323330640,1031529,alien_species_cyprus:taxon:6aeb8c5d5c7e206ef18ab13c977f9792,"Liposcelis entomophila (Enderlein, 1907)",Animalia,SPECIES
+323330641,6109534,alien_species_cyprus:taxon:5c30bf0f8638589de52039e886902c87,Amaranthus retroflexus L.,Plantae,SPECIES
+323330642,5384390,alien_species_cyprus:taxon:197215ba444512ca75f7813ce99a6891,Amaranthus cruentus L.,Plantae,SPECIES
+323330644,5384359,alien_species_cyprus:taxon:04c6cff870131ef04bda55a63d52b2da,Amaranthus powellii S.Watson,Plantae,SPECIES
+323330646,7905507,alien_species_cyprus:taxon:81d027ab27a63de404e455810485a5f0,Amaranthus albus L.,Plantae,SPECIES
+323330647,1031504,alien_species_cyprus:taxon:ea4cce318ee977569bbf24402dcf6523,"Nanopsocus oceanicus Pearman, 1928",Animalia,SPECIES
+323330648,5384396,alien_species_cyprus:taxon:0643fbc84edb3b65d401bb6bd1177681,Amaranthus deflexus L.,Plantae,SPECIES
+323330652,3083647,alien_species_cyprus:taxon:e076417b72160daa4bf12bd1e53b21ca,Spinacia oleracea L.,Plantae,SPECIES
+323330655,5151589,alien_species_cyprus:taxon:06f68884c2b28e09ac3f6e2c99d03b56,"Blatta orientalis Linnaeus, 1758",Animalia,SPECIES
+323330659,2000152,alien_species_cyprus:taxon:de7124bff5ed67eecf98a0d14a1e3c44,"Periplaneta americana (Linnaeus, 1758)",Animalia,SPECIES
+323330660,3083702,alien_species_cyprus:taxon:fe8afa7696f4f6a934ada8f7b19eee6b,Atriplex tatarica L.,Plantae,SPECIES
+323330662,3083652,alien_species_cyprus:taxon:684373492f872a1db64f980ddfc9bf27,Atriplex nummularia Lindl.,Plantae,SPECIES
+323330663,5151541,alien_species_cyprus:taxon:e37066b84bfc7a62bc5f220568aa57ba,"Shelfordella lateralis (Walker, 1868)",Animalia,SPECIES
+10668498,6035688,alien_species_cyprus:taxon:0361b25b2b4fcdebbdd420a08813a926,Atriplex turcomanica (Moq.) Boiss.,Plantae,SPECIES
+323330666,3083771,alien_species_cyprus:taxon:5c910f09f5ed2b6aac5afc9cdb206dc2,Atriplex suberecta I.Verd.,Plantae,SPECIES
+323330668,3083793,alien_species_cyprus:taxon:e52b385b1e03ca092dd7c44d219f1a85,Atriplex lindleyi Moq.,Plantae,SPECIES
+323330669,1997215,alien_species_cyprus:taxon:3c6e32225b7a497228e13545248d97d6,"Blattella germanica (Linnaeus, 1767)",Animalia,SPECIES
+323330670,3083667,alien_species_cyprus:taxon:d637e4ed5d794aed187f325c50b9fcfe,Atriplex semibaccata R.Br.,Plantae,SPECIES
+323330675,1997400,alien_species_cyprus:taxon:a696662387f93a45e089703f94028228,"Supella longipalpa (Fabricius, 1798)",Animalia,SPECIES
+323330676,3083508,alien_species_cyprus:taxon:e17f846adc98643bcc65422551b0eb3f,Anredera cordifolia (Ten.) Steenis,Plantae,SPECIES
+323330682,7281375,alien_species_cyprus:taxon:d4a144be19da7e77d894959dc03efb70,Echinopsis oxygona (Link) Zucc. ex Pfeiff. & Otto,Plantae,SPECIES
+323330683,8006995,alien_species_cyprus:taxon:dd725532d42ab63da1ff5d7ee6105f51,"Protopulvinaria pyriformis (Cockerell, 1894)",Animalia,SPECIES
+10334868,3084394,alien_species_cyprus:taxon:71dc63b9b2eac58f58c200d688856769,Selenicereus undatus (Haw.) D.R.Hunt,Plantae,SPECIES
+323330687,5163248,alien_species_cyprus:taxon:3980b13f38ef3fcb6159e958c67c80aa,"Coccus pseudomagnoliarum (Kuwana, 1914)",Animalia,SPECIES
+323330689,5712981,alien_species_cyprus:taxon:6820c47bcb1baa1b1a0fda80afb5da1a,"Coccus hesperidum Linnaeus, 1758",Animalia,SPECIES
+323330690,5384047,alien_species_cyprus:taxon:4502a2e136f42e36387fe1bab85b9444,Opuntia humifusa (Raf.) Raf.,Plantae,SPECIES
+323330691,8202676,alien_species_cyprus:taxon:1f65a29a228f44a7edfb6e77a48c6095,"Coccus longulus (Douglas, 1887)",Animalia,SPECIES
+323330692,5384064,alien_species_cyprus:taxon:33072c540ccfc8debc7338bb14a5c1ea,Opuntia ficus-indica (L.) Mill.,Plantae,SPECIES
+323330695,9078997,alien_species_cyprus:taxon:5ce6e1d61cc895d4ec5d9c442aa5502e,"Saissetia oleae (Olivier, 1791)",Animalia,SPECIES
+323330696,7282135,alien_species_cyprus:taxon:02ddf588319e72c43ac914fe0cfc871b,Austrocylindropuntia subulata (Muehlenpf.) Backeb.,Plantae,SPECIES
+323330697,8284789,alien_species_cyprus:taxon:4bc9407ac0bde4bd4f9511a13c8a4405,"Saissetia persimilis (Newstead, 1917)",Animalia,SPECIES
+323330700,7282285,alien_species_cyprus:taxon:b4588d9ad1d3a6733e03757fba699bd6,Pachycereus pringlei (S.Watson) Britton & Rose,Plantae,SPECIES
+323330701,4484532,alien_species_cyprus:taxon:6caa55adeb83181c15b83e14a9f3403d,"Parthenolecanium persicae (Fabricius, 1776)",Animalia,SPECIES
+323330705,2092472,alien_species_cyprus:taxon:b2d36ab5518f2bcdfd3929fae028612b,"Ceroplastes floridensis Comstock, 1881",Animalia,SPECIES
+323330706,2874704,alien_species_cyprus:taxon:81ce4476e9094b06e2bb56385b3a7d71,Tamarix aphylla (L.) H.Karst.,Plantae,SPECIES
+323330707,2092339,alien_species_cyprus:taxon:9011119e21f41bc174d003bc13e7fd69,"Ceroplastes sinensis Del Guercio, 1900",Animalia,SPECIES
+323330711,8255921,alien_species_cyprus:taxon:e641ded7c6fc4acaab444a50327970b8,"Pulvinaria floccifera (Westwood, 1870)",Animalia,SPECIES
+323330712,3086240,alien_species_cyprus:taxon:f07ee394a3cebac55646777bbec312d3,Mirabilis jalapa L.,Plantae,SPECIES
+323330713,5163834,alien_species_cyprus:taxon:bd78c4b49116a70e11a1b0eda4934a0e,"Pulvinaria aurantii Cockerell, 1896",Animalia,SPECIES
+323330716,7167078,alien_species_cyprus:taxon:816aabdf5b8edd9137048526b3e6c9bf,Bougainvillea spectabilis Willd.,Plantae,SPECIES
+323330717,8198400,alien_species_cyprus:taxon:4426f84d99dc0ff16010e3f8a743d6a7,"Parasaissetia nigra (Nietner, 1861)",Animalia,SPECIES
+323330718,5384862,alien_species_cyprus:taxon:4687e77315e9faa6b28693eed09c358f,Bougainvillea glabra Choisy,Plantae,SPECIES
+323330721,2090694,alien_species_cyprus:taxon:f277b50be80a46da90df94821c9d181d,"Eulecanium tiliae (Linnaeus, 1758)",Animalia,SPECIES
+323330723,5384459,alien_species_cyprus:taxon:6224e0512200604f5e9ea934b692e205,Gypsophila pilosa Huds.,Plantae,SPECIES
+323330727,3085360,alien_species_cyprus:taxon:1600de8a7470153a7fe5cce3800b7de5,Saponaria officinalis L.,Plantae,SPECIES
+323330728,2013312,alien_species_cyprus:taxon:f361ef070fb11f0226f726050b7bbc82,"Diaphorina citri Kuwayama, 1908",Animalia,SPECIES
+323330729,3812138,alien_species_cyprus:taxon:6375d5636429ab6111d8259a28e233fc,Saponaria sicula Raf.,Plantae,SPECIES
+323330730,2013264,alien_species_cyprus:taxon:cb22c6017f55385bdb3e66788f5bd990,"Diaphorina aegyptiaca Puton, 1892",Animalia,SPECIES
+323330734,5384834,alien_species_cyprus:taxon:7d1feb2ed4eba54ccc278be44bb4397b,Silene noctiflora L.,Plantae,SPECIES
+323330735,2078090,alien_species_cyprus:taxon:3064128a6e5c29ad5dec8231cef27708,"Monellia caryella (Fitch, 1855)",Animalia,SPECIES
+323330738,3085368,alien_species_cyprus:taxon:006ac2ce2ead9cb458e9674d45a75aa4,Agrostemma githago L.,Plantae,SPECIES
+323330740,11381924,alien_species_cyprus:taxon:bb5e9e42ae176dec31894b2025c9111d,"Macrosiphum rosae (Linnaeus, 1758)",Animalia,SPECIES
+323330742,2077747,alien_species_cyprus:taxon:66e0ccb8791c5789c111da46eda94868,"Macrosiphum euphorbiae (Thomas, 1878)",Animalia,SPECIES
+323330745,2892272,alien_species_cyprus:taxon:82e6139ddebd60c2ad390f9a4ac147a2,Rubia tinctorum L.,Plantae,SPECIES
+323330746,2075813,alien_species_cyprus:taxon:c91fbcbe61d4ae581e1e1ee2aae8e26d,"Coloradoa rufomaculata (Wilson, 1908)",Animalia,SPECIES
+323330750,2076745,alien_species_cyprus:taxon:88f5de35fa4298893f37ec57b37486b9,"Aulacorthum solani (Kaltenbach, 1843)",Animalia,SPECIES
+323330751,5414420,alien_species_cyprus:taxon:26dcc610190067c219d70bc897426019,Carissa macrocarpa (Eckl.) A.DC.,Plantae,SPECIES
+323330754,2077503,alien_species_cyprus:taxon:63468becf64325f5cdecc5f66a9feb80,"Acyrthosiphon pisum (Harris, 1776)",Animalia,SPECIES
+323330755,3169830,alien_species_cyprus:taxon:342e905bf6453887dd5a5c5113ceed5a,Catharanthus roseus (L.) G.Don,Plantae,SPECIES
+323330758,2078564,alien_species_cyprus:taxon:f0fe4f5e2e691caa128c8f12ec88d5ca,"Brachycaudus cardui Linnaeus, 1758",Animalia,SPECIES
+323330759,3617571,alien_species_cyprus:taxon:7ca2f6848485571d000b4fe6394316e3,Mandevilla laxa (Ruiz & Pav.) Woodson,Plantae,SPECIES
+323330760,2078544,alien_species_cyprus:taxon:eed318350cbb044d2ebdd37a58535742,"Brachycaudus amygdalinus (Schouteden, 1905)",Animalia,SPECIES
+323330763,3169645,alien_species_cyprus:taxon:961d4f99804cff09ad336ffa53cb82df,Ochrosia elliptica Labill.,Plantae,SPECIES
+323330764,2072851,alien_species_cyprus:taxon:48ae08e6c89eae578fad1b8ec456161f,"Hyalopterus pruni (Geoffroy, 1762)",Animalia,SPECIES
+323330767,3169673,alien_species_cyprus:taxon:fd30c91aec641594ef6b51ad20689393,Plumeria alba L.,Plantae,SPECIES
+323330768,2075983,alien_species_cyprus:taxon:fa34b116e9732a30ff172c313ef684e6,"Eriosoma lanigerum (Hausmann, 1802)",Animalia,SPECIES
+323330769,3169674,alien_species_cyprus:taxon:fd9354136aa2b08225af2297bbe8b8cf,Plumeria rubra L.,Plantae,SPECIES
+323330772,2076260,alien_species_cyprus:taxon:22489b528ee554ff77a2b265703b44c0,"Chromaphis juglandicola (Kaltenbach, 1843)",Animalia,SPECIES
+323330773,3169652,alien_species_cyprus:taxon:e21b5ce41cdeb6dbfdb0e5539ae72e79,Cascabela thevetia (L.) Lippold,Plantae,SPECIES
+323330776,2074970,alien_species_cyprus:taxon:591c36985f0ac101a502d0680b560fca,"Macrosiphoniella aktaschica Nevsky, 1929",Animalia,SPECIES
+323330777,9462513,alien_species_cyprus:taxon:1825e251db639f3e4b565f5650171c77,Ceropegia pulvinata (Masson) Bruyns,Plantae,SPECIES
+323330778,2074978,alien_species_cyprus:taxon:ca7895d2b7464648180e6eb405b5b938,"Macrosiphoniella sanborni (Gillette, 1908)",Animalia,SPECIES
+323330781,3170241,alien_species_cyprus:taxon:df8a9f91a9e1de331ec8514b155334e1,Asclepias curassavica L.,Plantae,SPECIES
+6259867,2077940,alien_species_cyprus:taxon:9f02f4657620edeb43ae1d1a56b52f25,"Wahlgreniella nervata arbuti (Davidson, 1910)",Animalia,SUBSPECIES
+323330783,3170247,alien_species_cyprus:taxon:a75a5b3dd389493da0a2d178ed1d304c,Asclepias syriaca L.,Plantae,SPECIES
+323330786,2072474,alien_species_cyprus:taxon:7fa8790aa7509de606efd9cec225da88,"Aphis illinoisensis Shimer, 1866",Animalia,SPECIES
+323330787,2072196,alien_species_cyprus:taxon:1a3f98c6a503b8758baf417ee2cf7515,"Aphis nerii Boyer de Fonscolombe, 1841",Animalia,SPECIES
+323330788,3169708,alien_species_cyprus:taxon:1fe120b74b1cb688127e61497802ad10,Vinca major L.,Plantae,SPECIES
+323330789,9083295,alien_species_cyprus:taxon:3dad9fd487f9fe926c90e99cab9fd614,"Aphis gossypii Glover, 1877",Animalia,SPECIES
+323330791,2072061,alien_species_cyprus:taxon:b367fdf166874416658561cbbb1088c5,"Aphis craccivora Koch, 1854",Animalia,SPECIES
+323330792,7150619,alien_species_cyprus:taxon:f1ef733fb9a756c52d4acaa19e71cf0a,Gomphocarpus fruticosus (L.) W.T.Aiton,Plantae,SPECIES
+323330793,2072761,alien_species_cyprus:taxon:c33257d5d5efa7bca9d1de2f62d90f07,"Aphis spiraecola Patch, 1914",Animalia,SPECIES
+323330795,4485136,alien_species_cyprus:taxon:7de9990c81395aa30fc34f68613854b2,"Aphis aurantii Boyer de Fonscolombe, 1841",Animalia,SPECIES
+323330796,3573314,alien_species_cyprus:taxon:d531436b47ad77ea6d3f0066149383c1,Stephanotis floribunda Brongn.,Plantae,SPECIES
+323330799,2069529,alien_species_cyprus:taxon:d9849b16742c1a236cd792937380da7a,"Rhopalosiphum rufiabdominale (Sasaki, 1899)",Animalia,SPECIES
+323330800,7811110,alien_species_cyprus:taxon:00367fd5d38dcc638fab2871edc59def,Parsonsia lanceolata R.Br.,Plantae,SPECIES
+323330801,2069572,alien_species_cyprus:taxon:39791e31eef6b003238dd5eb8b80615d,"Rhopalosiphum maidis (Fitch, 1856)",Animalia,SPECIES
+323330805,2076179,alien_species_cyprus:taxon:8b9920b614b15a580e494288c8d9dd51,"Myzus persicae (Sulzer, 1776)",Animalia,SPECIES
+323330808,3054289,alien_species_cyprus:taxon:a46a042fa3b9f053ee00d4b7a68434b8,Carya illinoinensis (Wangenh.) K.Koch,Plantae,SPECIES
+323330809,2077967,alien_species_cyprus:taxon:7300964d8bb2b1e7bcdf8c5065cc8a5a,"Pterochloroides persicae (Cholodkovsky, 1898)",Animalia,SPECIES
+323330813,2075500,alien_species_cyprus:taxon:b7953da721d395005ffcc7ea97af0e3f,"Panaphis juglandis (Goeze, 1778)",Animalia,SPECIES
+323330814,2876049,alien_species_cyprus:taxon:f4123d6a77bd8cfd88adf9475aec6142,Corylus maxima Mill.,Plantae,SPECIES
+323330816,2875979,alien_species_cyprus:taxon:4e38e77ece63bc7c32962111da90caf3,Corylus avellana L.,Plantae,SPECIES
+323330817,2074696,alien_species_cyprus:taxon:0c83c648910b019021f0669f20e848b4,"Illinoia azaleae (Mason, 1925)",Animalia,SPECIES
+323330820,5331916,alien_species_cyprus:taxon:799a49ee048651a41498ad5c116a0643,Betula pendula Roth,Plantae,SPECIES
+323330822,2076486,alien_species_cyprus:taxon:03fefa79b4093b9a46df581d36be1a94,"Chaetosiphon fragaefolii (Cockerell, 1901)",Animalia,SPECIES
+323330826,5333294,alien_species_cyprus:taxon:d677f2eea6aa7bb7d21e62081a83c042,Castanea sativa Mill.,Plantae,SPECIES
+323330830,2879098,alien_species_cyprus:taxon:3a9bc379262ddabb220f760ec5aefc35,Quercus ilex L.,Plantae,SPECIES
+323330832,2880808,alien_species_cyprus:taxon:77e4d8e70798bafafae3e787039e8fbe,Quercus canariensis Willd.,Plantae,SPECIES
+323330833,8387962,alien_species_cyprus:taxon:e26099ef3376a2f0b37eb3b57558e2ca,"Lepidosaphes ulmi (Linnaeus, 1758)",Animalia,SPECIES
+323330834,2878325,alien_species_cyprus:taxon:bcdb1d86870dc8f03fbb9465d821cc0c,Quercus ithaburensis subsp. macrolepis (Kotschy) Hedge & Yalt.,Plantae,SUBSPECIES
+323330835,8601193,alien_species_cyprus:taxon:393a28a1a3a8745f8517c14359a95df6,"Lepidosaphes conchiformis (Gmelin, 1790)",Animalia,SPECIES
+323330836,2879411,alien_species_cyprus:taxon:903230b5801b58df4fff8999e8bc3528,Quercus suber L.,Plantae,SPECIES
+323330837,2089006,alien_species_cyprus:taxon:2c5328d61de228952ea8e8d0565bba6f,"Lepidosaphes beckii (Newman, 1869)",Animalia,SPECIES
+323330838,2878213,alien_species_cyprus:taxon:0998702f93971e3e7ba61f1d2da52c4e,Quercus macrocarpa Michx.,Plantae,SPECIES
+323330840,2878688,alien_species_cyprus:taxon:0032c560de14efbf569a60ff3d84df86,Quercus robur L.,Plantae,SPECIES
+323330841,8321970,alien_species_cyprus:taxon:9bd32aee63ca007910169929c305a715,"Pseudaulacaspis pentagona (Targioni Tozzetti, 1886)",Animalia,SPECIES
+323330845,5161787,alien_species_cyprus:taxon:a3cd89aafc3a1dd530dc14458c3a0040,"Aspidiotus nerii Bouche, 1833",Animalia,SPECIES
+323330846,2891902,alien_species_cyprus:taxon:9e2876c75823ee5355d2c91408f6f252,Allocasuarina verticillata (Lam.) L.A.S.Johnson,Plantae,SPECIES
+323330847,5161715,alien_species_cyprus:taxon:14f9cdc7280e314a84698eb44afea35b,"Aspidiotus myrthi Bouche, 1851",Animalia,SPECIES
+323330850,2891930,alien_species_cyprus:taxon:367dc84e4c2724e05e7ce720f4235dff,Casuarina equisetifolia L.,Plantae,SPECIES
+323330851,5162255,alien_species_cyprus:taxon:72a28877c35305cee9bf6529871375e0,"Parlatoria pergandii Comstock, 1881",Animalia,SPECIES
+323330852,7417428,alien_species_cyprus:taxon:aa9f877c67f53b59954175cffaf9133e,Casuarina glauca Sieber,Plantae,SPECIES
+323330853,8416592,alien_species_cyprus:taxon:26dd6e2b4167ea0a44269d1b04414334,"Parlatoria ziziphi (Lucas, 1853)",Animalia,SPECIES
+323330854,2891932,alien_species_cyprus:taxon:0011a330652fe0d2f1a1824432e2b3dc,Casuarina cunninghamiana Miq.,Plantae,SPECIES
+323330856,2087616,alien_species_cyprus:taxon:5b8cf2589092a6c7c9eb5c914fd34c7c,"Aulacaspis yasumatsui Takagi, 1977",Animalia,SPECIES
+323330858,2083970,alien_species_cyprus:taxon:a57688b9237f4f3ad841463b5086c90c,"Hemiberlesia lataniae (Signoret, 1869)",Animalia,SPECIES
+323330859,7936811,alien_species_cyprus:taxon:0358e321e3acc2710cc396dccc307e56,"Hemiberlesia rapax (Comstock, 1881)",Animalia,SPECIES
+323330860,2083914,alien_species_cyprus:taxon:340359c79c009eeac17e6a5a6dff9f5f,"Hemiberlesia palmae (Cockerell, 1893)",Animalia,SPECIES
+323330862,4290201,alien_species_cyprus:taxon:67170b5b461fff2728534016f289ad9f,"Pinnaspis aspidistrae (Signoret, 1869)",Animalia,SPECIES
+323330864,9198247,alien_species_cyprus:taxon:b0de09d041f7631c2535a7663626a3f6,"Aonidiella aurantii (Maskell, 1879)",Animalia,SPECIES
+323330865,8194699,alien_species_cyprus:taxon:fd901e391b6f8cfcebcb17d1e4d54f27,"Aonidiella citrina (Coquillett, 1891)",Animalia,SPECIES
+323330867,8026254,alien_species_cyprus:taxon:02916f3769de32bc11b7ea84a71cb510,"Chrysomphalus aonidum (Linnaeus, 1758)",Animalia,SPECIES
+323330869,2087440,alien_species_cyprus:taxon:612a438bb988fb87e6400747b446847c,"Diaspis echinocacti (Bouché, 1833)",Animalia,SPECIES
+323330872,2096154,alien_species_cyprus:taxon:fdd84b14b2667f350c9a709edd55c453,"Phenacoccus solenopsis Tinsley, 1898",Animalia,SPECIES
+323330873,2096180,alien_species_cyprus:taxon:a01a54fdd0e96cc0ec22f7351bb8290a,"Phenacoccus madeirensis Green, 1923",Animalia,SPECIES
+323330875,5164206,alien_species_cyprus:taxon:7668118a47fe8447547aafc88834b109,"Planococcus citri (Risso, 1813)",Animalia,SPECIES
+323330876,5164224,alien_species_cyprus:taxon:0da6444dd64ec4011c85e62acbe0cbb4,"Planococcus vovae (Nasonov, 1909)",Animalia,SPECIES
+323330878,2094191,alien_species_cyprus:taxon:0d1b4e92bce1ed4cd67a51b3ca7f8178,"Maconellicoccus hirsutus (Green, 1908)",Animalia,SPECIES
+323330880,8294966,alien_species_cyprus:taxon:aaf139503048c53e9468e0d02617e7fd,"Pseudococcus viburni (Signoret, 1875)",Animalia,SPECIES
+323330883,2013328,alien_species_cyprus:taxon:1b2192e4aecac3d491ceb399594dd5d8,"Blastopsylla occidentalis Taylor, 1985",Animalia,SPECIES
+323330885,9389481,alien_species_cyprus:taxon:9932e82fbeaa93916e78634a5608cace,"Platyobria biemani Burckhardt, Queiroz & Malenovský, 2014",Animalia,SPECIES
+323330887,2013501,alien_species_cyprus:taxon:cb5d5f1344cdf1f75f4f76cc6b10bdd8,"Glycaspis brimblecombei Moore, 1964",Animalia,SPECIES
+323330890,4486361,alien_species_cyprus:taxon:3442b72bc566dd9c9897fc895200ef46,"Nysius cymoides (Spinola, 1837)",Animalia,SPECIES
+323330893,2090105,alien_species_cyprus:taxon:d8363f91853caca6588f66ca25671120,"Dactylopius coccus Costa, 1829",Animalia,SPECIES
+323330894,2090121,alien_species_cyprus:taxon:7677b499eb4da8fc7c8e9a5522ccfdd1,"Dactylopius opuntiae (Cockerell, 1896)",Animalia,SPECIES
+323330897,2026799,alien_species_cyprus:taxon:ebfbcf366ff66311622c777fa35a0a2a,"Edwardsiana platanicola (Vidano, 1961)",Animalia,SPECIES
+323330898,2026946,alien_species_cyprus:taxon:228e3550deb353a3cf549e9372770f1a,"Edwardsiana tshinari Zakhvatkin, 1947",Animalia,SPECIES
+323330900,2032409,alien_species_cyprus:taxon:bed31d4825f5cb8b15477bd543a0d136,"Jacobiasca libyca (Bergevin & Zanon, 1922)",Animalia,SPECIES
+323330902,2044198,alien_species_cyprus:taxon:3eaaae9358ae9f6b13a0538fc8c0f509,"Balclutha incisa (Matsumura, 1902)",Animalia,SPECIES
+323330905,2078857,alien_species_cyprus:taxon:51beb1cb7ea1aa98005c44bb85bbdfb5,"Andrallus spinidens (Fabricius, 1787)",Animalia,SPECIES
+323330908,4391826,alien_species_cyprus:taxon:71b4ebff390122bf669164514bb38484,"Nemausus sordidatus (Stål, 1858)",Animalia,SPECIES
+323330911,2010931,alien_species_cyprus:taxon:caccc285352f1c8aab1204693551885c,"Taylorilygus apicalis (Fieber, 1861)",Animalia,SPECIES
+323330913,2009189,alien_species_cyprus:taxon:5ef6d145d8aff547782a8c037c3a2272,"Nesidiocoris tenuis (Reuter, 1895)",Animalia,SPECIES
+323330916,2012147,alien_species_cyprus:taxon:106f69467c24eaa17bd98dbacf894293,"Parabemisia myricae (Kuwana, 1927)",Animalia,SPECIES
+323330918,4484268,alien_species_cyprus:taxon:180ca3019284916235d99b40f45def1e,"Paraleyrodes minei Iaccarino, 1990",Animalia,SPECIES
+323330920,4484237,alien_species_cyprus:taxon:7eddc72d1f182767a6b080d90b4d1a1f,"Acaudaleyrodes rachipora (Singh, 1931)",Animalia,SPECIES
+323330922,2012126,alien_species_cyprus:taxon:64483fdc1b6e98db10d4a7dd179b5bde,"Bemisia tabaci (Gennadius, 1889)",Animalia,SPECIES
+323330924,4484277,alien_species_cyprus:taxon:d04b88c07cbb0757ba1a447095713f66,"Aleurolobus marlatti (Quaintance, 1903)",Animalia,SPECIES
+323330926,8294603,alien_species_cyprus:taxon:91645662650ecb95e2421a32d920802f,"Singhiella simplex (Singh, 1931)",Animalia,SPECIES
+323330928,2012142,alien_species_cyprus:taxon:f5ee3ad97ab2c7fee51499790bf38050,"Dialeurodes kirkaldyi (Kotinsky, 1907)",Animalia,SPECIES
+323330930,2012137,alien_species_cyprus:taxon:3cf980aeac98c6d1a80427afad987e58,"Aleurothrixus floccosus (Maskell, 1896)",Animalia,SPECIES
+323330933,2080592,alien_species_cyprus:taxon:91be4e91af82d0cdd7dea96d2889908c,"Icerya purchasi Maskell, 1879",Animalia,SPECIES
+323330934,4484675,alien_species_cyprus:taxon:6dbd8d739b225d65c3c2801f79015105,"Icerya seychellarum (Westwood, 1855)",Animalia,SPECIES
+323330937,2008840,alien_species_cyprus:taxon:4fb9096f200a5b24383fa49f4b6107eb,"Zelus renardii Kolenati, 1857",Animalia,SPECIES
+323330939,5152566,alien_species_cyprus:taxon:a59134680a1106f60ff8854316b91da2,"Ploiaria chilensis (Philippi, 1862)",Animalia,SPECIES
+323330942,5156102,alien_species_cyprus:taxon:9eac89b53b072c9d7774bf9a9c5aeb7b,"Leptoglossus occidentalis Heidemann, 1910",Animalia,SPECIES
+323330945,2012298,alien_species_cyprus:taxon:32098b47b301dd0f9d764052e1445c4c,"Thaumastocoris peregrinus D.L.Carpintero & Dellapé, 2006",Animalia,SPECIES
+323330948,2020879,alien_species_cyprus:taxon:311b9a100a60a942ffcfeddac629541d,"Lyctocoris campestris (Fabricius, 1794)",Animalia,SPECIES
+323330951,5153780,alien_species_cyprus:taxon:609e61575713a09c4635434382ab9167,"Trioza brevigenae Mathur, 1973",Animalia,SPECIES
+323330954,2007964,alien_species_cyprus:taxon:0e730882b0bc27e5932ab28985d72e40,"Tempyra biguttula Stal, 1874",Animalia,SPECIES
+323330957,7904140,alien_species_cyprus:taxon:3b37029d010c17d09b6c1765b8379343,"Macrohomotoma gladiata Kuwayama, 1908",Animalia,SPECIES
+323330964,1625561,alien_species_cyprus:taxon:a2f2c209c4840e40bba4515936a09103,"Dacus ciliatus Loew, 1862",Animalia,SPECIES
+9256331,4515989,alien_species_cyprus:taxon:da1f6c3da0c92b706cb99fd19e38a182,"Carpomya pardalina (Bigot, 1891)",Animalia,SPECIES
+323330968,1626096,alien_species_cyprus:taxon:7923ce5709f48948e2490a83afac3d80,"Ceratitis capitata (Wiedemann, 1824)",Animalia,SPECIES
+323330971,5073820,alien_species_cyprus:taxon:dc762564682c47f2847d24a57ce367ff,"Drosophila suzukii (Matsumura, 1931)",Animalia,SPECIES
+323330972,5073802,alien_species_cyprus:taxon:a4b61f9807f75e5447649ab0b57c091c,"Drosophila repleta Wollaston, 1858",Animalia,SPECIES
+323330973,5073713,alien_species_cyprus:taxon:411ca2b8d6f86eaa7605b252aee8c474,"Drosophila melanogaster Meigen, 1830",Animalia,SPECIES
+323330975,1557446,alien_species_cyprus:taxon:d50662e07882e3da992ba0dc53f14986,"Zaprionus indianus Gupta, 1970",Animalia,SPECIES
+323330976,1557461,alien_species_cyprus:taxon:a5037280059b0fdd5fdd70616bebf3c2,"Zaprionus ghesquierei Collart, 1937",Animalia,SPECIES
+323330977,1557426,alien_species_cyprus:taxon:89eb0819fd13a59baf52d1d2318ec37b,"Zaprionus tuberculatus Malloch, 1932",Animalia,SPECIES
+323330980,1548900,alien_species_cyprus:taxon:f49abe7885d3e012982abdcf7410891b,"Dohrniphora cornuta (Bigot, 1857)",Animalia,SPECIES
+323330983,1577153,alien_species_cyprus:taxon:5ba33fd0c105b8a8979325639515ce8d,"Hermetia illucens (Linnaeus, 1758)",Animalia,SPECIES
+323330986,1651891,alien_species_cyprus:taxon:d8bc21210e5e36023361c156a4003e1a,"Aedes aegypti (Linnaeus, 1762)",Animalia,SPECIES
+323330987,1651430,alien_species_cyprus:taxon:cdd5486de685ce6d56cbd6771e6bc87f,"Aedes albopictus (Skuse, 1894)",Animalia,SPECIES
+323330990,1539322,alien_species_cyprus:taxon:335777362fafdaccda5abadb893865b3,"Pseudodoros nigricollis Becker, 1903",Animalia,SPECIES
+323330993,1530777,alien_species_cyprus:taxon:8236ead57ed4858be1c54dee8d456a6b,"Atherigona orientalis Schiner, 1868",Animalia,SPECIES
+323330996,5059806,alien_species_cyprus:taxon:d518c69948a1bba1f632bc925b1de7b1,"Trichopoda pictipennis Bigot, 1876",Animalia,SPECIES
+323330999,1589999,alien_species_cyprus:taxon:f6d8350d64fba39f6ae9a249e8664e8d,"Trachyopella straminea Roháček & Marshall, 1985",Animalia,SPECIES
+323331002,5082263,alien_species_cyprus:taxon:774d7d00a7c11a84e8c50481df45df80,"Contarinia citri Barnes, 1944",Animalia,SPECIES
+9341614,1593181,alien_species_cyprus:taxon:b4ac5e7c048793cb1bea4967d75b89d1,"Cupressatia siskiyou (Felt, 1917)",Animalia,SPECIES
+323331007,1553384,alien_species_cyprus:taxon:4c6536279796cad3dd273e946edb5722,"Liriomyza trifolii (Burgess, 1880)",Animalia,SPECIES
+323331008,1553410,alien_species_cyprus:taxon:ada64305683b178753715f41ecace11b,"Liriomyza huidobrensis (Blanchard, 1926)",Animalia,SPECIES
+323331011,1494255,alien_species_cyprus:taxon:56ac0ebacb1fde2ee7114dfb7c3f7ac6,"Atylotus agrestis (Wiedemann, 1828)",Animalia,SPECIES
+323331013,1499292,alien_species_cyprus:taxon:097b36445d8b4f125d66cc89ff052a20,"Tabanus gratus Loew, 1858",Animalia,SPECIES
+323331018,2115724,alien_species_cyprus:taxon:0ee1de60004f746fe251abe3db5815a4,"Balanus trigonus Darwin, 1854",Animalia,SPECIES
+323331023,1017419,alien_species_cyprus:taxon:f0ba58ac292112f4337a895889c6fc07,"Oxidus gracilis (C.L.Koch, 1847)",Animalia,SPECIES
+323331028,2128603,alien_species_cyprus:taxon:987b5ace7ed8ee14ae29cce6244837d2,"Phyllocoptruta oleivora (Ashmead, 1879)",Animalia,SPECIES
+323331030,2128536,alien_species_cyprus:taxon:070d42ed16e18f6bfff1f4f10a11d6d0,"Aculops lycopersici (Tryon, 1917)",Animalia,SPECIES
+9787222,4544753,alien_species_cyprus:taxon:7b174363c75209d103ccf0a94791583d,"Eriophyes loewi (Nalepa, 1890)",Animalia,SPECIES
+323331036,2131090,alien_species_cyprus:taxon:b2a66459c52c1e795110a79943d63a63,"Brevipalpus obovatus Donnadieu, 1875",Animalia,SPECIES
+323331037,2130874,alien_species_cyprus:taxon:3bba28710440c071fb342a3c570f39a8,"Brevipalpus californicus (Banks, 1904)",Animalia,SPECIES
+323331041,2157245,alien_species_cyprus:taxon:ea53459c1f39666102d74bfd7b3e49cb,"Steatoda grossa (C.L.Koch, 1838)",Animalia,SPECIES
+323331044,2134305,alien_species_cyprus:taxon:f3d7bdd00758243429fdb5ebd5878326,"Ostearius melanopygius (O.Pickard-Cambridge, 1880)",Animalia,SPECIES
+323331046,2138649,alien_species_cyprus:taxon:d398292f0a1452c8221394160b70f8af,"Mermessus denticulatus (Banks, 1898)",Animalia,SPECIES
+323331049,2149937,alien_species_cyprus:taxon:fd17df78baf3305dfa8f83178cd9b570,"Pholcus phalangioides (Fuesslin, 1775)",Animalia,SPECIES
+323331052,2169064,alien_species_cyprus:taxon:7952eabdf9f9b16c4fb584f6dbf144d7,"Menemerus bivittatus (Dufour, 1831)",Animalia,SPECIES
+323331054,2171214,alien_species_cyprus:taxon:6b55ee7cd04dbbc71b04f89d78270b35,"Plexippus paykulli (Audouin, 1826)",Animalia,SPECIES
+323331057,5170652,alien_species_cyprus:taxon:c07cfb5c9aa0e23919c32d1cae4b2c68,"Loxosceles rufescens (Dufour, 1820)",Animalia,SPECIES
+2187559,4548429,alien_species_cyprus:taxon:9304250a1dd9cc89fcb8e79f1cb725ae,"Neoseiulus californicus (McGregor, 1954)",Animalia,SPECIES
+323331063,2186348,alien_species_cyprus:taxon:5fe08ac41c348f323f10665ff64926b3,"Phytoseiulus persimilis Athias-Henriot, 1957",Animalia,SPECIES
+323331067,2184918,alien_species_cyprus:taxon:08cc11631cea28fa1c8f5b450431604c,"Argas persicus Oken, 1818",Animalia,SPECIES
+323331070,4548112,alien_species_cyprus:taxon:f1630d3d177a0eb66d3e35560da8a782,"Hyalomma anatolicum Koch, 1844",Animalia,SPECIES
+323331071,2182943,alien_species_cyprus:taxon:e25fd402b97458813ed96b5d7f2f98de,"Hyalomma aegyptium Linnaeus, 1758",Animalia,SPECIES
+323331072,4548126,alien_species_cyprus:taxon:c4a66f70ea36f2d432b83eaf50081ea6,"Hyalomma marginatum C.L.Koch, 1844",Animalia,SPECIES
+323331076,2129393,alien_species_cyprus:taxon:18949c16d0b3c9271ec19d8fa49a4cec,"Eutetranychus orientalis (Klein, 1936)",Animalia,SPECIES
+323331079,2128486,alien_species_cyprus:taxon:3203d75da9632b362abc9bb848df7632,"Epitrimerus pyri (Nalepa, 1891)",Animalia,SPECIES
+323331083,2129330,alien_species_cyprus:taxon:672183224fa0733fe0d81d1b42c3b820,"Panonychus citri (McGregor, 1916)",Animalia,SPECIES
+323331088,4316681,alien_species_cyprus:taxon:e9966bbf7d107f33e0f1d4d5770af4cb,"Erugosquilla massavensis (Kossmann, 1880)",Animalia,SPECIES
+323331092,2206602,alien_species_cyprus:taxon:4e5bc78ce3cb2c51ba1ff33cbb4b9bdc,"Paracerceis sculpta (Holmes, 1904)",Animalia,SPECIES
+323331094,5176612,alien_species_cyprus:taxon:5a6624fff8c22ddd9c2bb2c975c5166f,"Paradella dianae (Menzies, 1962)",Animalia,SPECIES
+323331097,2213325,alien_species_cyprus:taxon:6357ae8313ca79f6a658199c282ff927,"Metacirolana rotunda (Bruce & Jones, 1978)",Animalia,SPECIES
+323331100,2212718,alien_species_cyprus:taxon:ff81f1b3a86e492246e71363350ff598,"Apanthura addui Wägele, 1981",Animalia,SPECIES
+323331102,2212511,alien_species_cyprus:taxon:adf68ed5b728dc71a056cb4184ca68a1,"Mesanthura romulea Poore & Lew Ton, 1986",Animalia,SPECIES
+323331106,8038632,alien_species_cyprus:taxon:c26fb6860191a407a881e7d977dbfa28,"Ampithoe bizseli Özaydinli & Coleman, 2012",Animalia,SPECIES
+323331109,9192175,alien_species_cyprus:taxon:8c4cec78960a73433eabe3c121b81bb4,"Linguimaera caesaris Krapp-Schickel, 2003",Animalia,SPECIES
+323331113,2221687,alien_species_cyprus:taxon:30033c062432a5043b98c77265f9f687,"Scyllarus caparti Holthuis, 1952",Animalia,SPECIES
+323331116,2227756,alien_species_cyprus:taxon:74f63469b98712d12c29341fe8cfd8a7,"Atergatis roseus (Rüppell, 1830)",Animalia,SPECIES
+323331119,5799065,alien_species_cyprus:taxon:c54e9fc9643aa6d2867e69a8632716e2,"Matuta victor (Fabricius, 1781)",Animalia,SPECIES
+323331122,4644973,alien_species_cyprus:taxon:d530fc5b346b22fae2f689c200d60448,"Pilumnopeus vauquelini (Audouin, 1826)",Animalia,SPECIES
+323331125,5863622,alien_species_cyprus:taxon:1f7f2dcf72348c5a069117f6d5f973cd,"Portunus segnis (Forskål, 1775)",Animalia,SPECIES
+323331127,2225632,alien_species_cyprus:taxon:f58cd75bc9aba169d7aba933e15de59a,"Charybdis hellerii (A.Milne-Edwards, 1867)",Animalia,SPECIES
+323331128,2225631,alien_species_cyprus:taxon:518bbc1ca4c93370281b64317ade3329,"Charybdis longicollis Leene, 1938",Animalia,SPECIES
+323331130,2225568,alien_species_cyprus:taxon:cb6944f31c70094f3e49ef78bb6fc642,"Carupa tenuipes Dana, 1852",Animalia,SPECIES
+323331132,4307290,alien_species_cyprus:taxon:24fa8cf6ce43e746c674868d0ba44edd,"Thalamita poissonii (Audouin, 1826)",Animalia,SPECIES
+323331134,2225646,alien_species_cyprus:taxon:e4427930550df142ab1c33d646f8a78c,"Callinectes sapidus Rathbun, 1896",Animalia,SPECIES
+323331136,9265672,alien_species_cyprus:taxon:dc1a4d1734c61a0b95fbe3fe9f16ebd5,"Gonioinfradens giardi (Nobili, 1905)",Animalia,SPECIES
+323331139,2227300,alien_species_cyprus:taxon:086d110e6a8d268059862c1ccdccebe4,"Procambarus clarkii (Girard, 1852)",Animalia,SPECIES
+323331142,4310260,alien_species_cyprus:taxon:c9855d33676955f9529fac7148bedc98,"Urocaridella pulchella Yokes & Galil, 2006",Animalia,SPECIES
+323331145,7808450,alien_species_cyprus:taxon:810e5b5d511e5c2f97d5028ee068260a,"Macrophthalmus indicus Davie, 2012",Animalia,SPECIES
+323331148,2225783,alien_species_cyprus:taxon:0d68d876a481c28f647f66a31c914495,"Percnon gibbesi (H.Milne Edwards, 1853)",Animalia,SPECIES
+323331151,4382701,alien_species_cyprus:taxon:2bb7f1a70a3891f3947f39217c701420,"Myra subgranulata Kossmann, 1877",Animalia,SPECIES
+323331153,4382698,alien_species_cyprus:taxon:922fb3446eb008d02f7dc3f64967b4f7,"Ixa monodi Holthuis & Gottlieb, 1956",Animalia,SPECIES
+323331155,4382675,alien_species_cyprus:taxon:541353801f1ac7e312ab385edc6c1415,"Coleusia signata (Paulson, 1875)",Animalia,SPECIES
+323331158,2226385,alien_species_cyprus:taxon:497459c5b9eeaa02217ddd109bf72429,"Saron marmoratus (Olivier, 1811)",Animalia,SPECIES
+323331161,2223595,alien_species_cyprus:taxon:64611cab453919d22be2790f35c0e3df,"Metapenaeopsis aegyptia Galil & Golani, 1990",Animalia,SPECIES
+323331163,2223754,alien_species_cyprus:taxon:532aabd457907bc9cafb71b245c51648,"Metapenaeus monoceros (Fabricius, 1798)",Animalia,SPECIES
+323331165,4645934,alien_species_cyprus:taxon:aa8e52524d9328d383a9409e4b857e75,"Penaeus pulchricaudatus Stebbing, 1914",Animalia,SPECIES
+323331166,2223416,alien_species_cyprus:taxon:002d937e875e8cb87037a6234976409f,"Penaeus semisulcatus De Haan, 1844",Animalia,SPECIES
